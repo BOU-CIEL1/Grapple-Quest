@@ -7,7 +7,7 @@ public class Mouvements : MonoBehaviour
 {
     // Réglages accessibles dans l'Inspecteur Unity, avec une valeur minimale de zéro.
     [SerializeField, Min(0f)] private float vitesseDeplacement = 5f;
-    [SerializeField, Min(0f)] private float vitesseSaut = 10f;
+    [SerializeField, Min(0f)] private float vitesseSaut = 5f;
 
     // Référence au composant qui gère la physique du personnage.
     private Rigidbody2D corps;

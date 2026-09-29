@@ -790,7 +790,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   vitesseDeplacement: 5
-  vitesseSaut: 10
+  vitesseSaut: 5
 --- !u!212 &1232562690
 SpriteRenderer:
   serializedVersion: 2
