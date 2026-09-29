@@ -25,7 +25,7 @@ public class Mouvements : MonoBehaviour
         // Empêche le personnage de basculer, tout en conservant les autres contraintes.
         corps.constraints |= RigidbodyConstraints2D.FreezeRotation;
     }
-
+ 
     // Lit les touches à chaque image pour détecter même les appuis courts.
     private void Update()
     {
