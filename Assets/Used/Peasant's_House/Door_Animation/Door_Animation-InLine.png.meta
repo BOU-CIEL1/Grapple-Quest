@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: f6b03aed1a0ed9f4ebbfd6890c0fb136
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6677184676404443704
+    second: Door_Animation-InLine_0
+  - first:
+      213: 3971786933576667732
+    second: Door_Animation-InLine_1
+  - first:
+      213: 4940102897309554484
+    second: Door_Animation-InLine_2
+  - first:
+      213: -4941383735905909428
+    second: Door_Animation-InLine_3
+  - first:
+      213: -7846530821571370339
+    second: Door_Animation-InLine_4
+  - first:
+      213: 4759655918931736701
+    second: Door_Animation-InLine_5
+  - first:
+      213: -3003433610446490279
+    second: Door_Animation-InLine_6
+  - first:
+      213: 7172467543685742444
+    second: Door_Animation-InLine_7
+  - first:
+      213: -6352074588173203493
+    second: Door_Animation-InLine_8
+  - first:
+      213: 9149931526558704225
+    second: Door_Animation-InLine_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Door_Animation-InLine_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 146
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c54b3ff9efd553a0800000000000000
+      internalID: -6677184676404443704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door_Animation-InLine_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45210633c2f9e1730800000000000000
+      internalID: 3971786933576667732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door_Animation-InLine_2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437930c4965ce8440800000000000000
+      internalID: 4940102897309554484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door_Animation-InLine_3
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 0
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c458f6a3cadac6bb0800000000000000
+      internalID: -4941383735905909428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door_Animation-InLine_4
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92a51d5ac58b1390800000000000000
+      internalID: -7846530821571370339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door_Animation-InLine_5
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 0
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78f20d27d1bd0240800000000000000
+      internalID: 4759655918931736701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door_Animation-InLine_6
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 0
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9553ede4b09a156d0800000000000000
+      internalID: -3003433610446490279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door_Animation-InLine_7
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 0
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f3868ca39b98360800000000000000
+      internalID: 7172467543685742444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door_Animation-InLine_8
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 0
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7862911d5e8d7a0800000000000000
+      internalID: -6352074588173203493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door_Animation-InLine_9
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 0
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162eda7be361bfe70800000000000000
+      internalID: 9149931526558704225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Door_Animation-InLine_0: -6677184676404443704
+      Door_Animation-InLine_1: 3971786933576667732
+      Door_Animation-InLine_2: 4940102897309554484
+      Door_Animation-InLine_3: -4941383735905909428
+      Door_Animation-InLine_4: -7846530821571370339
+      Door_Animation-InLine_5: 4759655918931736701
+      Door_Animation-InLine_6: -3003433610446490279
+      Door_Animation-InLine_7: 7172467543685742444
+      Door_Animation-InLine_8: -6352074588173203493
+      Door_Animation-InLine_9: 9149931526558704225
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

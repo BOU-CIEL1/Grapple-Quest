@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 79babe5b617e48545849c28a109c7f88
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2157873507290828110
+    second: Window_Animation-InLine_0
+  - first:
+      213: -8308066044260338552
+    second: Window_Animation-InLine_1
+  - first:
+      213: -4540184181714291540
+    second: Window_Animation-InLine_2
+  - first:
+      213: -6956770395026423551
+    second: Window_Animation-InLine_3
+  - first:
+      213: -5708966267311244835
+    second: Window_Animation-InLine_4
+  - first:
+      213: 6822882842778808084
+    second: Window_Animation-InLine_5
+  - first:
+      213: -6863888626090324219
+    second: Window_Animation-InLine_6
+  - first:
+      213: -513411084544622321
+    second: Window_Animation-InLine_7
+  - first:
+      213: 8330760740540177547
+    second: Window_Animation-InLine_8
+  - first:
+      213: -4246887387499897987
+    second: Window_Animation-InLine_9
+  - first:
+      213: -7389226930028208404
+    second: Window_Animation-InLine_10
+  - first:
+      213: 6027618082746022406
+    second: Window_Animation-InLine_11
+  - first:
+      213: -4155222357243474770
+    second: Window_Animation-InLine_12
+  - first:
+      213: 4497634760857779683
+    second: Window_Animation-InLine_13
+  - first:
+      213: -1109519583365562767
+    second: Window_Animation-InLine_14
+  - first:
+      213: -5218573791190241553
+    second: Window_Animation-InLine_15
+  - first:
+      213: 1814622728325685025
+    second: Window_Animation-InLine_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Window_Animation-InLine_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 146
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dcb40a58e42fd10800000000000000
+      internalID: 2157873507290828110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window_Animation-InLine_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884b06563f1d3bc80800000000000000
+      internalID: -8308066044260338552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window_Animation-InLine_2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4721aaa860ef0c0800000000000000
+      internalID: -4540184181714291540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window_Animation-InLine_3
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 0
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1010f7c2f26947f90800000000000000
+      internalID: -6956770395026423551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window_Animation-InLine_4
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9b9326d6da5c0b0800000000000000
+      internalID: -5708966267311244835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window_Animation-InLine_5
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 0
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f20fbdbcfbfae50800000000000000
+      internalID: 6822882842778808084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window_Animation-InLine_6
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 0
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fca0839a19eb0a0800000000000000
+      internalID: -6863888626090324219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window_Animation-InLine_7
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 0
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0148f9b65fffd8f0800000000000000
+      internalID: -513411084544622321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window_Animation-InLine_8
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 0
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cdaa851cecc9370800000000000000
+      internalID: 8330760740540177547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window_Animation-InLine_9
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 0
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b5bfa0c660015c0800000000000000
+      internalID: -4246887387499897987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window_Animation-InLine_10
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 0
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee1be6c141347990800000000000000
+      internalID: -7389226930028208404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window_Animation-InLine_11
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 0
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a3cc7e5b666a350800000000000000
+      internalID: 6027618082746022406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window_Animation-InLine_12
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 0
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaccdb9084fa556c0800000000000000
+      internalID: -4155222357243474770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window_Animation-InLine_13
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 0
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed706a4cfeca6e30800000000000000
+      internalID: 4497634760857779683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window_Animation-InLine_14
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 0
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ef72241d13a90f0800000000000000
+      internalID: -1109519583365562767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window_Animation-InLine_15
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 0
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee21fd39c6e397b0800000000000000
+      internalID: -5218573791190241553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Window_Animation-InLine_16
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 0
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fd333d1c5de2910800000000000000
+      internalID: 1814622728325685025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Window_Animation-InLine_0: 2157873507290828110
+      Window_Animation-InLine_1: -8308066044260338552
+      Window_Animation-InLine_10: -7389226930028208404
+      Window_Animation-InLine_11: 6027618082746022406
+      Window_Animation-InLine_12: -4155222357243474770
+      Window_Animation-InLine_13: 4497634760857779683
+      Window_Animation-InLine_14: -1109519583365562767
+      Window_Animation-InLine_15: -5218573791190241553
+      Window_Animation-InLine_16: 1814622728325685025
+      Window_Animation-InLine_2: -4540184181714291540
+      Window_Animation-InLine_3: -6956770395026423551
+      Window_Animation-InLine_4: -5708966267311244835
+      Window_Animation-InLine_5: 6822882842778808084
+      Window_Animation-InLine_6: -6863888626090324219
+      Window_Animation-InLine_7: -513411084544622321
+      Window_Animation-InLine_8: 8330760740540177547
+      Window_Animation-InLine_9: -4246887387499897987
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
