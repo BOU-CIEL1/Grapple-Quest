@@ -1,0 +1,2067 @@
+fileFormatVersion: 2
+guid: 114cbfa4a2ee25e45907696b44e768d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6641222868768217560
+    second: Veterans_Arsenal_Sprite_0
+  - first:
+      213: -3999731848905429857
+    second: Veterans_Arsenal_Sprite_1
+  - first:
+      213: -1036632456353961726
+    second: Veterans_Arsenal_Sprite_2
+  - first:
+      213: -8830743661791501768
+    second: Veterans_Arsenal_Sprite_3
+  - first:
+      213: -2012639745471707038
+    second: Veterans_Arsenal_Sprite_4
+  - first:
+      213: -9020955311456903022
+    second: Veterans_Arsenal_Sprite_5
+  - first:
+      213: -7748390325623234751
+    second: Veterans_Arsenal_Sprite_6
+  - first:
+      213: -4837233186193907365
+    second: Veterans_Arsenal_Sprite_7
+  - first:
+      213: -2540924875719727321
+    second: Veterans_Arsenal_Sprite_8
+  - first:
+      213: 3216730650534969790
+    second: Veterans_Arsenal_Sprite_9
+  - first:
+      213: 8265951393584214713
+    second: Veterans_Arsenal_Sprite_10
+  - first:
+      213: 3478563017709914830
+    second: Veterans_Arsenal_Sprite_11
+  - first:
+      213: 8717857670754007715
+    second: Veterans_Arsenal_Sprite_12
+  - first:
+      213: 2012410609006441489
+    second: Veterans_Arsenal_Sprite_13
+  - first:
+      213: 1899285392790468451
+    second: Veterans_Arsenal_Sprite_14
+  - first:
+      213: 7775492851042152649
+    second: Veterans_Arsenal_Sprite_15
+  - first:
+      213: -7202846696985691138
+    second: Veterans_Arsenal_Sprite_16
+  - first:
+      213: -2111721747901773346
+    second: Veterans_Arsenal_Sprite_17
+  - first:
+      213: 1105776188552876457
+    second: Veterans_Arsenal_Sprite_18
+  - first:
+      213: -7734525219992942790
+    second: Veterans_Arsenal_Sprite_19
+  - first:
+      213: 7946742456904866513
+    second: Veterans_Arsenal_Sprite_20
+  - first:
+      213: -866520337982327894
+    second: Veterans_Arsenal_Sprite_21
+  - first:
+      213: -8351044732873467994
+    second: Veterans_Arsenal_Sprite_22
+  - first:
+      213: 8433370139908505474
+    second: Veterans_Arsenal_Sprite_23
+  - first:
+      213: -5171140568137096846
+    second: Veterans_Arsenal_Sprite_24
+  - first:
+      213: 6427899758001958400
+    second: Veterans_Arsenal_Sprite_25
+  - first:
+      213: -3443355623935277656
+    second: Veterans_Arsenal_Sprite_26
+  - first:
+      213: -4643744004525983979
+    second: Veterans_Arsenal_Sprite_27
+  - first:
+      213: -7525894069137527761
+    second: Veterans_Arsenal_Sprite_28
+  - first:
+      213: -1868706536427137364
+    second: Veterans_Arsenal_Sprite_29
+  - first:
+      213: 1909940799166999919
+    second: Veterans_Arsenal_Sprite_30
+  - first:
+      213: -7721646748249590280
+    second: Veterans_Arsenal_Sprite_31
+  - first:
+      213: 1876821414217298299
+    second: Veterans_Arsenal_Sprite_32
+  - first:
+      213: 1594794230688255446
+    second: Veterans_Arsenal_Sprite_33
+  - first:
+      213: 5211070423236672237
+    second: Veterans_Arsenal_Sprite_34
+  - first:
+      213: -8530133709340128520
+    second: Veterans_Arsenal_Sprite_35
+  - first:
+      213: -726062440182263542
+    second: Veterans_Arsenal_Sprite_36
+  - first:
+      213: 1932016124681665725
+    second: Veterans_Arsenal_Sprite_37
+  - first:
+      213: 1234122140725879417
+    second: Veterans_Arsenal_Sprite_38
+  - first:
+      213: -439325512010372726
+    second: Veterans_Arsenal_Sprite_39
+  - first:
+      213: 8374294953062018995
+    second: Veterans_Arsenal_Sprite_40
+  - first:
+      213: -8817268010224632197
+    second: Veterans_Arsenal_Sprite_41
+  - first:
+      213: -1462566120886325107
+    second: Veterans_Arsenal_Sprite_42
+  - first:
+      213: 3927990408248100355
+    second: Veterans_Arsenal_Sprite_43
+  - first:
+      213: 3565457351455039863
+    second: Veterans_Arsenal_Sprite_44
+  - first:
+      213: 2857901023195899525
+    second: Veterans_Arsenal_Sprite_45
+  - first:
+      213: -8039448371073449016
+    second: Veterans_Arsenal_Sprite_46
+  - first:
+      213: 6675454534579975267
+    second: Veterans_Arsenal_Sprite_47
+  - first:
+      213: 2194889280363534682
+    second: Veterans_Arsenal_Sprite_48
+  - first:
+      213: 840075765993509018
+    second: Veterans_Arsenal_Sprite_49
+  - first:
+      213: -976095716128230610
+    second: Veterans_Arsenal_Sprite_50
+  - first:
+      213: -7967645906733098710
+    second: Veterans_Arsenal_Sprite_51
+  - first:
+      213: 4893608625965674289
+    second: Veterans_Arsenal_Sprite_52
+  - first:
+      213: -1806646096927051407
+    second: Veterans_Arsenal_Sprite_53
+  - first:
+      213: 5747825727378230620
+    second: Veterans_Arsenal_Sprite_54
+  - first:
+      213: -1924500135447737726
+    second: Veterans_Arsenal_Sprite_55
+  - first:
+      213: -2005315616479761027
+    second: Veterans_Arsenal_Sprite_56
+  - first:
+      213: -350887876190067354
+    second: Veterans_Arsenal_Sprite_57
+  - first:
+      213: -2862113937007698248
+    second: Veterans_Arsenal_Sprite_58
+  - first:
+      213: 4188169513241038756
+    second: Veterans_Arsenal_Sprite_59
+  - first:
+      213: -1371681934133388600
+    second: Veterans_Arsenal_Sprite_60
+  - first:
+      213: -256825082345216411
+    second: Veterans_Arsenal_Sprite_61
+  - first:
+      213: 2726271622693500431
+    second: Veterans_Arsenal_Sprite_62
+  - first:
+      213: 5175914730522977027
+    second: Veterans_Arsenal_Sprite_63
+  - first:
+      213: 8153575837291163357
+    second: Veterans_Arsenal_Sprite_64
+  - first:
+      213: -8307824887433060991
+    second: Veterans_Arsenal_Sprite_65
+  - first:
+      213: 3232063216720207014
+    second: Veterans_Arsenal_Sprite_66
+  - first:
+      213: -7473694713100581091
+    second: Veterans_Arsenal_Sprite_67
+  - first:
+      213: 7766718590622532020
+    second: Veterans_Arsenal_Sprite_68
+  - first:
+      213: -1922483251833081534
+    second: Veterans_Arsenal_Sprite_69
+  - first:
+      213: -8580707065026406606
+    second: Veterans_Arsenal_Sprite_70
+  - first:
+      213: 6030466118661041403
+    second: Veterans_Arsenal_Sprite_71
+  - first:
+      213: 7912352551692526966
+    second: Veterans_Arsenal_Sprite_72
+  - first:
+      213: 402571700279262703
+    second: Veterans_Arsenal_Sprite_73
+  - first:
+      213: 8240047583938022144
+    second: Veterans_Arsenal_Sprite_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9512f230d5a2c50800000000000000
+      internalID: 6641222868768217560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 175
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cec2d23191e78c0800000000000000
+      internalID: -3999731848905429857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 175
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209a164f5442d91f0800000000000000
+      internalID: -1036632456353961726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 191
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832a2684d65e27580800000000000000
+      internalID: -8830743661791501768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268835e90daa114e0800000000000000
+      internalID: -2012639745471707038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 191
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29020f570f02fc280800000000000000
+      internalID: -9020955311456903022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f57243d00387490800000000000000
+      internalID: -7748390325623234751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 191
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b516e21cb02bedcb0800000000000000
+      internalID: -4837233186193907365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727a5c5b942dcbcd0800000000000000
+      internalID: -2540924875719727321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 175
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb18f33db7f14ac20800000000000000
+      internalID: 3216730650534969790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 175
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b27b316ffe86b270800000000000000
+      internalID: 8265951393584214713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 175
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca096762a6564030800000000000000
+      internalID: 3478563017709914830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 175
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aaf4b3cc5d0cf870800000000000000
+      internalID: 8717857670754007715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 191
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1147e0469c48deb10800000000000000
+      internalID: 2012410609006441489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 175
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3673d5c700e9b5a10800000000000000
+      internalID: 1899285392790468451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0f4fb3d8918eb60800000000000000
+      internalID: 7775492851042152649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb729667195a0c90800000000000000
+      internalID: -7202846696985691138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 143
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed909d73248a1b2e0800000000000000
+      internalID: -2111721747901773346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a197c7b591885f00800000000000000
+      internalID: 1105776188552876457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 127
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37450caa4279a490800000000000000
+      internalID: -7734525219992942790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 127
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da54513920884e60800000000000000
+      internalID: 7946742456904866513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 143
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa379e7f75089f3f0800000000000000
+      internalID: -866520337982327894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a71ea9af012b1c80800000000000000
+      internalID: -8351044732873467994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 143
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ff1a8d579590570800000000000000
+      internalID: 8433370139908505474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271a3981d0b6c38b0800000000000000
+      internalID: -5171140568137096846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 143
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ea68ff5cc743950800000000000000
+      internalID: 6427899758001958400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a58effbd4eb630d0800000000000000
+      internalID: -3443355623935277656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 143
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517f0667e6b1e8fb0800000000000000
+      internalID: -4643744004525983979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 129
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ca6dfc737ae8790800000000000000
+      internalID: -7525894069137527761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 95
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca65fc25e450116e0800000000000000
+      internalID: -1868706536427137364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6def5c9909718a10800000000000000
+      internalID: 1909940799166999919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 127
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f57889813337d490800000000000000
+      internalID: -7721646748249590280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71b445e12fcb0a10800000000000000
+      internalID: 1876821414217298299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 79
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd040a37e8d12610800000000000000
+      internalID: 1594794230688255446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 79
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deaf094c0f0715840800000000000000
+      internalID: 5211070423236672237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 79
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa42300690ee9980800000000000000
+      internalID: -8530133709340128520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01de28be028ce5f0800000000000000
+      internalID: -726062440182263542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc3afbdd66efca10800000000000000
+      internalID: 1932016124681665725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 79
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972296f5c8b702110800000000000000
+      internalID: 1234122140725879417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89ead346c337e9f0800000000000000
+      internalID: -439325512010372726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfab9114e8773470800000000000000
+      internalID: 8374294953062018995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 111
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e3529e575c2a580800000000000000
+      internalID: -8817268010224632197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 95
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80bc00bcdbe3bbe0800000000000000
+      internalID: -1462566120886325107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 81
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30605c40776038630800000000000000
+      internalID: 3927990408248100355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771684f029c0b7130800000000000000
+      internalID: 3565457351455039863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 82
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58621dab6dd49a720800000000000000
+      internalID: 2857901023195899525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c303142d442e6090800000000000000
+      internalID: -8039448371073449016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 79
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364f8e7f78af3ac50800000000000000
+      internalID: 6675454534579975267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a599165eb20d57e10800000000000000
+      internalID: 2194889280363534682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a901570557c88ab00800000000000000
+      internalID: 840075765993509018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2375652e163472f0800000000000000
+      internalID: -976095716128230610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a291411234c3d6190800000000000000
+      internalID: -7967645906733098710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fa87c2e1799e340800000000000000
+      internalID: 4893608625965674289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17131d562f08de6e0800000000000000
+      internalID: -1806646096927051407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d0b37bb0164cf40800000000000000
+      internalID: 5747825727378230620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a4270c25dca45e0800000000000000
+      internalID: -1924500135447737726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d2e294210bb24e0800000000000000
+      internalID: -2005315616479761027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_57
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66523bfe555612bf0800000000000000
+      internalID: -350887876190067354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_58
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be16f5d98ab748d0800000000000000
+      internalID: -2862113937007698248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_59
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af4adf7bfd5f1a30800000000000000
+      internalID: 4188169513241038756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_60
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca98236c8ec6fce0800000000000000
+      internalID: -1371681934133388600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_61
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5662765c2f29f6cf0800000000000000
+      internalID: -256825082345216411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_62
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06bfdfa899a5d520800000000000000
+      internalID: 2726271622693500431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_63
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303a884360b84d740800000000000000
+      internalID: 5175914730522977027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_64
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddea2f64602572170800000000000000
+      internalID: 8153575837291163357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_65
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 31
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d1768184da4bc80800000000000000
+      internalID: -8307824887433060991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_66
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acd6341f589adc20800000000000000
+      internalID: 3232063216720207014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_67
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 31
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17cce9714a184890800000000000000
+      internalID: -7473694713100581091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_68
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b18a78886de8cb60800000000000000
+      internalID: 7766718590622532020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_69
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241f9df0ba7f155e0800000000000000
+      internalID: -1922483251833081534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2379a6b03643be880800000000000000
+      internalID: -8580707065026406606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_71
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfce1d0fbf480b350800000000000000
+      internalID: 6030466118661041403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_72
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675e94d69b25ecd60800000000000000
+      internalID: 7912352551692526966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_73
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 82
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed35c714d8369500800000000000000
+      internalID: 402571700279262703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Veterans_Arsenal_Sprite_74
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b01f4be978a5270800000000000000
+      internalID: 8240047583938022144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Veterans_Arsenal_Sprite_0: 6641222868768217560
+      Veterans_Arsenal_Sprite_1: -3999731848905429857
+      Veterans_Arsenal_Sprite_10: 8265951393584214713
+      Veterans_Arsenal_Sprite_11: 3478563017709914830
+      Veterans_Arsenal_Sprite_12: 8717857670754007715
+      Veterans_Arsenal_Sprite_13: 2012410609006441489
+      Veterans_Arsenal_Sprite_14: 1899285392790468451
+      Veterans_Arsenal_Sprite_15: 7775492851042152649
+      Veterans_Arsenal_Sprite_16: -7202846696985691138
+      Veterans_Arsenal_Sprite_17: -2111721747901773346
+      Veterans_Arsenal_Sprite_18: 1105776188552876457
+      Veterans_Arsenal_Sprite_19: -7734525219992942790
+      Veterans_Arsenal_Sprite_2: -1036632456353961726
+      Veterans_Arsenal_Sprite_20: 7946742456904866513
+      Veterans_Arsenal_Sprite_21: -866520337982327894
+      Veterans_Arsenal_Sprite_22: -8351044732873467994
+      Veterans_Arsenal_Sprite_23: 8433370139908505474
+      Veterans_Arsenal_Sprite_24: -5171140568137096846
+      Veterans_Arsenal_Sprite_25: 6427899758001958400
+      Veterans_Arsenal_Sprite_26: -3443355623935277656
+      Veterans_Arsenal_Sprite_27: -4643744004525983979
+      Veterans_Arsenal_Sprite_28: -7525894069137527761
+      Veterans_Arsenal_Sprite_29: -1868706536427137364
+      Veterans_Arsenal_Sprite_3: -8830743661791501768
+      Veterans_Arsenal_Sprite_30: 1909940799166999919
+      Veterans_Arsenal_Sprite_31: -7721646748249590280
+      Veterans_Arsenal_Sprite_32: 1876821414217298299
+      Veterans_Arsenal_Sprite_33: 1594794230688255446
+      Veterans_Arsenal_Sprite_34: 5211070423236672237
+      Veterans_Arsenal_Sprite_35: -8530133709340128520
+      Veterans_Arsenal_Sprite_36: -726062440182263542
+      Veterans_Arsenal_Sprite_37: 1932016124681665725
+      Veterans_Arsenal_Sprite_38: 1234122140725879417
+      Veterans_Arsenal_Sprite_39: -439325512010372726
+      Veterans_Arsenal_Sprite_4: -2012639745471707038
+      Veterans_Arsenal_Sprite_40: 8374294953062018995
+      Veterans_Arsenal_Sprite_41: -8817268010224632197
+      Veterans_Arsenal_Sprite_42: -1462566120886325107
+      Veterans_Arsenal_Sprite_43: 3927990408248100355
+      Veterans_Arsenal_Sprite_44: 3565457351455039863
+      Veterans_Arsenal_Sprite_45: 2857901023195899525
+      Veterans_Arsenal_Sprite_46: -8039448371073449016
+      Veterans_Arsenal_Sprite_47: 6675454534579975267
+      Veterans_Arsenal_Sprite_48: 2194889280363534682
+      Veterans_Arsenal_Sprite_49: 840075765993509018
+      Veterans_Arsenal_Sprite_5: -9020955311456903022
+      Veterans_Arsenal_Sprite_50: -976095716128230610
+      Veterans_Arsenal_Sprite_51: -7967645906733098710
+      Veterans_Arsenal_Sprite_52: 4893608625965674289
+      Veterans_Arsenal_Sprite_53: -1806646096927051407
+      Veterans_Arsenal_Sprite_54: 5747825727378230620
+      Veterans_Arsenal_Sprite_55: -1924500135447737726
+      Veterans_Arsenal_Sprite_56: -2005315616479761027
+      Veterans_Arsenal_Sprite_57: -350887876190067354
+      Veterans_Arsenal_Sprite_58: -2862113937007698248
+      Veterans_Arsenal_Sprite_59: 4188169513241038756
+      Veterans_Arsenal_Sprite_6: -7748390325623234751
+      Veterans_Arsenal_Sprite_60: -1371681934133388600
+      Veterans_Arsenal_Sprite_61: -256825082345216411
+      Veterans_Arsenal_Sprite_62: 2726271622693500431
+      Veterans_Arsenal_Sprite_63: 5175914730522977027
+      Veterans_Arsenal_Sprite_64: 8153575837291163357
+      Veterans_Arsenal_Sprite_65: -8307824887433060991
+      Veterans_Arsenal_Sprite_66: 3232063216720207014
+      Veterans_Arsenal_Sprite_67: -7473694713100581091
+      Veterans_Arsenal_Sprite_68: 7766718590622532020
+      Veterans_Arsenal_Sprite_69: -1922483251833081534
+      Veterans_Arsenal_Sprite_7: -4837233186193907365
+      Veterans_Arsenal_Sprite_70: -8580707065026406606
+      Veterans_Arsenal_Sprite_71: 6030466118661041403
+      Veterans_Arsenal_Sprite_72: 7912352551692526966
+      Veterans_Arsenal_Sprite_73: 402571700279262703
+      Veterans_Arsenal_Sprite_74: 8240047583938022144
+      Veterans_Arsenal_Sprite_8: -2540924875719727321
+      Veterans_Arsenal_Sprite_9: 3216730650534969790
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
