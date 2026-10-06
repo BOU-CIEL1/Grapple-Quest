@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 35f9404bf9288b845927482ceac2d03f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8687497687323958082
+    second: Maw-Idle-Background-Sheet_0
+  - first:
+      213: -5918853458078934702
+    second: Maw-Idle-Background-Sheet_1
+  - first:
+      213: 4804619928714497172
+    second: Maw-Idle-Background-Sheet_2
+  - first:
+      213: 7082299780202037912
+    second: Maw-Idle-Background-Sheet_3
+  - first:
+      213: -2292920274317960008
+    second: Maw-Idle-Background-Sheet_4
+  - first:
+      213: 2997162400148821201
+    second: Maw-Idle-Background-Sheet_5
+  - first:
+      213: 8732098990720682438
+    second: Maw-Idle-Background-Sheet_6
+  - first:
+      213: -543268990433584132
+    second: Maw-Idle-Background-Sheet_7
+  - first:
+      213: -6155436863766869333
+    second: Maw-Idle-Background-Sheet_8
+  - first:
+      213: 1682217855938660071
+    second: Maw-Idle-Background-Sheet_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maw-Idle-Background-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 58
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bd8f74e11309870800000000000000
+      internalID: 8687497687323958082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Background-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 64
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259dc99a3220cdda0800000000000000
+      internalID: -5918853458078934702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Background-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c4ac38e507da240800000000000000
+      internalID: 4804619928714497172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Background-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 64
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89205cf5022694260800000000000000
+      internalID: 7082299780202037912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Background-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 0
+        width: 64
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc9cfea829ed20e0800000000000000
+      internalID: -2292920274317960008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Background-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 0
+        width: 64
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d41703c25f089920800000000000000
+      internalID: 2997162400148821201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Background-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 7
+        width: 64
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9047574c5ae2970800000000000000
+      internalID: 8732098990720682438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Background-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 0
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb98b74bbbe578f0800000000000000
+      internalID: -543268990433584132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Background-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 0
+        width: 64
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baac4d909ce739aa0800000000000000
+      internalID: -6155436863766869333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Background-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0
+        width: 62
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e60b0a2a30785710800000000000000
+      internalID: 1682217855938660071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maw-Idle-Background-Sheet_0: 8687497687323958082
+      Maw-Idle-Background-Sheet_1: -5918853458078934702
+      Maw-Idle-Background-Sheet_2: 4804619928714497172
+      Maw-Idle-Background-Sheet_3: 7082299780202037912
+      Maw-Idle-Background-Sheet_4: -2292920274317960008
+      Maw-Idle-Background-Sheet_5: 2997162400148821201
+      Maw-Idle-Background-Sheet_6: 8732098990720682438
+      Maw-Idle-Background-Sheet_7: -543268990433584132
+      Maw-Idle-Background-Sheet_8: -6155436863766869333
+      Maw-Idle-Background-Sheet_9: 1682217855938660071
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

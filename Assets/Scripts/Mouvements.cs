@@ -8,6 +8,7 @@ public class Mouvements : MonoBehaviour
     // Réglages accessibles dans l'Inspecteur Unity, avec une valeur minimale de zéro.
     [SerializeField, Min(0f)] private float vitesseDeplacement = 10f;
     [SerializeField, Min(0f)] private float vitesseSaut = 9f;
+    [SerializeField] private CameraSuivi cameraSuivi;
     private CapsuleCollider2D collision;
 
     // Référence au composant qui gère la physique du personnage.
@@ -59,6 +60,9 @@ public class Mouvements : MonoBehaviour
         // Donne une vitesse vers le haut seulement si le personnage touche le sol.
         if (sautDemande && EstAuSol())
             vitesse.y = vitesseSaut;
+
+        if (cameraSuivi != null)
+            cameraSuivi.LimiterDeplacement(corps, collision, ref vitesse);
 
         corps.linearVelocity = vitesse;
         // Consomme la demande, même si le saut était impossible en l'air.

@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 63cc77d1deb4ccd4ea960873c8765059
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8917623018775948855
+    second: Maw-HandAttack-Midground-Sheet_0
+  - first:
+      213: 607901858521249607
+    second: Maw-HandAttack-Midground-Sheet_1
+  - first:
+      213: -4093560300552881561
+    second: Maw-HandAttack-Midground-Sheet_2
+  - first:
+      213: 2055766946777623440
+    second: Maw-HandAttack-Midground-Sheet_3
+  - first:
+      213: 5610370259593246421
+    second: Maw-HandAttack-Midground-Sheet_4
+  - first:
+      213: -4047160031641037900
+    second: Maw-HandAttack-Midground-Sheet_5
+  - first:
+      213: -4933325292160628193
+    second: Maw-HandAttack-Midground-Sheet_6
+  - first:
+      213: 3552641715631500198
+    second: Maw-HandAttack-Midground-Sheet_7
+  - first:
+      213: 6946997274682554000
+    second: Maw-HandAttack-Midground-Sheet_8
+  - first:
+      213: 172261939407425073
+    second: Maw-HandAttack-Midground-Sheet_9
+  - first:
+      213: -4730385511052045096
+    second: Maw-HandAttack-Midground-Sheet_10
+  - first:
+      213: -5173529644609756360
+    second: Maw-HandAttack-Midground-Sheet_11
+  - first:
+      213: -2232182124080355195
+    second: Maw-HandAttack-Midground-Sheet_12
+  - first:
+      213: 707658713491412589
+    second: Maw-HandAttack-Midground-Sheet_13
+  - first:
+      213: 7440277331644898158
+    second: Maw-HandAttack-Midground-Sheet_14
+  - first:
+      213: -7527047426463846840
+    second: Maw-HandAttack-Midground-Sheet_15
+  - first:
+      213: -2517874328506993858
+    second: Maw-HandAttack-Midground-Sheet_16
+  - first:
+      213: -6051528040107071982
+    second: Maw-HandAttack-Midground-Sheet_17
+  - first:
+      213: 6706867506826153655
+    second: Maw-HandAttack-Midground-Sheet_18
+  - first:
+      213: -5379052669089896711
+    second: Maw-HandAttack-Midground-Sheet_19
+  - first:
+      213: 5252272199085946010
+    second: Maw-HandAttack-Midground-Sheet_20
+  - first:
+      213: 1515080897180416140
+    second: Maw-HandAttack-Midground-Sheet_21
+  - first:
+      213: 7851864161607840141
+    second: Maw-HandAttack-Midground-Sheet_22
+  - first:
+      213: -3120210677326741919
+    second: Maw-HandAttack-Midground-Sheet_23
+  - first:
+      213: 2772184979385860639
+    second: Maw-HandAttack-Midground-Sheet_24
+  - first:
+      213: 8742798176540244899
+    second: Maw-HandAttack-Midground-Sheet_25
+  - first:
+      213: 3123605423101742611
+    second: Maw-HandAttack-Midground-Sheet_26
+  - first:
+      213: 7672207034888360515
+    second: Maw-HandAttack-Midground-Sheet_27
+  - first:
+      213: 71715787849105417
+    second: Maw-HandAttack-Midground-Sheet_28
+  - first:
+      213: -5936787675936111575
+    second: Maw-HandAttack-Midground-Sheet_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1530dac1d3e3480800000000000000
+      internalID: -8917623018775948855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747757ff483bf6800800000000000000
+      internalID: 607901858521249607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a77e26890c037c0800000000000000
+      internalID: -4093560300552881561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b6bab652d878c10800000000000000
+      internalID: 2055766946777623440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6b87da60a0cdd40800000000000000
+      internalID: 5610370259593246421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b390ecd46995d7c0800000000000000
+      internalID: -4047160031641037900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ac05fd8ce498bb0800000000000000
+      internalID: -4933325292160628193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab237251d48d4130800000000000000
+      internalID: 3552641715631500198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 51
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0967f0de631b86060800000000000000
+      internalID: 6946997274682554000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 51
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e03ba325ff36200800000000000000
+      internalID: 172261939407425073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4961bb07b4a5eb0800000000000000
+      internalID: -4730385511052045096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 40
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8332512e23ee338b0800000000000000
+      internalID: -5173529644609756360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 40
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588a63c4f22b501e0800000000000000
+      internalID: -2232182124080355195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 40
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d669ddfb9db12d900800000000000000
+      internalID: 707658713491412589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 40
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bd51710dc214760800000000000000
+      internalID: 7440277331644898158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 40
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84eaa12ee3e8a8790800000000000000
+      internalID: -7527047426463846840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 40
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33f34473a6be0dd0800000000000000
+      internalID: -2517874328506993858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 40
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2162a155f47a40ca0800000000000000
+      internalID: -6051528040107071982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 40
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be8bf38674931d50800000000000000
+      internalID: 6706867506826153655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 40
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6a7cec814c955b0800000000000000
+      internalID: -5379052669089896711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 40
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a947d22ccb1d3e840800000000000000
+      internalID: 5252272199085946010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 40
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c883b6a7c06a60510800000000000000
+      internalID: 1515080897180416140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 40
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d817141aadc67fc60800000000000000
+      internalID: 7851864161607840141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 40
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16efe89abe8c2b4d0800000000000000
+      internalID: -3120210677326741919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 3134
+        y: 40
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12c7f31d87c87620800000000000000
+      internalID: 2772184979385860639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 3262
+        y: 40
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab3d97ce98a45970800000000000000
+      internalID: 8742798176540244899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 40
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e867e2596495b20800000000000000
+      internalID: 3123605423101742611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34216cd26a7297a60800000000000000
+      internalID: 7672207034888360515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 3637
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900888b0129cef000800000000000000
+      internalID: 71715787849105417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Midground-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92449ec201b4c9da0800000000000000
+      internalID: -5936787675936111575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maw-HandAttack-Midground-Sheet_0: -8917623018775948855
+      Maw-HandAttack-Midground-Sheet_1: 607901858521249607
+      Maw-HandAttack-Midground-Sheet_10: -4730385511052045096
+      Maw-HandAttack-Midground-Sheet_11: -5173529644609756360
+      Maw-HandAttack-Midground-Sheet_12: -2232182124080355195
+      Maw-HandAttack-Midground-Sheet_13: 707658713491412589
+      Maw-HandAttack-Midground-Sheet_14: 7440277331644898158
+      Maw-HandAttack-Midground-Sheet_15: -7527047426463846840
+      Maw-HandAttack-Midground-Sheet_16: -2517874328506993858
+      Maw-HandAttack-Midground-Sheet_17: -6051528040107071982
+      Maw-HandAttack-Midground-Sheet_18: 6706867506826153655
+      Maw-HandAttack-Midground-Sheet_19: -5379052669089896711
+      Maw-HandAttack-Midground-Sheet_2: -4093560300552881561
+      Maw-HandAttack-Midground-Sheet_20: 5252272199085946010
+      Maw-HandAttack-Midground-Sheet_21: 1515080897180416140
+      Maw-HandAttack-Midground-Sheet_22: 7851864161607840141
+      Maw-HandAttack-Midground-Sheet_23: -3120210677326741919
+      Maw-HandAttack-Midground-Sheet_24: 2772184979385860639
+      Maw-HandAttack-Midground-Sheet_25: 8742798176540244899
+      Maw-HandAttack-Midground-Sheet_26: 3123605423101742611
+      Maw-HandAttack-Midground-Sheet_27: 7672207034888360515
+      Maw-HandAttack-Midground-Sheet_28: 71715787849105417
+      Maw-HandAttack-Midground-Sheet_29: -5936787675936111575
+      Maw-HandAttack-Midground-Sheet_3: 2055766946777623440
+      Maw-HandAttack-Midground-Sheet_4: 5610370259593246421
+      Maw-HandAttack-Midground-Sheet_5: -4047160031641037900
+      Maw-HandAttack-Midground-Sheet_6: -4933325292160628193
+      Maw-HandAttack-Midground-Sheet_7: 3552641715631500198
+      Maw-HandAttack-Midground-Sheet_8: 6946997274682554000
+      Maw-HandAttack-Midground-Sheet_9: 172261939407425073
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

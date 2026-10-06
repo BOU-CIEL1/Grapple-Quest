@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 0f37b203dfe147b4b94a3a5666aeb1c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4043384641725778130
+    second: Maw-Death-Effects-Sheet_0
+  - first:
+      213: -4442880240980785905
+    second: Maw-Death-Effects-Sheet_1
+  - first:
+      213: 2085918961189629057
+    second: Maw-Death-Effects-Sheet_2
+  - first:
+      213: 9064521238496532379
+    second: Maw-Death-Effects-Sheet_3
+  - first:
+      213: 510255383310797243
+    second: Maw-Death-Effects-Sheet_4
+  - first:
+      213: -5133525902603349433
+    second: Maw-Death-Effects-Sheet_5
+  - first:
+      213: -8194451194554772588
+    second: Maw-Death-Effects-Sheet_6
+  - first:
+      213: -4890883619864583493
+    second: Maw-Death-Effects-Sheet_7
+  - first:
+      213: 3011078697768975850
+    second: Maw-Death-Effects-Sheet_8
+  - first:
+      213: -4000851020489695670
+    second: Maw-Death-Effects-Sheet_9
+  - first:
+      213: 3356997742674444112
+    second: Maw-Death-Effects-Sheet_10
+  - first:
+      213: 2799593153948666219
+    second: Maw-Death-Effects-Sheet_11
+  - first:
+      213: -9160532139890827145
+    second: Maw-Death-Effects-Sheet_12
+  - first:
+      213: 5461495529041914217
+    second: Maw-Death-Effects-Sheet_13
+  - first:
+      213: 1932729484599910004
+    second: Maw-Death-Effects-Sheet_14
+  - first:
+      213: 4375407723423585803
+    second: Maw-Death-Effects-Sheet_15
+  - first:
+      213: 2204721600679310985
+    second: Maw-Death-Effects-Sheet_16
+  - first:
+      213: -3117965327378497758
+    second: Maw-Death-Effects-Sheet_17
+  - first:
+      213: 1363233821037374252
+    second: Maw-Death-Effects-Sheet_18
+  - first:
+      213: 2712584059597193136
+    second: Maw-Death-Effects-Sheet_19
+  - first:
+      213: -3191440468772812965
+    second: Maw-Death-Effects-Sheet_20
+  - first:
+      213: 8373914461046527002
+    second: Maw-Death-Effects-Sheet_21
+  - first:
+      213: -1739291571861673719
+    second: Maw-Death-Effects-Sheet_22
+  - first:
+      213: -8353324155414056282
+    second: Maw-Death-Effects-Sheet_23
+  - first:
+      213: 6612586222713471830
+    second: Maw-Death-Effects-Sheet_24
+  - first:
+      213: -6158837188932807001
+    second: Maw-Death-Effects-Sheet_25
+  - first:
+      213: 4221050713383157064
+    second: Maw-Death-Effects-Sheet_26
+  - first:
+      213: -8457245653194336350
+    second: Maw-Death-Effects-Sheet_27
+  - first:
+      213: -829127587009940895
+    second: Maw-Death-Effects-Sheet_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 0
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8c55ca8ecfc1830800000000000000
+      internalID: 4043384641725778130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 0
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f050db0d5f7b752c0800000000000000
+      internalID: -4442880240980785905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 14
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ca5f75e3ca2fc10800000000000000
+      internalID: 2085918961189629057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 0
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97d19f5a06abcd70800000000000000
+      internalID: 9064521238496532379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 6
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb988f2519ac41700800000000000000
+      internalID: 510255383310797243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 0
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7429f02e36d02c8b0800000000000000
+      internalID: -5133525902603349433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 14
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493994bfd06774e80800000000000000
+      internalID: -8194451194554772588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 0
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2e130c247102cb0800000000000000
+      internalID: -4890883619864583493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 21
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedf34b4f1089c920800000000000000
+      internalID: 3011078697768975850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 0
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ed37cb13f1a78c0800000000000000
+      internalID: -4000851020489695670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 3
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ff5eb29a3769e20800000000000000
+      internalID: 3356997742674444112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 0
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69c9b004272ad620800000000000000
+      internalID: 2799593153948666219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 25
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7702248ad804fd080800000000000000
+      internalID: -9160532139890827145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 18
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9696de65f312bcb40800000000000000
+      internalID: 5461495529041914217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 12
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e5088e93f62da10800000000000000
+      internalID: 1932729484599910004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 0
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06d92e742298bc30800000000000000
+      internalID: 4375407723423585803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 2
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986fe1d5d9eb89e10800000000000000
+      internalID: 2204721600679310985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fbe9fed03cab4d0800000000000000
+      internalID: -3117965327378497758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 5
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b2bb000fd2be210800000000000000
+      internalID: 1363233821037374252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 6
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf7daf84d805a520800000000000000
+      internalID: 2712584059597193136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 2
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b578df87dc9b5b3d0800000000000000
+      internalID: -3191440468772812965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 3
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a145f2ed5de163470800000000000000
+      internalID: 8373914461046527002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 11
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909aa52d78bccd7e0800000000000000
+      internalID: -1739291571861673719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2fade30f7031c80800000000000000
+      internalID: -8353324155414056282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 5
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6538a737220a4cb50800000000000000
+      internalID: 6612586222713471830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 5
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6d134253a678aa0800000000000000
+      internalID: -6158837188932807001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 8
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84dbc1e724f249a30800000000000000
+      internalID: 4221050713383157064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 0
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7922703e3d1aa80800000000000000
+      internalID: -8457245653194336350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Effects-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2383
+        y: 0
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162bbce3ad85e74f0800000000000000
+      internalID: -829127587009940895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maw-Death-Effects-Sheet_0: 4043384641725778130
+      Maw-Death-Effects-Sheet_1: -4442880240980785905
+      Maw-Death-Effects-Sheet_10: 3356997742674444112
+      Maw-Death-Effects-Sheet_11: 2799593153948666219
+      Maw-Death-Effects-Sheet_12: -9160532139890827145
+      Maw-Death-Effects-Sheet_13: 5461495529041914217
+      Maw-Death-Effects-Sheet_14: 1932729484599910004
+      Maw-Death-Effects-Sheet_15: 4375407723423585803
+      Maw-Death-Effects-Sheet_16: 2204721600679310985
+      Maw-Death-Effects-Sheet_17: -3117965327378497758
+      Maw-Death-Effects-Sheet_18: 1363233821037374252
+      Maw-Death-Effects-Sheet_19: 2712584059597193136
+      Maw-Death-Effects-Sheet_2: 2085918961189629057
+      Maw-Death-Effects-Sheet_20: -3191440468772812965
+      Maw-Death-Effects-Sheet_21: 8373914461046527002
+      Maw-Death-Effects-Sheet_22: -1739291571861673719
+      Maw-Death-Effects-Sheet_23: -8353324155414056282
+      Maw-Death-Effects-Sheet_24: 6612586222713471830
+      Maw-Death-Effects-Sheet_25: -6158837188932807001
+      Maw-Death-Effects-Sheet_26: 4221050713383157064
+      Maw-Death-Effects-Sheet_27: -8457245653194336350
+      Maw-Death-Effects-Sheet_28: -829127587009940895
+      Maw-Death-Effects-Sheet_3: 9064521238496532379
+      Maw-Death-Effects-Sheet_4: 510255383310797243
+      Maw-Death-Effects-Sheet_5: -5133525902603349433
+      Maw-Death-Effects-Sheet_6: -8194451194554772588
+      Maw-Death-Effects-Sheet_7: -4890883619864583493
+      Maw-Death-Effects-Sheet_8: 3011078697768975850
+      Maw-Death-Effects-Sheet_9: -4000851020489695670
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

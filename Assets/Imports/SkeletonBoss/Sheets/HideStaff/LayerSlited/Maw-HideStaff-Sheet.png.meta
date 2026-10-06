@@ -1,0 +1,6019 @@
+fileFormatVersion: 2
+guid: a4cab544a08ed13439223319fed56379
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3879409398343724365
+    second: Maw-HideStaff-Sheet_0
+  - first:
+      213: 8986747581219894006
+    second: Maw-HideStaff-Sheet_1
+  - first:
+      213: 8918526064797705863
+    second: Maw-HideStaff-Sheet_2
+  - first:
+      213: -7004752144684944815
+    second: Maw-HideStaff-Sheet_3
+  - first:
+      213: -6366973171614170754
+    second: Maw-HideStaff-Sheet_4
+  - first:
+      213: 7221236514329057111
+    second: Maw-HideStaff-Sheet_5
+  - first:
+      213: 6563530949440049967
+    second: Maw-HideStaff-Sheet_6
+  - first:
+      213: -3235084599276849360
+    second: Maw-HideStaff-Sheet_7
+  - first:
+      213: -1968457706825772109
+    second: Maw-HideStaff-Sheet_8
+  - first:
+      213: -5652182841181528504
+    second: Maw-HideStaff-Sheet_9
+  - first:
+      213: -6440587067238713224
+    second: Maw-HideStaff-Sheet_10
+  - first:
+      213: 7898630766451737578
+    second: Maw-HideStaff-Sheet_11
+  - first:
+      213: -4666902211529015547
+    second: Maw-HideStaff-Sheet_12
+  - first:
+      213: -4526713559871171149
+    second: Maw-HideStaff-Sheet_13
+  - first:
+      213: 1042386615194381557
+    second: Maw-HideStaff-Sheet_14
+  - first:
+      213: -7360555129204186999
+    second: Maw-HideStaff-Sheet_15
+  - first:
+      213: -7841609606599248648
+    second: Maw-HideStaff-Sheet_16
+  - first:
+      213: 875649586027677619
+    second: Maw-HideStaff-Sheet_17
+  - first:
+      213: -5499787261325788225
+    second: Maw-HideStaff-Sheet_18
+  - first:
+      213: 1193565644070932904
+    second: Maw-HideStaff-Sheet_19
+  - first:
+      213: -5345115010900502045
+    second: Maw-HideStaff-Sheet_20
+  - first:
+      213: 6165560065016093689
+    second: Maw-HideStaff-Sheet_21
+  - first:
+      213: 2939941763756957156
+    second: Maw-HideStaff-Sheet_22
+  - first:
+      213: -1151771291266334583
+    second: Maw-HideStaff-Sheet_23
+  - first:
+      213: -8826445950700154903
+    second: Maw-HideStaff-Sheet_24
+  - first:
+      213: -5415578476683135599
+    second: Maw-HideStaff-Sheet_25
+  - first:
+      213: -2227551391038876059
+    second: Maw-HideStaff-Sheet_26
+  - first:
+      213: 2996854414250358078
+    second: Maw-HideStaff-Sheet_27
+  - first:
+      213: -6615419974131844998
+    second: Maw-HideStaff-Sheet_28
+  - first:
+      213: -5847827379960027647
+    second: Maw-HideStaff-Sheet_29
+  - first:
+      213: -3763184443666185242
+    second: Maw-HideStaff-Sheet_30
+  - first:
+      213: -3976783802216596302
+    second: Maw-HideStaff-Sheet_31
+  - first:
+      213: -6518627906072177672
+    second: Maw-HideStaff-Sheet_32
+  - first:
+      213: 104094464352833539
+    second: Maw-HideStaff-Sheet_33
+  - first:
+      213: 2063132430032656674
+    second: Maw-HideStaff-Sheet_34
+  - first:
+      213: 5016846158479603180
+    second: Maw-HideStaff-Sheet_35
+  - first:
+      213: -3383035776154033999
+    second: Maw-HideStaff-Sheet_36
+  - first:
+      213: -7779900156892568798
+    second: Maw-HideStaff-Sheet_37
+  - first:
+      213: -51944206439084234
+    second: Maw-HideStaff-Sheet_38
+  - first:
+      213: 6351968264592736496
+    second: Maw-HideStaff-Sheet_39
+  - first:
+      213: -6981614553018112261
+    second: Maw-HideStaff-Sheet_40
+  - first:
+      213: 8800734319496828154
+    second: Maw-HideStaff-Sheet_41
+  - first:
+      213: 320103879572394024
+    second: Maw-HideStaff-Sheet_42
+  - first:
+      213: 6835628864683496267
+    second: Maw-HideStaff-Sheet_43
+  - first:
+      213: 460101151101710737
+    second: Maw-HideStaff-Sheet_44
+  - first:
+      213: 4488454906054886107
+    second: Maw-HideStaff-Sheet_45
+  - first:
+      213: -727456481333042992
+    second: Maw-HideStaff-Sheet_46
+  - first:
+      213: 8097392979056071072
+    second: Maw-HideStaff-Sheet_47
+  - first:
+      213: 1865257979014696035
+    second: Maw-HideStaff-Sheet_48
+  - first:
+      213: 7389226757206855906
+    second: Maw-HideStaff-Sheet_49
+  - first:
+      213: -264918937869211449
+    second: Maw-HideStaff-Sheet_50
+  - first:
+      213: -6647362671856232626
+    second: Maw-HideStaff-Sheet_51
+  - first:
+      213: 8545805113400924006
+    second: Maw-HideStaff-Sheet_52
+  - first:
+      213: -2587703584525090039
+    second: Maw-HideStaff-Sheet_53
+  - first:
+      213: 8979120197130603885
+    second: Maw-HideStaff-Sheet_54
+  - first:
+      213: 3888747180916308986
+    second: Maw-HideStaff-Sheet_55
+  - first:
+      213: 1439518930767219005
+    second: Maw-HideStaff-Sheet_56
+  - first:
+      213: -1370022918997892437
+    second: Maw-HideStaff-Sheet_57
+  - first:
+      213: -2990468246498715128
+    second: Maw-HideStaff-Sheet_58
+  - first:
+      213: -7929529942114296328
+    second: Maw-HideStaff-Sheet_59
+  - first:
+      213: -1570748474036004844
+    second: Maw-HideStaff-Sheet_60
+  - first:
+      213: -1473162686693178932
+    second: Maw-HideStaff-Sheet_61
+  - first:
+      213: -8549918301354673815
+    second: Maw-HideStaff-Sheet_62
+  - first:
+      213: 4025854620969949922
+    second: Maw-HideStaff-Sheet_63
+  - first:
+      213: 6972272008382019456
+    second: Maw-HideStaff-Sheet_64
+  - first:
+      213: -6799839838440863120
+    second: Maw-HideStaff-Sheet_65
+  - first:
+      213: 3060449603603091846
+    second: Maw-HideStaff-Sheet_66
+  - first:
+      213: 277332325709534907
+    second: Maw-HideStaff-Sheet_67
+  - first:
+      213: -8648029362955782452
+    second: Maw-HideStaff-Sheet_68
+  - first:
+      213: 4974452930670659420
+    second: Maw-HideStaff-Sheet_69
+  - first:
+      213: 602011134353972414
+    second: Maw-HideStaff-Sheet_70
+  - first:
+      213: 5640600406573831623
+    second: Maw-HideStaff-Sheet_71
+  - first:
+      213: 9100186159826042210
+    second: Maw-HideStaff-Sheet_72
+  - first:
+      213: 4171368997590688599
+    second: Maw-HideStaff-Sheet_73
+  - first:
+      213: 5288036636026734712
+    second: Maw-HideStaff-Sheet_74
+  - first:
+      213: -8159240740346034352
+    second: Maw-HideStaff-Sheet_75
+  - first:
+      213: 4868960586577272065
+    second: Maw-HideStaff-Sheet_76
+  - first:
+      213: 5303928555256132210
+    second: Maw-HideStaff-Sheet_77
+  - first:
+      213: -4621571364797114153
+    second: Maw-HideStaff-Sheet_78
+  - first:
+      213: 6506430061379604061
+    second: Maw-HideStaff-Sheet_79
+  - first:
+      213: 6545655781356069233
+    second: Maw-HideStaff-Sheet_80
+  - first:
+      213: 4301340046876560284
+    second: Maw-HideStaff-Sheet_81
+  - first:
+      213: 6323562935403069221
+    second: Maw-HideStaff-Sheet_82
+  - first:
+      213: 6849311523918059761
+    second: Maw-HideStaff-Sheet_83
+  - first:
+      213: 6784650828391913177
+    second: Maw-HideStaff-Sheet_84
+  - first:
+      213: -7542640472100155780
+    second: Maw-HideStaff-Sheet_85
+  - first:
+      213: 1875908786434146206
+    second: Maw-HideStaff-Sheet_86
+  - first:
+      213: 8532245412382915734
+    second: Maw-HideStaff-Sheet_87
+  - first:
+      213: 3661801490771708764
+    second: Maw-HideStaff-Sheet_88
+  - first:
+      213: 4663825791213716205
+    second: Maw-HideStaff-Sheet_89
+  - first:
+      213: -4452787351262304029
+    second: Maw-HideStaff-Sheet_90
+  - first:
+      213: -4142198588736706506
+    second: Maw-HideStaff-Sheet_91
+  - first:
+      213: 1407924213651414452
+    second: Maw-HideStaff-Sheet_92
+  - first:
+      213: -5477476903928442676
+    second: Maw-HideStaff-Sheet_93
+  - first:
+      213: 9009926396949984661
+    second: Maw-HideStaff-Sheet_94
+  - first:
+      213: 2369830809576994011
+    second: Maw-HideStaff-Sheet_95
+  - first:
+      213: 22832314595732584
+    second: Maw-HideStaff-Sheet_96
+  - first:
+      213: -853557604080158376
+    second: Maw-HideStaff-Sheet_97
+  - first:
+      213: 1645029481158291497
+    second: Maw-HideStaff-Sheet_98
+  - first:
+      213: 5533793492572032028
+    second: Maw-HideStaff-Sheet_99
+  - first:
+      213: -3665041540530564800
+    second: Maw-HideStaff-Sheet_100
+  - first:
+      213: -1422035892786408963
+    second: Maw-HideStaff-Sheet_101
+  - first:
+      213: -2918124649010309381
+    second: Maw-HideStaff-Sheet_102
+  - first:
+      213: 200609944985642524
+    second: Maw-HideStaff-Sheet_103
+  - first:
+      213: -1435043292636612164
+    second: Maw-HideStaff-Sheet_104
+  - first:
+      213: 1902419539760204051
+    second: Maw-HideStaff-Sheet_105
+  - first:
+      213: -1973242670194562728
+    second: Maw-HideStaff-Sheet_106
+  - first:
+      213: -5268591009010332385
+    second: Maw-HideStaff-Sheet_107
+  - first:
+      213: -8910927403745670081
+    second: Maw-HideStaff-Sheet_108
+  - first:
+      213: -6481818581476164592
+    second: Maw-HideStaff-Sheet_109
+  - first:
+      213: 1048009419554077736
+    second: Maw-HideStaff-Sheet_110
+  - first:
+      213: 4045567786749648694
+    second: Maw-HideStaff-Sheet_111
+  - first:
+      213: 7641043444700993140
+    second: Maw-HideStaff-Sheet_112
+  - first:
+      213: 9167191687807952931
+    second: Maw-HideStaff-Sheet_113
+  - first:
+      213: -1387576373578180815
+    second: Maw-HideStaff-Sheet_114
+  - first:
+      213: 7715950179438898365
+    second: Maw-HideStaff-Sheet_115
+  - first:
+      213: -2718329637734278257
+    second: Maw-HideStaff-Sheet_116
+  - first:
+      213: 1174622844156017681
+    second: Maw-HideStaff-Sheet_117
+  - first:
+      213: 4614394254297580078
+    second: Maw-HideStaff-Sheet_118
+  - first:
+      213: -1066912934813257863
+    second: Maw-HideStaff-Sheet_119
+  - first:
+      213: 20501292092156575
+    second: Maw-HideStaff-Sheet_120
+  - first:
+      213: 8474421620628509401
+    second: Maw-HideStaff-Sheet_121
+  - first:
+      213: 4307537991906967814
+    second: Maw-HideStaff-Sheet_122
+  - first:
+      213: 4621421200517359624
+    second: Maw-HideStaff-Sheet_123
+  - first:
+      213: 6011308470150172246
+    second: Maw-HideStaff-Sheet_124
+  - first:
+      213: -3736221902841599573
+    second: Maw-HideStaff-Sheet_125
+  - first:
+      213: -1575792991516025747
+    second: Maw-HideStaff-Sheet_126
+  - first:
+      213: -1116812721923825682
+    second: Maw-HideStaff-Sheet_127
+  - first:
+      213: 4204326162185819839
+    second: Maw-HideStaff-Sheet_128
+  - first:
+      213: 205477002485920227
+    second: Maw-HideStaff-Sheet_129
+  - first:
+      213: 6712083265262114853
+    second: Maw-HideStaff-Sheet_130
+  - first:
+      213: -5316374196983514505
+    second: Maw-HideStaff-Sheet_131
+  - first:
+      213: 5977454365316161203
+    second: Maw-HideStaff-Sheet_132
+  - first:
+      213: 3322615233408780856
+    second: Maw-HideStaff-Sheet_133
+  - first:
+      213: -4127573863624099592
+    second: Maw-HideStaff-Sheet_134
+  - first:
+      213: 5155447327084113394
+    second: Maw-HideStaff-Sheet_135
+  - first:
+      213: -7133321111543948189
+    second: Maw-HideStaff-Sheet_136
+  - first:
+      213: -1300675517249099735
+    second: Maw-HideStaff-Sheet_137
+  - first:
+      213: -3292163576072933203
+    second: Maw-HideStaff-Sheet_138
+  - first:
+      213: -1989484742032958298
+    second: Maw-HideStaff-Sheet_139
+  - first:
+      213: -8463325433500145697
+    second: Maw-HideStaff-Sheet_140
+  - first:
+      213: -5588588024859932908
+    second: Maw-HideStaff-Sheet_141
+  - first:
+      213: 1429741106655630852
+    second: Maw-HideStaff-Sheet_142
+  - first:
+      213: 4182589204639225941
+    second: Maw-HideStaff-Sheet_143
+  - first:
+      213: -6960849862533188784
+    second: Maw-HideStaff-Sheet_144
+  - first:
+      213: -100080792757797983
+    second: Maw-HideStaff-Sheet_145
+  - first:
+      213: 2705478692652790604
+    second: Maw-HideStaff-Sheet_146
+  - first:
+      213: 1097466544454973591
+    second: Maw-HideStaff-Sheet_147
+  - first:
+      213: 3851307774312107647
+    second: Maw-HideStaff-Sheet_148
+  - first:
+      213: 6247647704934544469
+    second: Maw-HideStaff-Sheet_149
+  - first:
+      213: -6153876077305686114
+    second: Maw-HideStaff-Sheet_150
+  - first:
+      213: 7360047984312695460
+    second: Maw-HideStaff-Sheet_151
+  - first:
+      213: -306570413674921257
+    second: Maw-HideStaff-Sheet_152
+  - first:
+      213: 6491703114485778515
+    second: Maw-HideStaff-Sheet_153
+  - first:
+      213: -8656579767278840644
+    second: Maw-HideStaff-Sheet_154
+  - first:
+      213: -3593180631349391961
+    second: Maw-HideStaff-Sheet_155
+  - first:
+      213: 4158428420351630288
+    second: Maw-HideStaff-Sheet_156
+  - first:
+      213: -7462400991065363675
+    second: Maw-HideStaff-Sheet_157
+  - first:
+      213: -4531992643409486404
+    second: Maw-HideStaff-Sheet_158
+  - first:
+      213: -7560282446388652000
+    second: Maw-HideStaff-Sheet_159
+  - first:
+      213: -184910313684818805
+    second: Maw-HideStaff-Sheet_160
+  - first:
+      213: 3549336706322544551
+    second: Maw-HideStaff-Sheet_161
+  - first:
+      213: -613424540744752383
+    second: Maw-HideStaff-Sheet_162
+  - first:
+      213: 6993793202779202061
+    second: Maw-HideStaff-Sheet_163
+  - first:
+      213: -9076594413383686608
+    second: Maw-HideStaff-Sheet_164
+  - first:
+      213: -6788360849043273012
+    second: Maw-HideStaff-Sheet_165
+  - first:
+      213: 7126780119480494796
+    second: Maw-HideStaff-Sheet_166
+  - first:
+      213: 5273348870513527519
+    second: Maw-HideStaff-Sheet_167
+  - first:
+      213: -3244520875100708167
+    second: Maw-HideStaff-Sheet_168
+  - first:
+      213: -4398767742844114441
+    second: Maw-HideStaff-Sheet_169
+  - first:
+      213: 2070999380872068803
+    second: Maw-HideStaff-Sheet_170
+  - first:
+      213: 7124242615836255661
+    second: Maw-HideStaff-Sheet_171
+  - first:
+      213: 4279770468233675432
+    second: Maw-HideStaff-Sheet_172
+  - first:
+      213: -135528617159265795
+    second: Maw-HideStaff-Sheet_173
+  - first:
+      213: 2796874731637760486
+    second: Maw-HideStaff-Sheet_174
+  - first:
+      213: -1955101483610386191
+    second: Maw-HideStaff-Sheet_175
+  - first:
+      213: -1265074370140748423
+    second: Maw-HideStaff-Sheet_176
+  - first:
+      213: 3237281805155946870
+    second: Maw-HideStaff-Sheet_177
+  - first:
+      213: 6868791912108933402
+    second: Maw-HideStaff-Sheet_178
+  - first:
+      213: 1146143961087702733
+    second: Maw-HideStaff-Sheet_179
+  - first:
+      213: 6779432259524744145
+    second: Maw-HideStaff-Sheet_180
+  - first:
+      213: -59315485011278657
+    second: Maw-HideStaff-Sheet_181
+  - first:
+      213: 5229152669796528125
+    second: Maw-HideStaff-Sheet_182
+  - first:
+      213: -2643972531103908206
+    second: Maw-HideStaff-Sheet_183
+  - first:
+      213: -2827674801130980423
+    second: Maw-HideStaff-Sheet_184
+  - first:
+      213: -2274401796051998017
+    second: Maw-HideStaff-Sheet_185
+  - first:
+      213: 6426117347525775748
+    second: Maw-HideStaff-Sheet_186
+  - first:
+      213: -1115100384488825556
+    second: Maw-HideStaff-Sheet_187
+  - first:
+      213: -4144202832418269140
+    second: Maw-HideStaff-Sheet_188
+  - first:
+      213: -5427175466446355872
+    second: Maw-HideStaff-Sheet_189
+  - first:
+      213: -278992909135541775
+    second: Maw-HideStaff-Sheet_190
+  - first:
+      213: 1700873111835766943
+    second: Maw-HideStaff-Sheet_191
+  - first:
+      213: 3172129764048513552
+    second: Maw-HideStaff-Sheet_192
+  - first:
+      213: -4211390643605585823
+    second: Maw-HideStaff-Sheet_193
+  - first:
+      213: -5564324748614051333
+    second: Maw-HideStaff-Sheet_194
+  - first:
+      213: -6838128961960832790
+    second: Maw-HideStaff-Sheet_195
+  - first:
+      213: -820915770455267143
+    second: Maw-HideStaff-Sheet_196
+  - first:
+      213: -2556342123310270119
+    second: Maw-HideStaff-Sheet_197
+  - first:
+      213: 1261830466657952508
+    second: Maw-HideStaff-Sheet_198
+  - first:
+      213: 3497536901800062194
+    second: Maw-HideStaff-Sheet_199
+  - first:
+      213: -8654603756621715697
+    second: Maw-HideStaff-Sheet_200
+  - first:
+      213: 1196959163874495270
+    second: Maw-HideStaff-Sheet_201
+  - first:
+      213: -3318783884299849296
+    second: Maw-HideStaff-Sheet_202
+  - first:
+      213: -2066514304263541756
+    second: Maw-HideStaff-Sheet_203
+  - first:
+      213: -1808798204871970664
+    second: Maw-HideStaff-Sheet_204
+  - first:
+      213: -6862906807852802905
+    second: Maw-HideStaff-Sheet_205
+  - first:
+      213: 2286186132379518069
+    second: Maw-HideStaff-Sheet_206
+  - first:
+      213: 8088155725149960325
+    second: Maw-HideStaff-Sheet_207
+  - first:
+      213: -1944396127918866512
+    second: Maw-HideStaff-Sheet_208
+  - first:
+      213: 2440842055709164500
+    second: Maw-HideStaff-Sheet_209
+  - first:
+      213: -8785861544719104158
+    second: Maw-HideStaff-Sheet_210
+  - first:
+      213: -7249700018675687978
+    second: Maw-HideStaff-Sheet_211
+  - first:
+      213: -5696748021135214735
+    second: Maw-HideStaff-Sheet_212
+  - first:
+      213: 5178094448119379483
+    second: Maw-HideStaff-Sheet_213
+  - first:
+      213: 9108712134096688632
+    second: Maw-HideStaff-Sheet_214
+  - first:
+      213: -7092459290188224133
+    second: Maw-HideStaff-Sheet_215
+  - first:
+      213: 6284688825471650704
+    second: Maw-HideStaff-Sheet_216
+  - first:
+      213: 620455163906141784
+    second: Maw-HideStaff-Sheet_217
+  - first:
+      213: 1821334738229052504
+    second: Maw-HideStaff-Sheet_218
+  - first:
+      213: -567190504536364212
+    second: Maw-HideStaff-Sheet_219
+  - first:
+      213: 3774174520139410074
+    second: Maw-HideStaff-Sheet_220
+  - first:
+      213: -2440589557349378181
+    second: Maw-HideStaff-Sheet_221
+  - first:
+      213: 4009640646544759264
+    second: Maw-HideStaff-Sheet_222
+  - first:
+      213: 6637395923207325481
+    second: Maw-HideStaff-Sheet_223
+  - first:
+      213: -247188134849162769
+    second: Maw-HideStaff-Sheet_224
+  - first:
+      213: 3380237293424253337
+    second: Maw-HideStaff-Sheet_225
+  - first:
+      213: -8256331422578296620
+    second: Maw-HideStaff-Sheet_226
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2452
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b21969c4b1992ac0800000000000000
+      internalID: -3879409398343724365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2452
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f276b0bf4757bc70800000000000000
+      internalID: 8986747581219894006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2452
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786645c1438f4cb70800000000000000
+      internalID: 8918526064797705863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2452
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152f564890f1ace90800000000000000
+      internalID: -7004752144684944815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 2452
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71ce7352a7f3a7a0800000000000000
+      internalID: -6366973171614170754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 2452
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757d9ab995cf63460800000000000000
+      internalID: 7221236514329057111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 2452
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2318a99f98561b50800000000000000
+      internalID: 6563530949440049967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 2452
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03734c972bbaa13d0800000000000000
+      internalID: -3235084599276849360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 2452
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3154d1522aea4e0800000000000000
+      internalID: -1968457706825772109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 2452
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e11d907a96f81b0800000000000000
+      internalID: -5652182841181528504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 2452
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878f240af207e96a0800000000000000
+      internalID: -6440587067238713224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 2452
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3c35655d29d9d60800000000000000
+      internalID: 7898630766451737578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 2452
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ff3583a25db3fb0800000000000000
+      internalID: -4666902211529015547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 2452
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b55fe73002ed21c0800000000000000
+      internalID: -4526713559871171149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 2452
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc684d8a1d477e00800000000000000
+      internalID: 1042386615194381557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2332
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980ea1e9b1e0ad990800000000000000
+      internalID: -7360555129204186999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 2332
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f47c530c910d2390800000000000000
+      internalID: -7841609606599248648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2332
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7c5eab8aee62c00800000000000000
+      internalID: 875649586027677619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 2332
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb357cff94dca3b0800000000000000
+      internalID: -5499787261325788225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 2332
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a155f621a5609010800000000000000
+      internalID: 1193565644070932904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2332
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9daab973652d5b0800000000000000
+      internalID: -5345115010900502045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2332
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb5e9c6638709550800000000000000
+      internalID: 6165560065016093689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 2332
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed91192575ccc820800000000000000
+      internalID: 2939941763756957156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 2332
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980c399ec161400f0800000000000000
+      internalID: -1151771291266334583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 2332
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef055f1c2a228580800000000000000
+      internalID: -8826445950700154903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 2332
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195fc04811008d4b0800000000000000
+      internalID: -5415578476683135599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 2332
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566533adfc52611e0800000000000000
+      internalID: -2227551391038876059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 2332
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3534f43637f69920800000000000000
+      internalID: 2996854414250358078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 2332
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78f8d1659e4134a0800000000000000
+      internalID: -6615419974131844998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 2332
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106eda52bf758dea0800000000000000
+      internalID: -5847827379960027647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2227
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3400bcfab76cbc0800000000000000
+      internalID: -3763184443666185242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2227
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc3a58a330afc8c0800000000000000
+      internalID: -3976783802216596302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 2227
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f39e93e47e2985a0800000000000000
+      internalID: -6518627906072177672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2227
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300d5d22d51d17100800000000000000
+      internalID: 104094464352833539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 2227
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2295fa0a308b1ac10800000000000000
+      internalID: 2063132430032656674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 2227
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5b5f0300b6f9540800000000000000
+      internalID: 5016846158479603180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 2227
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0a6ebb2ea0d01d0800000000000000
+      internalID: -3383035776154033999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2227
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223a968e60e380490800000000000000
+      internalID: -7779900156892568798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 2227
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f0f0bf405774ff0800000000000000
+      internalID: -51944206439084234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 2227
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0ca938b79b62850800000000000000
+      internalID: 6351968264592736496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 2227
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf668a0ed825c1f90800000000000000
+      internalID: -6981614553018112261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 2227
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4923c3c3d722a70800000000000000
+      internalID: 8800734319496828154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 2227
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820132158cc317400800000000000000
+      internalID: 320103879572394024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 2227
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43ddd75c380dde50800000000000000
+      internalID: 6835628864683496267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 2227
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1917a282f8b926600800000000000000
+      internalID: 460101151101710737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2c2c9c4f13a4e30800000000000000
+      internalID: 4488454906054886107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2047
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0a6983f2e87e5f0800000000000000
+      internalID: -727456481333042992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1116b3308bf5070800000000000000
+      internalID: 8097392979056071072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2047
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c42a5df3ab2e910800000000000000
+      internalID: 1865257979014696035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0502cf59ecb8660800000000000000
+      internalID: 7389226757206855906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2047
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8280e21a1d25cf0800000000000000
+      internalID: -264918937869211449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4751d28ed2dfb3a0800000000000000
+      internalID: -6647362671856232626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2047
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6679af7197cc89670800000000000000
+      internalID: 8545805113400924006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9038064dc41a61cd0800000000000000
+      internalID: -2587703584525090039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2047
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d4181fe3e3c9c70800000000000000
+      internalID: 8979120197130603885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb71d325fa97f530800000000000000
+      internalID: 3888747180916308986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2047
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3984d337d23af310800000000000000
+      internalID: 1439518930767219005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2acf2f963bcfce0800000000000000
+      internalID: -1370022918997892437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 2047
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80adb5759f8bf76d0800000000000000
+      internalID: -2990468246498715128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd1474b786a4f190800000000000000
+      internalID: -7929529942114296328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 2047
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418d895c594933ae0800000000000000
+      internalID: -1570748474036004844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc10b4377564e8be0800000000000000
+      internalID: -1473162686693178932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 2047
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969b425ba96985980800000000000000
+      internalID: -8549918301354673815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea5748a275bed730800000000000000
+      internalID: 4025854620969949922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 2047
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0877201737c72c060800000000000000
+      internalID: 6972272008382019456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ace2ca1bd12a1a0800000000000000
+      internalID: -6799839838440863120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 2047
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6815fb313b6e87a20800000000000000
+      internalID: 3060449603603091846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb656a6e74849d300800000000000000
+      internalID: 277332325709534907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 2047
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc67fd51d170cf780800000000000000
+      internalID: -8648029362955782452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57868ca59ec80540800000000000000
+      internalID: 4974452930670659420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 2047
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc9ff5efe5ca5800800000000000000
+      internalID: 602011134353972414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5d1c14f20774e40800000000000000
+      internalID: 5640600406573831623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 2047
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d7b56f81b5a4e70800000000000000
+      internalID: 9100186159826042210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7536870a00ea3e930800000000000000
+      internalID: 4171368997590688599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 2047
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87800a1ad41e26940800000000000000
+      internalID: 5288036636026734712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05787c2b6cd84ce80800000000000000
+      internalID: -8159240740346034352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10dd05c4bd5029340800000000000000
+      internalID: 4868960586577272065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272b71a6be65b9940800000000000000
+      internalID: 5303928555256132210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d896217451ecdfb0800000000000000
+      internalID: -4621571364797114153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e44741bab7b4a50800000000000000
+      internalID: 6506430061379604061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171e5b5b047d6da50800000000000000
+      internalID: 6545655781356069233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b4d30bbfd61bb30800000000000000
+      internalID: 4301340046876560284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fb68f6cfec1c750800000000000000
+      internalID: 6323562935403069221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f81023ba84ad0f50800000000000000
+      internalID: 6849311523918059761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d61c575bfbe72e50800000000000000
+      internalID: 6784650828391913177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e4cf70478235790800000000000000
+      internalID: -7542640472100155780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ff07e2a11980a10800000000000000
+      internalID: 1875908786434146206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c3a8d2fff986670800000000000000
+      internalID: 8532245412382915734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b81770e0551d230800000000000000
+      internalID: 3661801490771708764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2499bd8dc39b040800000000000000
+      internalID: 4663825791213716205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1820
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e868a3fe758432c0800000000000000
+      internalID: -4452787351262304029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1824
+        width: 14
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63869317454f386c0800000000000000
+      internalID: -4142198588736706506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1824
+        width: 14
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd1d51ec93f98310800000000000000
+      internalID: 1407924213651414452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1824
+        width: 14
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc050fbd6c71cf3b0800000000000000
+      internalID: -5477476903928442676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1838
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5957e964250b90d70800000000000000
+      internalID: 9009926396949984661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1838
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4fc9eb09453e020800000000000000
+      internalID: 2369830809576994011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1838
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ce0e08edd115000800000000000000
+      internalID: 22832314595732584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1838
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859f775a1ed8724f0800000000000000
+      internalID: -853557604080158376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1838
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9203c7de89154d610800000000000000
+      internalID: 1645029481158291497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1838
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ccf19bcdbfbcc40800000000000000
+      internalID: 5533793492572032028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1838
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04110a91328232dc0800000000000000
+      internalID: -3665041540530564800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 1838
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df15c98c3e9e34ce0800000000000000
+      internalID: -1422035892786408963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1838
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6dd65b71db087d0800000000000000
+      internalID: -2918124649010309381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1824
+        width: 14
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16a74d9ea5b8c200800000000000000
+      internalID: 200609944985642524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1820
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb976118ab3b51ce0800000000000000
+      internalID: -1435043292636612164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1723
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3194b21fd70c66a10800000000000000
+      internalID: 1902419539760204051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1716
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859e8630f32ad94e0800000000000000
+      internalID: -1973242670194562728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1716
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d4f19346432e6b0800000000000000
+      internalID: -5268591009010332385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1716
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c02780db6065480800000000000000
+      internalID: -8910927403745670081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1724
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c3690a754fb06a0800000000000000
+      internalID: -6481818581476164592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1725
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cb8c5b3074b8e00800000000000000
+      internalID: 1048009419554077736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1725
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fd9fbb77eb42830800000000000000
+      internalID: 4045567786749648694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1725
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476daba67807a0a60800000000000000
+      internalID: 7641043444700993140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1724
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328e4bb2548683f70800000000000000
+      internalID: 9167191687807952931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1724
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137d522d3a65ebce0800000000000000
+      internalID: -1387576373578180815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1724
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc211eaecf841b60800000000000000
+      internalID: 7715950179438898365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1723
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b9e68c89d864ad0800000000000000
+      internalID: -2718329637734278257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 1724
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c7afad0491d4010800000000000000
+      internalID: 1174622844156017681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1716
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22c20d402f990040800000000000000
+      internalID: 4614394254297580078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1711
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97faf2aa6509131f0800000000000000
+      internalID: -1066912934813257863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1572
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ae69801d5d84000800000000000000
+      internalID: 20501292092156575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1571
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2d37680913b9570800000000000000
+      internalID: 8474421620628509401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1571
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6014d183bf277cb30800000000000000
+      internalID: 4307537991906967814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1569
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808eb46b816922040800000000000000
+      internalID: 4621421200517359624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1569
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e099e44357c6350800000000000000
+      internalID: 6011308470150172246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1569
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9a71789f5462cc0800000000000000
+      internalID: -3736221902841599573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1569
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c13258f98a12ae0800000000000000
+      internalID: -1575792991516025747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1569
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefd71d1fb84080f0800000000000000
+      internalID: -1116812721923825682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1569
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb697f87e54c85a30800000000000000
+      internalID: 4204326162185819839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1569
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e17faebe300ad200800000000000000
+      internalID: 205477002485920227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1569
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528dac8ea2c162d50800000000000000
+      internalID: 6712083265262114853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1569
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77abebfc5d17836b0800000000000000
+      internalID: -5316374196983514505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1569
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be17c9431f24f250800000000000000
+      internalID: 5977454365316161203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1569
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ac1a863fc4c1e20800000000000000
+      internalID: 3322615233408780856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 1567
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8bf7a9079e7b6c0800000000000000
+      internalID: -4127573863624099592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1471
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fde51d7704db8740800000000000000
+      internalID: 5155447327084113394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1468
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cd0a53e3a510d90800000000000000
+      internalID: -7133321111543948189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1471
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928e152228213fde0800000000000000
+      internalID: -1300675517249099735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1467
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da071b19ba2ef42d0800000000000000
+      internalID: -3292163576072933203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1469
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acd019fa2ee364e0800000000000000
+      internalID: -1989484742032958298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1468
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7e1bddb5a3c8a80800000000000000
+      internalID: -8463325433500145697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1468
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417c83e0dc85172b0800000000000000
+      internalID: -5588588024859932908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1468
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4069bfe16f577d310800000000000000
+      internalID: 1429741106655630852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_143
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1468
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55897e7a8ba8b0a30800000000000000
+      internalID: 4182589204639225941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1468
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053f1e02ee7166f90800000000000000
+      internalID: -6960849862533188784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_145
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1467
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1abf4da9c017c9ef0800000000000000
+      internalID: -100080792757797983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_146
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1468
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4335f6698acb8520800000000000000
+      internalID: 2705478692652790604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_147
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1468
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7983d1fe10cfa3f00800000000000000
+      internalID: 1097466544454973591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_148
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1467
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ec2900408927530800000000000000
+      internalID: 3851307774312107647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_149
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1459
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55478667c7a14b650800000000000000
+      internalID: 6247647704934544469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_150
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1348
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e979b64ff4a099aa0800000000000000
+      internalID: -6153876077305686114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_151
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1350
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aab9c285a4242660800000000000000
+      internalID: 7360047984312695460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_152
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1349
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2034245d7debbf0800000000000000
+      internalID: -306570413674921257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_153
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1348
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358c83e8699271a50800000000000000
+      internalID: 6491703114485778515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_154
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1348
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4d281f096add780800000000000000
+      internalID: -8656579767278840644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_155
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1347
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad0b96d045722ec0800000000000000
+      internalID: -3593180631349391961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_156
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1348
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db92f2bd94b5b930800000000000000
+      internalID: 4158428420351630288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_157
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1348
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ba60c06d9307890800000000000000
+      internalID: -7462400991065363675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_158
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1348
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdd4ecc3b02b11c0800000000000000
+      internalID: -4531992643409486404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_159
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1348
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028126dcb2b741790800000000000000
+      internalID: -7560282446388652000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_160
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1348
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84a285ac011f6df0800000000000000
+      internalID: -184910313684818805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_161
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1348
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a73c90ede6c14130800000000000000
+      internalID: 3549336706322544551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_162
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1348
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103e66851adac77f0800000000000000
+      internalID: -613424540744752383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_163
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 1350
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02223cfcd1fe0160800000000000000
+      internalID: 6993793202779202061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_164
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 1349
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03668fb8875790280800000000000000
+      internalID: -9076594413383686608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_165
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1100
+        width: 54
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca4b9926c5eac1a0800000000000000
+      internalID: -6788360849043273012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_166
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1102
+        width: 54
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca63f562c867e260800000000000000
+      internalID: 7126780119480494796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_167
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1101
+        width: 54
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda8aabbbd2be2940800000000000000
+      internalID: 5273348870513527519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_168
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1100
+        width: 54
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2684d447529f2d0800000000000000
+      internalID: -3244520875100708167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_169
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1100
+        width: 54
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f964562b0074f2c0800000000000000
+      internalID: -4398767742844114441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_170
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1099
+        width: 54
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cefeead6faadbc10800000000000000
+      internalID: 2070999380872068803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_171
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1100
+        width: 54
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5ae9ac9e46ed260800000000000000
+      internalID: 7124242615836255661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_172
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1100
+        width: 54
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2864fc09cc46b30800000000000000
+      internalID: 4279770468233675432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_173
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1100
+        width: 54
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df17255d0718e1ef0800000000000000
+      internalID: -135528617159265795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_174
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1100
+        width: 54
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1e88cffbe70d620800000000000000
+      internalID: 2796874731637760486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_175
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 1100
+        width: 54
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f050992f851ed4e0800000000000000
+      internalID: -1955101483610386191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_176
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1100
+        width: 54
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9754f41209d817ee0800000000000000
+      internalID: -1265074370140748423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_177
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 1100
+        width: 54
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671d72266a22dec20800000000000000
+      internalID: 3237281805155946870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_178
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 1102
+        width: 54
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1144550ad9d25f50800000000000000
+      internalID: 6868791912108933402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_179
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1101
+        width: 54
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6771e2cdbe7ef00800000000000000
+      internalID: 1146143961087702733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_180
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 988
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3dbc798b1651e50800000000000000
+      internalID: 6779432259524744145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_181
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 862
+        width: 258
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4093271e44d2ff0800000000000000
+      internalID: -59315485011278657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_182
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 989
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffe18fd5aea19840800000000000000
+      internalID: 5229152669796528125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_183
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 988
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e39a7cdf8be4bd0800000000000000
+      internalID: -2643972531103908206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_184
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 862
+        width: 134
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbb34200c412c8d0800000000000000
+      internalID: -2827674801130980423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_185
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 861
+        width: 9
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba6fc5ed93bf60e0800000000000000
+      internalID: -2274401796051998017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_186
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 988
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481df383ea72e2950800000000000000
+      internalID: 6426117347525775748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_187
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 862
+        width: 134
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d54adbb1e5680f0800000000000000
+      internalID: -1115100384488825556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_188
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 988
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c289a881b75dc76c0800000000000000
+      internalID: -4144202832418269140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_189
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 862
+        width: 134
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06200cceaaccea4b0800000000000000
+      internalID: -5427175466446355872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_190
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 988
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f98f146d61d02cf0800000000000000
+      internalID: -278992909135541775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_191
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 862
+        width: 134
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90fbf66517ba9710800000000000000
+      internalID: 1700873111835766943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_192
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 988
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a2e87b63ba50c20800000000000000
+      internalID: 3172129764048513552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_193
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 862
+        width: 133
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1604c75c5822e85c0800000000000000
+      internalID: -4211390643605585823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_194
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 863
+        width: 9
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9d1f74f1c87c2b0800000000000000
+      internalID: -5564324748614051333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_195
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 735
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0930660f51a11a0800000000000000
+      internalID: -6838128961960832790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_196
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 728
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b86f77c4758b94f0800000000000000
+      internalID: -820915770455267143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_197
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 728
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95939b7026c068cd0800000000000000
+      internalID: -2556342123310270119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_198
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 728
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2a9ebbf1ce28110800000000000000
+      internalID: 1261830466657952508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_199
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 728
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcec9c084fb98030800000000000000
+      internalID: 3497536901800062194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_200
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 691
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f072dc6ccbba4e780800000000000000
+      internalID: -8654603756621715697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_201
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 679
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b436d84047c9010800000000000000
+      internalID: 1196959163874495270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_202
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 518
+        width: 18
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1340214af41f1d0800000000000000
+      internalID: -3318783884299849296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_203
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 511
+        width: 18
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cab1b60344253e0800000000000000
+      internalID: -2066514304263541756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_204
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 511
+        width: 18
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890fd38bd9bd5e6e0800000000000000
+      internalID: -1808798204871970664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_205
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 511
+        width: 18
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acd2579e9e02c0a0800000000000000
+      internalID: -6862906807852802905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_206
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 511
+        width: 18
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574c7e6bc2a2abf10800000000000000
+      internalID: 2286186132379518069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_207
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 511
+        width: 8
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588fa9577c6ee3070800000000000000
+      internalID: 8088155725149960325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_208
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 518
+        width: 8
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf30c4060e1405e0800000000000000
+      internalID: -1944396127918866512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_209
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 535
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d30163eaec9fd120800000000000000
+      internalID: 2440842055709164500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_210
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 547
+        width: 136
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267c04d7979521680800000000000000
+      internalID: -8785861544719104158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_211
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 554
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd51ba5e34e36b90800000000000000
+      internalID: -7249700018675687978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_212
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 554
+        width: 264
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17773518bd511f0b0800000000000000
+      internalID: -5696748021135214735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_213
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 465
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16f39147794cd740800000000000000
+      internalID: 5178094448119379483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_214
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 458
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f59f1a0d65a86e70800000000000000
+      internalID: 9108712134096688632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_215
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 458
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7969606ad5829d90800000000000000
+      internalID: -7092459290188224133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_216
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 458
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bca166033b73750800000000000000
+      internalID: 6284688825471650704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_217
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 458
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85eaeab2fac4c9800800000000000000
+      internalID: 620455163906141784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_218
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 292
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854c8396b4ea64910800000000000000
+      internalID: 1821334738229052504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_219
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 289
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ba221cd3fe028f0800000000000000
+      internalID: -567190504536364212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_220
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 0
+        width: 23
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a6d39cabf806430800000000000000
+      internalID: 3774174520139410074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_221
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 70
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7799a77ab8412ed0800000000000000
+      internalID: -2440589557349378181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_222
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 0
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9944e8cea15a730800000000000000
+      internalID: 4009640646544759264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_223
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 50
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927066cfc64cc1c50800000000000000
+      internalID: 6637395923207325481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_224
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 5
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1df9573bfc19cf0800000000000000
+      internalID: -247188134849162769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_225
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 17
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999941bb8e309ee20800000000000000
+      internalID: 3380237293424253337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HideStaff-Sheet_226
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 21
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d83359a05e9b6d80800000000000000
+      internalID: -8256331422578296620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maw-HideStaff-Sheet_0: -3879409398343724365
+      Maw-HideStaff-Sheet_1: 8986747581219894006
+      Maw-HideStaff-Sheet_10: -6440587067238713224
+      Maw-HideStaff-Sheet_100: -3665041540530564800
+      Maw-HideStaff-Sheet_101: -1422035892786408963
+      Maw-HideStaff-Sheet_102: -2918124649010309381
+      Maw-HideStaff-Sheet_103: 200609944985642524
+      Maw-HideStaff-Sheet_104: -1435043292636612164
+      Maw-HideStaff-Sheet_105: 1902419539760204051
+      Maw-HideStaff-Sheet_106: -1973242670194562728
+      Maw-HideStaff-Sheet_107: -5268591009010332385
+      Maw-HideStaff-Sheet_108: -8910927403745670081
+      Maw-HideStaff-Sheet_109: -6481818581476164592
+      Maw-HideStaff-Sheet_11: 7898630766451737578
+      Maw-HideStaff-Sheet_110: 1048009419554077736
+      Maw-HideStaff-Sheet_111: 4045567786749648694
+      Maw-HideStaff-Sheet_112: 7641043444700993140
+      Maw-HideStaff-Sheet_113: 9167191687807952931
+      Maw-HideStaff-Sheet_114: -1387576373578180815
+      Maw-HideStaff-Sheet_115: 7715950179438898365
+      Maw-HideStaff-Sheet_116: -2718329637734278257
+      Maw-HideStaff-Sheet_117: 1174622844156017681
+      Maw-HideStaff-Sheet_118: 4614394254297580078
+      Maw-HideStaff-Sheet_119: -1066912934813257863
+      Maw-HideStaff-Sheet_12: -4666902211529015547
+      Maw-HideStaff-Sheet_120: 20501292092156575
+      Maw-HideStaff-Sheet_121: 8474421620628509401
+      Maw-HideStaff-Sheet_122: 4307537991906967814
+      Maw-HideStaff-Sheet_123: 4621421200517359624
+      Maw-HideStaff-Sheet_124: 6011308470150172246
+      Maw-HideStaff-Sheet_125: -3736221902841599573
+      Maw-HideStaff-Sheet_126: -1575792991516025747
+      Maw-HideStaff-Sheet_127: -1116812721923825682
+      Maw-HideStaff-Sheet_128: 4204326162185819839
+      Maw-HideStaff-Sheet_129: 205477002485920227
+      Maw-HideStaff-Sheet_13: -4526713559871171149
+      Maw-HideStaff-Sheet_130: 6712083265262114853
+      Maw-HideStaff-Sheet_131: -5316374196983514505
+      Maw-HideStaff-Sheet_132: 5977454365316161203
+      Maw-HideStaff-Sheet_133: 3322615233408780856
+      Maw-HideStaff-Sheet_134: -4127573863624099592
+      Maw-HideStaff-Sheet_135: 5155447327084113394
+      Maw-HideStaff-Sheet_136: -7133321111543948189
+      Maw-HideStaff-Sheet_137: -1300675517249099735
+      Maw-HideStaff-Sheet_138: -3292163576072933203
+      Maw-HideStaff-Sheet_139: -1989484742032958298
+      Maw-HideStaff-Sheet_14: 1042386615194381557
+      Maw-HideStaff-Sheet_140: -8463325433500145697
+      Maw-HideStaff-Sheet_141: -5588588024859932908
+      Maw-HideStaff-Sheet_142: 1429741106655630852
+      Maw-HideStaff-Sheet_143: 4182589204639225941
+      Maw-HideStaff-Sheet_144: -6960849862533188784
+      Maw-HideStaff-Sheet_145: -100080792757797983
+      Maw-HideStaff-Sheet_146: 2705478692652790604
+      Maw-HideStaff-Sheet_147: 1097466544454973591
+      Maw-HideStaff-Sheet_148: 3851307774312107647
+      Maw-HideStaff-Sheet_149: 6247647704934544469
+      Maw-HideStaff-Sheet_15: -7360555129204186999
+      Maw-HideStaff-Sheet_150: -6153876077305686114
+      Maw-HideStaff-Sheet_151: 7360047984312695460
+      Maw-HideStaff-Sheet_152: -306570413674921257
+      Maw-HideStaff-Sheet_153: 6491703114485778515
+      Maw-HideStaff-Sheet_154: -8656579767278840644
+      Maw-HideStaff-Sheet_155: -3593180631349391961
+      Maw-HideStaff-Sheet_156: 4158428420351630288
+      Maw-HideStaff-Sheet_157: -7462400991065363675
+      Maw-HideStaff-Sheet_158: -4531992643409486404
+      Maw-HideStaff-Sheet_159: -7560282446388652000
+      Maw-HideStaff-Sheet_16: -7841609606599248648
+      Maw-HideStaff-Sheet_160: -184910313684818805
+      Maw-HideStaff-Sheet_161: 3549336706322544551
+      Maw-HideStaff-Sheet_162: -613424540744752383
+      Maw-HideStaff-Sheet_163: 6993793202779202061
+      Maw-HideStaff-Sheet_164: -9076594413383686608
+      Maw-HideStaff-Sheet_165: -6788360849043273012
+      Maw-HideStaff-Sheet_166: 7126780119480494796
+      Maw-HideStaff-Sheet_167: 5273348870513527519
+      Maw-HideStaff-Sheet_168: -3244520875100708167
+      Maw-HideStaff-Sheet_169: -4398767742844114441
+      Maw-HideStaff-Sheet_17: 875649586027677619
+      Maw-HideStaff-Sheet_170: 2070999380872068803
+      Maw-HideStaff-Sheet_171: 7124242615836255661
+      Maw-HideStaff-Sheet_172: 4279770468233675432
+      Maw-HideStaff-Sheet_173: -135528617159265795
+      Maw-HideStaff-Sheet_174: 2796874731637760486
+      Maw-HideStaff-Sheet_175: -1955101483610386191
+      Maw-HideStaff-Sheet_176: -1265074370140748423
+      Maw-HideStaff-Sheet_177: 3237281805155946870
+      Maw-HideStaff-Sheet_178: 6868791912108933402
+      Maw-HideStaff-Sheet_179: 1146143961087702733
+      Maw-HideStaff-Sheet_18: -5499787261325788225
+      Maw-HideStaff-Sheet_180: 6779432259524744145
+      Maw-HideStaff-Sheet_181: -59315485011278657
+      Maw-HideStaff-Sheet_182: 5229152669796528125
+      Maw-HideStaff-Sheet_183: -2643972531103908206
+      Maw-HideStaff-Sheet_184: -2827674801130980423
+      Maw-HideStaff-Sheet_185: -2274401796051998017
+      Maw-HideStaff-Sheet_186: 6426117347525775748
+      Maw-HideStaff-Sheet_187: -1115100384488825556
+      Maw-HideStaff-Sheet_188: -4144202832418269140
+      Maw-HideStaff-Sheet_189: -5427175466446355872
+      Maw-HideStaff-Sheet_19: 1193565644070932904
+      Maw-HideStaff-Sheet_190: -278992909135541775
+      Maw-HideStaff-Sheet_191: 1700873111835766943
+      Maw-HideStaff-Sheet_192: 3172129764048513552
+      Maw-HideStaff-Sheet_193: -4211390643605585823
+      Maw-HideStaff-Sheet_194: -5564324748614051333
+      Maw-HideStaff-Sheet_195: -6838128961960832790
+      Maw-HideStaff-Sheet_196: -820915770455267143
+      Maw-HideStaff-Sheet_197: -2556342123310270119
+      Maw-HideStaff-Sheet_198: 1261830466657952508
+      Maw-HideStaff-Sheet_199: 3497536901800062194
+      Maw-HideStaff-Sheet_2: 8918526064797705863
+      Maw-HideStaff-Sheet_20: -5345115010900502045
+      Maw-HideStaff-Sheet_200: -8654603756621715697
+      Maw-HideStaff-Sheet_201: 1196959163874495270
+      Maw-HideStaff-Sheet_202: -3318783884299849296
+      Maw-HideStaff-Sheet_203: -2066514304263541756
+      Maw-HideStaff-Sheet_204: -1808798204871970664
+      Maw-HideStaff-Sheet_205: -6862906807852802905
+      Maw-HideStaff-Sheet_206: 2286186132379518069
+      Maw-HideStaff-Sheet_207: 8088155725149960325
+      Maw-HideStaff-Sheet_208: -1944396127918866512
+      Maw-HideStaff-Sheet_209: 2440842055709164500
+      Maw-HideStaff-Sheet_21: 6165560065016093689
+      Maw-HideStaff-Sheet_210: -8785861544719104158
+      Maw-HideStaff-Sheet_211: -7249700018675687978
+      Maw-HideStaff-Sheet_212: -5696748021135214735
+      Maw-HideStaff-Sheet_213: 5178094448119379483
+      Maw-HideStaff-Sheet_214: 9108712134096688632
+      Maw-HideStaff-Sheet_215: -7092459290188224133
+      Maw-HideStaff-Sheet_216: 6284688825471650704
+      Maw-HideStaff-Sheet_217: 620455163906141784
+      Maw-HideStaff-Sheet_218: 1821334738229052504
+      Maw-HideStaff-Sheet_219: -567190504536364212
+      Maw-HideStaff-Sheet_22: 2939941763756957156
+      Maw-HideStaff-Sheet_220: 3774174520139410074
+      Maw-HideStaff-Sheet_221: -2440589557349378181
+      Maw-HideStaff-Sheet_222: 4009640646544759264
+      Maw-HideStaff-Sheet_223: 6637395923207325481
+      Maw-HideStaff-Sheet_224: -247188134849162769
+      Maw-HideStaff-Sheet_225: 3380237293424253337
+      Maw-HideStaff-Sheet_226: -8256331422578296620
+      Maw-HideStaff-Sheet_23: -1151771291266334583
+      Maw-HideStaff-Sheet_24: -8826445950700154903
+      Maw-HideStaff-Sheet_25: -5415578476683135599
+      Maw-HideStaff-Sheet_26: -2227551391038876059
+      Maw-HideStaff-Sheet_27: 2996854414250358078
+      Maw-HideStaff-Sheet_28: -6615419974131844998
+      Maw-HideStaff-Sheet_29: -5847827379960027647
+      Maw-HideStaff-Sheet_3: -7004752144684944815
+      Maw-HideStaff-Sheet_30: -3763184443666185242
+      Maw-HideStaff-Sheet_31: -3976783802216596302
+      Maw-HideStaff-Sheet_32: -6518627906072177672
+      Maw-HideStaff-Sheet_33: 104094464352833539
+      Maw-HideStaff-Sheet_34: 2063132430032656674
+      Maw-HideStaff-Sheet_35: 5016846158479603180
+      Maw-HideStaff-Sheet_36: -3383035776154033999
+      Maw-HideStaff-Sheet_37: -7779900156892568798
+      Maw-HideStaff-Sheet_38: -51944206439084234
+      Maw-HideStaff-Sheet_39: 6351968264592736496
+      Maw-HideStaff-Sheet_4: -6366973171614170754
+      Maw-HideStaff-Sheet_40: -6981614553018112261
+      Maw-HideStaff-Sheet_41: 8800734319496828154
+      Maw-HideStaff-Sheet_42: 320103879572394024
+      Maw-HideStaff-Sheet_43: 6835628864683496267
+      Maw-HideStaff-Sheet_44: 460101151101710737
+      Maw-HideStaff-Sheet_45: 4488454906054886107
+      Maw-HideStaff-Sheet_46: -727456481333042992
+      Maw-HideStaff-Sheet_47: 8097392979056071072
+      Maw-HideStaff-Sheet_48: 1865257979014696035
+      Maw-HideStaff-Sheet_49: 7389226757206855906
+      Maw-HideStaff-Sheet_5: 7221236514329057111
+      Maw-HideStaff-Sheet_50: -264918937869211449
+      Maw-HideStaff-Sheet_51: -6647362671856232626
+      Maw-HideStaff-Sheet_52: 8545805113400924006
+      Maw-HideStaff-Sheet_53: -2587703584525090039
+      Maw-HideStaff-Sheet_54: 8979120197130603885
+      Maw-HideStaff-Sheet_55: 3888747180916308986
+      Maw-HideStaff-Sheet_56: 1439518930767219005
+      Maw-HideStaff-Sheet_57: -1370022918997892437
+      Maw-HideStaff-Sheet_58: -2990468246498715128
+      Maw-HideStaff-Sheet_59: -7929529942114296328
+      Maw-HideStaff-Sheet_6: 6563530949440049967
+      Maw-HideStaff-Sheet_60: -1570748474036004844
+      Maw-HideStaff-Sheet_61: -1473162686693178932
+      Maw-HideStaff-Sheet_62: -8549918301354673815
+      Maw-HideStaff-Sheet_63: 4025854620969949922
+      Maw-HideStaff-Sheet_64: 6972272008382019456
+      Maw-HideStaff-Sheet_65: -6799839838440863120
+      Maw-HideStaff-Sheet_66: 3060449603603091846
+      Maw-HideStaff-Sheet_67: 277332325709534907
+      Maw-HideStaff-Sheet_68: -8648029362955782452
+      Maw-HideStaff-Sheet_69: 4974452930670659420
+      Maw-HideStaff-Sheet_7: -3235084599276849360
+      Maw-HideStaff-Sheet_70: 602011134353972414
+      Maw-HideStaff-Sheet_71: 5640600406573831623
+      Maw-HideStaff-Sheet_72: 9100186159826042210
+      Maw-HideStaff-Sheet_73: 4171368997590688599
+      Maw-HideStaff-Sheet_74: 5288036636026734712
+      Maw-HideStaff-Sheet_75: -8159240740346034352
+      Maw-HideStaff-Sheet_76: 4868960586577272065
+      Maw-HideStaff-Sheet_77: 5303928555256132210
+      Maw-HideStaff-Sheet_78: -4621571364797114153
+      Maw-HideStaff-Sheet_79: 6506430061379604061
+      Maw-HideStaff-Sheet_8: -1968457706825772109
+      Maw-HideStaff-Sheet_80: 6545655781356069233
+      Maw-HideStaff-Sheet_81: 4301340046876560284
+      Maw-HideStaff-Sheet_82: 6323562935403069221
+      Maw-HideStaff-Sheet_83: 6849311523918059761
+      Maw-HideStaff-Sheet_84: 6784650828391913177
+      Maw-HideStaff-Sheet_85: -7542640472100155780
+      Maw-HideStaff-Sheet_86: 1875908786434146206
+      Maw-HideStaff-Sheet_87: 8532245412382915734
+      Maw-HideStaff-Sheet_88: 3661801490771708764
+      Maw-HideStaff-Sheet_89: 4663825791213716205
+      Maw-HideStaff-Sheet_9: -5652182841181528504
+      Maw-HideStaff-Sheet_90: -4452787351262304029
+      Maw-HideStaff-Sheet_91: -4142198588736706506
+      Maw-HideStaff-Sheet_92: 1407924213651414452
+      Maw-HideStaff-Sheet_93: -5477476903928442676
+      Maw-HideStaff-Sheet_94: 9009926396949984661
+      Maw-HideStaff-Sheet_95: 2369830809576994011
+      Maw-HideStaff-Sheet_96: 22832314595732584
+      Maw-HideStaff-Sheet_97: -853557604080158376
+      Maw-HideStaff-Sheet_98: 1645029481158291497
+      Maw-HideStaff-Sheet_99: 5533793492572032028
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

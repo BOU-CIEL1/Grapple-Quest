@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: 6736038ca87f4d0419305b7fbe67cd0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4016581542785504827
+    second: Maw-Teleport-Effects-Sheet_0
+  - first:
+      213: 8909734213409843832
+    second: Maw-Teleport-Effects-Sheet_1
+  - first:
+      213: 1797509749907051549
+    second: Maw-Teleport-Effects-Sheet_2
+  - first:
+      213: 8184157647610082478
+    second: Maw-Teleport-Effects-Sheet_3
+  - first:
+      213: 4162484264021769828
+    second: Maw-Teleport-Effects-Sheet_4
+  - first:
+      213: -5589399036845627555
+    second: Maw-Teleport-Effects-Sheet_5
+  - first:
+      213: 2716443444195265429
+    second: Maw-Teleport-Effects-Sheet_6
+  - first:
+      213: 900406878233148926
+    second: Maw-Teleport-Effects-Sheet_7
+  - first:
+      213: 4599078735262270443
+    second: Maw-Teleport-Effects-Sheet_8
+  - first:
+      213: -8620320186501187502
+    second: Maw-Teleport-Effects-Sheet_9
+  - first:
+      213: 8773847096927408874
+    second: Maw-Teleport-Effects-Sheet_10
+  - first:
+      213: -3988441051840044389
+    second: Maw-Teleport-Effects-Sheet_11
+  - first:
+      213: -8325895014512980513
+    second: Maw-Teleport-Effects-Sheet_12
+  - first:
+      213: 6807886259779818535
+    second: Maw-Teleport-Effects-Sheet_13
+  - first:
+      213: -7082709005323290908
+    second: Maw-Teleport-Effects-Sheet_14
+  - first:
+      213: 1376999192887898687
+    second: Maw-Teleport-Effects-Sheet_15
+  - first:
+      213: 3565412671777735508
+    second: Maw-Teleport-Effects-Sheet_16
+  - first:
+      213: 2010163028722246571
+    second: Maw-Teleport-Effects-Sheet_17
+  - first:
+      213: 1875197425606650102
+    second: Maw-Teleport-Effects-Sheet_18
+  - first:
+      213: -7214238566605110962
+    second: Maw-Teleport-Effects-Sheet_19
+  - first:
+      213: -6059531565211465110
+    second: Maw-Teleport-Effects-Sheet_20
+  - first:
+      213: 670495172641640392
+    second: Maw-Teleport-Effects-Sheet_21
+  - first:
+      213: -8767037019934424155
+    second: Maw-Teleport-Effects-Sheet_22
+  - first:
+      213: 6271803309305750798
+    second: Maw-Teleport-Effects-Sheet_23
+  - first:
+      213: -4406900903328414428
+    second: Maw-Teleport-Effects-Sheet_24
+  - first:
+      213: -3438403071839623980
+    second: Maw-Teleport-Effects-Sheet_25
+  - first:
+      213: 735635338203277957
+    second: Maw-Teleport-Effects-Sheet_26
+  - first:
+      213: -993450807190474506
+    second: Maw-Teleport-Effects-Sheet_27
+  - first:
+      213: 3714989293499678561
+    second: Maw-Teleport-Effects-Sheet_28
+  - first:
+      213: -144422031683027559
+    second: Maw-Teleport-Effects-Sheet_29
+  - first:
+      213: 6610118743818807044
+    second: Maw-Teleport-Effects-Sheet_30
+  - first:
+      213: 2694628397866178794
+    second: Maw-Teleport-Effects-Sheet_31
+  - first:
+      213: -6064020384728846071
+    second: Maw-Teleport-Effects-Sheet_32
+  - first:
+      213: 2710195530529714301
+    second: Maw-Teleport-Effects-Sheet_33
+  - first:
+      213: 1675507764027013550
+    second: Maw-Teleport-Effects-Sheet_34
+  - first:
+      213: -346454189424861771
+    second: Maw-Teleport-Effects-Sheet_35
+  - first:
+      213: -3732131184095259696
+    second: Maw-Teleport-Effects-Sheet_36
+  - first:
+      213: 4896534821866545822
+    second: Maw-Teleport-Effects-Sheet_37
+  - first:
+      213: -3499130659603109839
+    second: Maw-Teleport-Effects-Sheet_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 33
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36de15e1a3cdb730800000000000000
+      internalID: 4016581542785504827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 54
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a2071bf0cb5ab70800000000000000
+      internalID: 8909734213409843832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 39
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14d28b089902f810800000000000000
+      internalID: 1797509749907051549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 63
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4789bd408f39170800000000000000
+      internalID: 8184157647610082478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 23
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ebb24626d14c930800000000000000
+      internalID: 4162484264021769828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 10
+        width: 29
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57e7ec90377e62b0800000000000000
+      internalID: -5589399036845627555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 0
+        width: 38
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b82bf8beeb2b520800000000000000
+      internalID: 2716443444195265429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 0
+        width: 38
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdb7620943ee7c00800000000000000
+      internalID: 900406878233148926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 0
+        width: 38
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be34c552eb533df30800000000000000
+      internalID: 4599078735262270443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 0
+        width: 38
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258b77976787e5880800000000000000
+      internalID: -8620320186501187502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 10
+        width: 29
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae253f5e277f2c970800000000000000
+      internalID: 8773847096927408874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 23
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b922d79bef536a8c0800000000000000
+      internalID: -3988441051840044389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3667
+        y: 23
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd02c6c89a747c80800000000000000
+      internalID: -8325895014512980513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 10
+        width: 29
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7245079cb787a7e50800000000000000
+      internalID: 6807886259779818535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3916
+        y: 0
+        width: 38
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6be3a7fa925bd90800000000000000
+      internalID: -7082709005323290908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 4044
+        y: 0
+        width: 38
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32351468751c1310800000000000000
+      internalID: 1376999192887898687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 4172
+        y: 0
+        width: 38
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4530df24fe3ea7130800000000000000
+      internalID: 3565412671777735508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 0
+        width: 38
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3ec93df9885eb10800000000000000
+      internalID: 2010163028722246571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 4434
+        y: 10
+        width: 29
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8e2059f1a060a10800000000000000
+      internalID: 1875197425606650102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 4565
+        y: 23
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4144901f30e1eb90800000000000000
+      internalID: -7214238566605110962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 33
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6acd4e652838eba0800000000000000
+      internalID: -6059531565211465110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 50
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf4bec9ec31e4900800000000000000
+      internalID: 670495172641640392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 42
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a30c16b74a355680800000000000000
+      internalID: -8767037019934424155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 33
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05e94061ebe90750800000000000000
+      internalID: 6271803309305750798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 42
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42503c82afa87d2c0800000000000000
+      internalID: -4406900903328414428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 44
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d42364af965840d0800000000000000
+      internalID: -3438403071839623980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 47
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58aa4d94170853a00800000000000000
+      internalID: 735635338203277957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 36
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0369f11cd8632f0800000000000000
+      internalID: -993450807190474506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 31
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f7d6f541b4e8330800000000000000
+      internalID: 3714989293499678561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 39
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99dfac76de8eefdf0800000000000000
+      internalID: -144422031683027559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 52
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407a870c9fbdbbb50800000000000000
+      internalID: 6610118743818807044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 3551
+        y: 38
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae85e78404e356520800000000000000
+      internalID: 2694628397866178794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 44
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9017281b69548dba0800000000000000
+      internalID: -6064020384728846071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 4828
+        y: 44
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70331dc97c8c9520800000000000000
+      internalID: 2710195530529714301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 32
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea93d352f69904710800000000000000
+      internalID: 1675507764027013550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 30
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd926410c5213bf0800000000000000
+      internalID: -346454189424861771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 36
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d318d4367ec43cc0800000000000000
+      internalID: -3732131184095259696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 3421
+        y: 32
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92afaf3a7cf3f340800000000000000
+      internalID: 4896534821866545822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Effects-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 3538
+        y: 33
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138adab4437907fc0800000000000000
+      internalID: -3499130659603109839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maw-Teleport-Effects-Sheet_0: 4016581542785504827
+      Maw-Teleport-Effects-Sheet_1: 8909734213409843832
+      Maw-Teleport-Effects-Sheet_10: 8773847096927408874
+      Maw-Teleport-Effects-Sheet_11: -3988441051840044389
+      Maw-Teleport-Effects-Sheet_12: -8325895014512980513
+      Maw-Teleport-Effects-Sheet_13: 6807886259779818535
+      Maw-Teleport-Effects-Sheet_14: -7082709005323290908
+      Maw-Teleport-Effects-Sheet_15: 1376999192887898687
+      Maw-Teleport-Effects-Sheet_16: 3565412671777735508
+      Maw-Teleport-Effects-Sheet_17: 2010163028722246571
+      Maw-Teleport-Effects-Sheet_18: 1875197425606650102
+      Maw-Teleport-Effects-Sheet_19: -7214238566605110962
+      Maw-Teleport-Effects-Sheet_2: 1797509749907051549
+      Maw-Teleport-Effects-Sheet_20: -6059531565211465110
+      Maw-Teleport-Effects-Sheet_21: 670495172641640392
+      Maw-Teleport-Effects-Sheet_22: -8767037019934424155
+      Maw-Teleport-Effects-Sheet_23: 6271803309305750798
+      Maw-Teleport-Effects-Sheet_24: -4406900903328414428
+      Maw-Teleport-Effects-Sheet_25: -3438403071839623980
+      Maw-Teleport-Effects-Sheet_26: 735635338203277957
+      Maw-Teleport-Effects-Sheet_27: -993450807190474506
+      Maw-Teleport-Effects-Sheet_28: 3714989293499678561
+      Maw-Teleport-Effects-Sheet_29: -144422031683027559
+      Maw-Teleport-Effects-Sheet_3: 8184157647610082478
+      Maw-Teleport-Effects-Sheet_30: 6610118743818807044
+      Maw-Teleport-Effects-Sheet_31: 2694628397866178794
+      Maw-Teleport-Effects-Sheet_32: -6064020384728846071
+      Maw-Teleport-Effects-Sheet_33: 2710195530529714301
+      Maw-Teleport-Effects-Sheet_34: 1675507764027013550
+      Maw-Teleport-Effects-Sheet_35: -346454189424861771
+      Maw-Teleport-Effects-Sheet_36: -3732131184095259696
+      Maw-Teleport-Effects-Sheet_37: 4896534821866545822
+      Maw-Teleport-Effects-Sheet_38: -3499130659603109839
+      Maw-Teleport-Effects-Sheet_4: 4162484264021769828
+      Maw-Teleport-Effects-Sheet_5: -5589399036845627555
+      Maw-Teleport-Effects-Sheet_6: 2716443444195265429
+      Maw-Teleport-Effects-Sheet_7: 900406878233148926
+      Maw-Teleport-Effects-Sheet_8: 4599078735262270443
+      Maw-Teleport-Effects-Sheet_9: -8620320186501187502
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

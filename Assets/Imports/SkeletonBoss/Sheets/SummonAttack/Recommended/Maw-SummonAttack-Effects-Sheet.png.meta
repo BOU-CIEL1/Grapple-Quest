@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 68e20d95a61259642bb2cd0bd18679f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8196283165702335963
+    second: Maw-SummonAttack-Effects-Sheet_0
+  - first:
+      213: 915317092767101659
+    second: Maw-SummonAttack-Effects-Sheet_1
+  - first:
+      213: 7260238871178451634
+    second: Maw-SummonAttack-Effects-Sheet_2
+  - first:
+      213: 5102543283300265202
+    second: Maw-SummonAttack-Effects-Sheet_3
+  - first:
+      213: -7491092638125131769
+    second: Maw-SummonAttack-Effects-Sheet_4
+  - first:
+      213: -5006153028771149824
+    second: Maw-SummonAttack-Effects-Sheet_5
+  - first:
+      213: -5257879243911443552
+    second: Maw-SummonAttack-Effects-Sheet_6
+  - first:
+      213: -8463886646080148681
+    second: Maw-SummonAttack-Effects-Sheet_7
+  - first:
+      213: -7147451726638204866
+    second: Maw-SummonAttack-Effects-Sheet_8
+  - first:
+      213: 3361776869204348230
+    second: Maw-SummonAttack-Effects-Sheet_9
+  - first:
+      213: 272529968286169027
+    second: Maw-SummonAttack-Effects-Sheet_10
+  - first:
+      213: 2320014286121090548
+    second: Maw-SummonAttack-Effects-Sheet_11
+  - first:
+      213: 6204718170878340287
+    second: Maw-SummonAttack-Effects-Sheet_12
+  - first:
+      213: -5055596874828860845
+    second: Maw-SummonAttack-Effects-Sheet_13
+  - first:
+      213: -5928742538671166101
+    second: Maw-SummonAttack-Effects-Sheet_14
+  - first:
+      213: 6016204862949222776
+    second: Maw-SummonAttack-Effects-Sheet_15
+  - first:
+      213: -74176763506259442
+    second: Maw-SummonAttack-Effects-Sheet_16
+  - first:
+      213: -7076277315377334239
+    second: Maw-SummonAttack-Effects-Sheet_17
+  - first:
+      213: -8908602195743710714
+    second: Maw-SummonAttack-Effects-Sheet_18
+  - first:
+      213: -5774692438279987173
+    second: Maw-SummonAttack-Effects-Sheet_19
+  - first:
+      213: -8623286878177604900
+    second: Maw-SummonAttack-Effects-Sheet_20
+  - first:
+      213: -1087786057475257828
+    second: Maw-SummonAttack-Effects-Sheet_21
+  - first:
+      213: -6505993917706231040
+    second: Maw-SummonAttack-Effects-Sheet_22
+  - first:
+      213: 8574969060834301126
+    second: Maw-SummonAttack-Effects-Sheet_23
+  - first:
+      213: -708854226648783733
+    second: Maw-SummonAttack-Effects-Sheet_24
+  - first:
+      213: -8093757068218503607
+    second: Maw-SummonAttack-Effects-Sheet_25
+  - first:
+      213: -3421451794882559689
+    second: Maw-SummonAttack-Effects-Sheet_26
+  - first:
+      213: 2528601533110343292
+    second: Maw-SummonAttack-Effects-Sheet_27
+  - first:
+      213: 2450368501618158876
+    second: Maw-SummonAttack-Effects-Sheet_28
+  - first:
+      213: 7965288598752507457
+    second: Maw-SummonAttack-Effects-Sheet_29
+  - first:
+      213: -1347328316953652248
+    second: Maw-SummonAttack-Effects-Sheet_30
+  - first:
+      213: 409778451855307395
+    second: Maw-SummonAttack-Effects-Sheet_31
+  - first:
+      213: -7980041849323088423
+    second: Maw-SummonAttack-Effects-Sheet_32
+  - first:
+      213: -2641407446348248853
+    second: Maw-SummonAttack-Effects-Sheet_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 9
+        width: 29
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdda33a0d1c0fb170800000000000000
+      internalID: 8196283165702335963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 71
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2f93bdb0cd3bc00800000000000000
+      internalID: 915317092767101659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 15
+        width: 32
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba131579cc81c460800000000000000
+      internalID: 7260238871178451634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 74
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcea2ce410efc640800000000000000
+      internalID: 5102543283300265202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 74
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708f1056fea4a0890800000000000000
+      internalID: -7491092638125131769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 79
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00889d41852968ab0800000000000000
+      internalID: -5006153028771149824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 76
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab42c26fa24807b0800000000000000
+      internalID: -5257879243911443552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 79
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b683160fb3a8a80800000000000000
+      internalID: -8463886646080148681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 76
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e383a7006862fcc90800000000000000
+      internalID: -7147451726638204866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 77
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dcc07404e67ae20800000000000000
+      internalID: 3361776869204348230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2663
+        y: 75
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7785eef8838c300800000000000000
+      internalID: 272529968286169027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 70
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd341683b8523020800000000000000
+      internalID: 2320014286121090548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 65
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc6d9a6d469b1650800000000000000
+      internalID: 6204718170878340287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 59
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35230449d69e6d9b0800000000000000
+      internalID: -5055596874828860845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 67
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6de1c9a210e8bda0800000000000000
+      internalID: -5928742538671166101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 50
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879e018927add7350800000000000000
+      internalID: 6016204862949222776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3175
+        y: 49
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a0f9860a878fef0800000000000000
+      internalID: -74176763506259442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 0
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12877ccf5430ccd90800000000000000
+      internalID: -7076277315377334239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 35
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6026e65b0894e5480800000000000000
+      internalID: -8908602195743710714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 44
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10ef21b2db2cdfa0800000000000000
+      internalID: -5774692438279987173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 39
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdacfedb54ee35880800000000000000
+      internalID: -8623286878177604900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 3433
+        y: 31
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a8094185867e0f0800000000000000
+      internalID: -1087786057475257828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 35
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003a448800116b5a0800000000000000
+      internalID: -6505993917706231040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 3569
+        y: 50
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c45efebde8600770800000000000000
+      internalID: 8574969060834301126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 3689
+        y: 49
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84a01726d4a926f0800000000000000
+      internalID: -708854226648783733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 35
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e678a34d23daf80800000000000000
+      internalID: -8093757068218503607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 3824
+        y: 35
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73107ed58bf8480d0800000000000000
+      internalID: -3421451794882559689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 3825
+        y: 50
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76dc8f72b5671320800000000000000
+      internalID: 2528601533110343292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 0
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1da1cb6b25710220800000000000000
+      internalID: 2450368501618158876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 0
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146bc1657c36a8e60800000000000000
+      internalID: 7965288598752507457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 15
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e31720c8045d4de0800000000000000
+      internalID: -1347328316953652248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 0
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382f173b453dfa500800000000000000
+      internalID: 409778451855307395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 0
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d59856d732314190800000000000000
+      internalID: -7980041849323088423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Effects-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 0
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8475d1ce5d75bd0800000000000000
+      internalID: -2641407446348248853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maw-SummonAttack-Effects-Sheet_0: 8196283165702335963
+      Maw-SummonAttack-Effects-Sheet_1: 915317092767101659
+      Maw-SummonAttack-Effects-Sheet_10: 272529968286169027
+      Maw-SummonAttack-Effects-Sheet_11: 2320014286121090548
+      Maw-SummonAttack-Effects-Sheet_12: 6204718170878340287
+      Maw-SummonAttack-Effects-Sheet_13: -5055596874828860845
+      Maw-SummonAttack-Effects-Sheet_14: -5928742538671166101
+      Maw-SummonAttack-Effects-Sheet_15: 6016204862949222776
+      Maw-SummonAttack-Effects-Sheet_16: -74176763506259442
+      Maw-SummonAttack-Effects-Sheet_17: -7076277315377334239
+      Maw-SummonAttack-Effects-Sheet_18: -8908602195743710714
+      Maw-SummonAttack-Effects-Sheet_19: -5774692438279987173
+      Maw-SummonAttack-Effects-Sheet_2: 7260238871178451634
+      Maw-SummonAttack-Effects-Sheet_20: -8623286878177604900
+      Maw-SummonAttack-Effects-Sheet_21: -1087786057475257828
+      Maw-SummonAttack-Effects-Sheet_22: -6505993917706231040
+      Maw-SummonAttack-Effects-Sheet_23: 8574969060834301126
+      Maw-SummonAttack-Effects-Sheet_24: -708854226648783733
+      Maw-SummonAttack-Effects-Sheet_25: -8093757068218503607
+      Maw-SummonAttack-Effects-Sheet_26: -3421451794882559689
+      Maw-SummonAttack-Effects-Sheet_27: 2528601533110343292
+      Maw-SummonAttack-Effects-Sheet_28: 2450368501618158876
+      Maw-SummonAttack-Effects-Sheet_29: 7965288598752507457
+      Maw-SummonAttack-Effects-Sheet_3: 5102543283300265202
+      Maw-SummonAttack-Effects-Sheet_30: -1347328316953652248
+      Maw-SummonAttack-Effects-Sheet_31: 409778451855307395
+      Maw-SummonAttack-Effects-Sheet_32: -7980041849323088423
+      Maw-SummonAttack-Effects-Sheet_33: -2641407446348248853
+      Maw-SummonAttack-Effects-Sheet_4: -7491092638125131769
+      Maw-SummonAttack-Effects-Sheet_5: -5006153028771149824
+      Maw-SummonAttack-Effects-Sheet_6: -5257879243911443552
+      Maw-SummonAttack-Effects-Sheet_7: -8463886646080148681
+      Maw-SummonAttack-Effects-Sheet_8: -7147451726638204866
+      Maw-SummonAttack-Effects-Sheet_9: 3361776869204348230
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
