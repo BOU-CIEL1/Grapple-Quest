@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 03e719046c82db94baba90a0e08c9172
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2007412975767111358
+    second: Maw-Teleport-Background-Sheet_0
+  - first:
+      213: 3837981424947959755
+    second: Maw-Teleport-Background-Sheet_1
+  - first:
+      213: 376929151220479905
+    second: Maw-Teleport-Background-Sheet_2
+  - first:
+      213: -1256617352859072912
+    second: Maw-Teleport-Background-Sheet_3
+  - first:
+      213: -526561638047218324
+    second: Maw-Teleport-Background-Sheet_4
+  - first:
+      213: 4690596436281820945
+    second: Maw-Teleport-Background-Sheet_5
+  - first:
+      213: 5596855885558454741
+    second: Maw-Teleport-Background-Sheet_6
+  - first:
+      213: 4464918249037216331
+    second: Maw-Teleport-Background-Sheet_7
+  - first:
+      213: 2323064624236541705
+    second: Maw-Teleport-Background-Sheet_8
+  - first:
+      213: -1125365588768306441
+    second: Maw-Teleport-Background-Sheet_9
+  - first:
+      213: 2097019256856332564
+    second: Maw-Teleport-Background-Sheet_10
+  - first:
+      213: 4921447630175377374
+    second: Maw-Teleport-Background-Sheet_11
+  - first:
+      213: 7603122203367056717
+    second: Maw-Teleport-Background-Sheet_12
+  - first:
+      213: -7745899942838364113
+    second: Maw-Teleport-Background-Sheet_13
+  - first:
+      213: 5001406857752820045
+    second: Maw-Teleport-Background-Sheet_14
+  - first:
+      213: -7673427154240735488
+    second: Maw-Teleport-Background-Sheet_15
+  - first:
+      213: 2090628214349511568
+    second: Maw-Teleport-Background-Sheet_16
+  - first:
+      213: 6428880510674462325
+    second: Maw-Teleport-Background-Sheet_17
+  - first:
+      213: -7931454986445012762
+    second: Maw-Teleport-Background-Sheet_18
+  - first:
+      213: -2617085238499634317
+    second: Maw-Teleport-Background-Sheet_19
+  - first:
+      213: -7893529237398592891
+    second: Maw-Teleport-Background-Sheet_20
+  - first:
+      213: 1353651381770055767
+    second: Maw-Teleport-Background-Sheet_21
+  - first:
+      213: 7658757141815566642
+    second: Maw-Teleport-Background-Sheet_22
+  - first:
+      213: -810459044521376499
+    second: Maw-Teleport-Background-Sheet_23
+  - first:
+      213: 7475638170078822095
+    second: Maw-Teleport-Background-Sheet_24
+  - first:
+      213: -1389731634950850822
+    second: Maw-Teleport-Background-Sheet_25
+  - first:
+      213: 1628435402634942678
+    second: Maw-Teleport-Background-Sheet_26
+  - first:
+      213: 4118596159759814832
+    second: Maw-Teleport-Background-Sheet_27
+  - first:
+      213: 7517262210872313051
+    second: Maw-Teleport-Background-Sheet_28
+  - first:
+      213: 7408927907304646020
+    second: Maw-Teleport-Background-Sheet_29
+  - first:
+      213: 4592052585489248742
+    second: Maw-Teleport-Background-Sheet_30
+  - first:
+      213: 1894945382484468319
+    second: Maw-Teleport-Background-Sheet_31
+  - first:
+      213: -4785115116378727992
+    second: Maw-Teleport-Background-Sheet_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24934e5c88c3424e0800000000000000
+      internalID: -2007412975767111358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 73
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7129085cf334530800000000000000
+      internalID: 3837981424947959755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 77
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a77cf3e01f1b3500800000000000000
+      internalID: 376929151220479905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 0
+        width: 79
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0764e38ec299f8ee0800000000000000
+      internalID: -1256617352859072912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 77
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6509d3eaf641b8f0800000000000000
+      internalID: -526561638047218324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 0
+        width: 77
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1178a416b98581140800000000000000
+      internalID: 4690596436281820945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 0
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d914c546c60cad40800000000000000
+      internalID: 5596855885558454741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 0
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ab509cd7396fd30800000000000000
+      internalID: 4464918249037216331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 0
+        width: 63
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90735e5b7fe2d3020800000000000000
+      internalID: 2323064624236541705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 0
+        width: 64
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa440f95f5e160f0800000000000000
+      internalID: -1125365588768306441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 0
+        width: 66
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419431457eb1a1d10800000000000000
+      internalID: 2097019256856332564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 0
+        width: 62
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed79a417b8e7c4440800000000000000
+      internalID: 4921447630175377374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 0
+        width: 68
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4524936c57b38960800000000000000
+      internalID: 7603122203367056717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 103
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f289661aa09018490800000000000000
+      internalID: -7745899942838364113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 0
+        width: 61
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d493f8dd901986540800000000000000
+      internalID: 5001406857752820045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 0
+        width: 62
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007f4a5a8a2828590800000000000000
+      internalID: -7673427154240735488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 0
+        width: 62
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b36b9c847630d10800000000000000
+      internalID: 2090628214349511568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 0
+        width: 62
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576ee2643c8f73950800000000000000
+      internalID: 6428880510674462325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 0
+        width: 62
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0c1f466bfcde190800000000000000
+      internalID: -7931454986445012762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 0
+        width: 71
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3739f4c67de3eabd0800000000000000
+      internalID: -2617085238499634317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 0
+        width: 52
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58262b4fafc847290800000000000000
+      internalID: -7893529237398592891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 3891
+        y: 0
+        width: 58
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750fe1082c229c210800000000000000
+      internalID: 1353651381770055767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 3994
+        y: 0
+        width: 75
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23127eaea0f594a60800000000000000
+      internalID: 7658757141815566642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 0
+        width: 62
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d050d420bcba0c4f0800000000000000
+      internalID: -810459044521376499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 4251
+        y: 0
+        width: 64
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce36ecde4dceb760800000000000000
+      internalID: 7475638170078822095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 4370
+        y: 0
+        width: 73
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6b1ade07ea6bce0800000000000000
+      internalID: -1389731634950850822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 0
+        width: 62
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8d9b1fe5d599610800000000000000
+      internalID: 1628435402634942678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 4639
+        y: 0
+        width: 60
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b095c3d261382930800000000000000
+      internalID: 4118596159759814832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 4767
+        y: 0
+        width: 60
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd40382172ea25860800000000000000
+      internalID: 7517262210872313051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 4892
+        y: 0
+        width: 85
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4852f517dacc1d660800000000000000
+      internalID: 7408927907304646020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 5021
+        y: 0
+        width: 79
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1300c2f7f3abf30800000000000000
+      internalID: 4592052585489248742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 5143
+        y: 0
+        width: 73
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52e0c719c23c4a10800000000000000
+      internalID: 1894945382484468319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Teleport-Background-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 5271
+        y: 0
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9d4ee772bd79db0800000000000000
+      internalID: -4785115116378727992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maw-Teleport-Background-Sheet_0: -2007412975767111358
+      Maw-Teleport-Background-Sheet_1: 3837981424947959755
+      Maw-Teleport-Background-Sheet_10: 2097019256856332564
+      Maw-Teleport-Background-Sheet_11: 4921447630175377374
+      Maw-Teleport-Background-Sheet_12: 7603122203367056717
+      Maw-Teleport-Background-Sheet_13: -7745899942838364113
+      Maw-Teleport-Background-Sheet_14: 5001406857752820045
+      Maw-Teleport-Background-Sheet_15: -7673427154240735488
+      Maw-Teleport-Background-Sheet_16: 2090628214349511568
+      Maw-Teleport-Background-Sheet_17: 6428880510674462325
+      Maw-Teleport-Background-Sheet_18: -7931454986445012762
+      Maw-Teleport-Background-Sheet_19: -2617085238499634317
+      Maw-Teleport-Background-Sheet_2: 376929151220479905
+      Maw-Teleport-Background-Sheet_20: -7893529237398592891
+      Maw-Teleport-Background-Sheet_21: 1353651381770055767
+      Maw-Teleport-Background-Sheet_22: 7658757141815566642
+      Maw-Teleport-Background-Sheet_23: -810459044521376499
+      Maw-Teleport-Background-Sheet_24: 7475638170078822095
+      Maw-Teleport-Background-Sheet_25: -1389731634950850822
+      Maw-Teleport-Background-Sheet_26: 1628435402634942678
+      Maw-Teleport-Background-Sheet_27: 4118596159759814832
+      Maw-Teleport-Background-Sheet_28: 7517262210872313051
+      Maw-Teleport-Background-Sheet_29: 7408927907304646020
+      Maw-Teleport-Background-Sheet_3: -1256617352859072912
+      Maw-Teleport-Background-Sheet_30: 4592052585489248742
+      Maw-Teleport-Background-Sheet_31: 1894945382484468319
+      Maw-Teleport-Background-Sheet_32: -4785115116378727992
+      Maw-Teleport-Background-Sheet_4: -526561638047218324
+      Maw-Teleport-Background-Sheet_5: 4690596436281820945
+      Maw-Teleport-Background-Sheet_6: 5596855885558454741
+      Maw-Teleport-Background-Sheet_7: 4464918249037216331
+      Maw-Teleport-Background-Sheet_8: 2323064624236541705
+      Maw-Teleport-Background-Sheet_9: -1125365588768306441
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

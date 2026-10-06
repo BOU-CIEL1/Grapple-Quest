@@ -1,0 +1,3835 @@
+fileFormatVersion: 2
+guid: 25469314c0049a84d830853a40633f1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8064929681989321858
+    second: Maw-Floating-Sheet_0
+  - first:
+      213: 3297202385420479918
+    second: Maw-Floating-Sheet_1
+  - first:
+      213: 6192224526850708715
+    second: Maw-Floating-Sheet_2
+  - first:
+      213: 2599619757223054461
+    second: Maw-Floating-Sheet_3
+  - first:
+      213: 2129787508731540176
+    second: Maw-Floating-Sheet_4
+  - first:
+      213: 5631669993777228815
+    second: Maw-Floating-Sheet_5
+  - first:
+      213: 6417079217599192982
+    second: Maw-Floating-Sheet_6
+  - first:
+      213: 7803150566979267049
+    second: Maw-Floating-Sheet_7
+  - first:
+      213: 5777376132454347005
+    second: Maw-Floating-Sheet_8
+  - first:
+      213: -4907036585045775726
+    second: Maw-Floating-Sheet_9
+  - first:
+      213: 4622527656273600876
+    second: Maw-Floating-Sheet_10
+  - first:
+      213: 8032544015280896466
+    second: Maw-Floating-Sheet_11
+  - first:
+      213: 5570395189368229785
+    second: Maw-Floating-Sheet_12
+  - first:
+      213: 1303943260509288732
+    second: Maw-Floating-Sheet_13
+  - first:
+      213: 4407031293028534035
+    second: Maw-Floating-Sheet_14
+  - first:
+      213: -6963082743773144010
+    second: Maw-Floating-Sheet_15
+  - first:
+      213: -5575876750991623355
+    second: Maw-Floating-Sheet_16
+  - first:
+      213: -653078403373048504
+    second: Maw-Floating-Sheet_17
+  - first:
+      213: 4411273372369790009
+    second: Maw-Floating-Sheet_18
+  - first:
+      213: 2136845535161015290
+    second: Maw-Floating-Sheet_19
+  - first:
+      213: 6984124147470162890
+    second: Maw-Floating-Sheet_20
+  - first:
+      213: -4147252646026007041
+    second: Maw-Floating-Sheet_21
+  - first:
+      213: -3216668037975101231
+    second: Maw-Floating-Sheet_22
+  - first:
+      213: 7633430077747017644
+    second: Maw-Floating-Sheet_23
+  - first:
+      213: 809102916664845304
+    second: Maw-Floating-Sheet_24
+  - first:
+      213: -8339082406116378956
+    second: Maw-Floating-Sheet_25
+  - first:
+      213: -6471510131781243378
+    second: Maw-Floating-Sheet_26
+  - first:
+      213: -937124110414041610
+    second: Maw-Floating-Sheet_27
+  - first:
+      213: 8717270609398506971
+    second: Maw-Floating-Sheet_28
+  - first:
+      213: -6116852172897895617
+    second: Maw-Floating-Sheet_29
+  - first:
+      213: -5099644776702287405
+    second: Maw-Floating-Sheet_30
+  - first:
+      213: -436037763362293280
+    second: Maw-Floating-Sheet_31
+  - first:
+      213: -6184005053792642262
+    second: Maw-Floating-Sheet_32
+  - first:
+      213: -3048114985243944429
+    second: Maw-Floating-Sheet_33
+  - first:
+      213: 1397998269276836961
+    second: Maw-Floating-Sheet_34
+  - first:
+      213: 5107009133460808831
+    second: Maw-Floating-Sheet_35
+  - first:
+      213: -6060255756300094312
+    second: Maw-Floating-Sheet_36
+  - first:
+      213: 4537970116944100298
+    second: Maw-Floating-Sheet_37
+  - first:
+      213: -717161682633968929
+    second: Maw-Floating-Sheet_38
+  - first:
+      213: -1996584871023090170
+    second: Maw-Floating-Sheet_39
+  - first:
+      213: -6607356789987194228
+    second: Maw-Floating-Sheet_40
+  - first:
+      213: -4869110944006214919
+    second: Maw-Floating-Sheet_41
+  - first:
+      213: -2718553780366071775
+    second: Maw-Floating-Sheet_42
+  - first:
+      213: 3666781723676649230
+    second: Maw-Floating-Sheet_43
+  - first:
+      213: 3803854759654830840
+    second: Maw-Floating-Sheet_44
+  - first:
+      213: -5603224889157004499
+    second: Maw-Floating-Sheet_45
+  - first:
+      213: -8460158394257738169
+    second: Maw-Floating-Sheet_46
+  - first:
+      213: -244387231207612102
+    second: Maw-Floating-Sheet_47
+  - first:
+      213: 2354798613879541210
+    second: Maw-Floating-Sheet_48
+  - first:
+      213: -8437245087586791739
+    second: Maw-Floating-Sheet_49
+  - first:
+      213: -1254895933575720633
+    second: Maw-Floating-Sheet_50
+  - first:
+      213: -8063314105713115700
+    second: Maw-Floating-Sheet_51
+  - first:
+      213: 3518000107771614792
+    second: Maw-Floating-Sheet_52
+  - first:
+      213: -6546008977951623097
+    second: Maw-Floating-Sheet_53
+  - first:
+      213: -1967910818906065828
+    second: Maw-Floating-Sheet_54
+  - first:
+      213: 2791738361319968705
+    second: Maw-Floating-Sheet_55
+  - first:
+      213: -1864078500924050444
+    second: Maw-Floating-Sheet_56
+  - first:
+      213: -9175276106468559316
+    second: Maw-Floating-Sheet_57
+  - first:
+      213: -1336810588261267973
+    second: Maw-Floating-Sheet_58
+  - first:
+      213: -1990166383273037752
+    second: Maw-Floating-Sheet_59
+  - first:
+      213: 3686088564423931607
+    second: Maw-Floating-Sheet_60
+  - first:
+      213: -7420198311505269180
+    second: Maw-Floating-Sheet_61
+  - first:
+      213: 1657500803484180562
+    second: Maw-Floating-Sheet_62
+  - first:
+      213: 2677124476199372895
+    second: Maw-Floating-Sheet_63
+  - first:
+      213: 6614702619311899379
+    second: Maw-Floating-Sheet_64
+  - first:
+      213: 7794071546812319327
+    second: Maw-Floating-Sheet_65
+  - first:
+      213: -2783270045074013332
+    second: Maw-Floating-Sheet_66
+  - first:
+      213: -797631201984729707
+    second: Maw-Floating-Sheet_67
+  - first:
+      213: -5179650177333600012
+    second: Maw-Floating-Sheet_68
+  - first:
+      213: 7210212604589360155
+    second: Maw-Floating-Sheet_69
+  - first:
+      213: 189587647289211142
+    second: Maw-Floating-Sheet_70
+  - first:
+      213: -2603598301101110908
+    second: Maw-Floating-Sheet_71
+  - first:
+      213: -961651151276579402
+    second: Maw-Floating-Sheet_72
+  - first:
+      213: 9036711252199748290
+    second: Maw-Floating-Sheet_73
+  - first:
+      213: -7387960860349842577
+    second: Maw-Floating-Sheet_74
+  - first:
+      213: -4340775534206334010
+    second: Maw-Floating-Sheet_75
+  - first:
+      213: -883717021878498347
+    second: Maw-Floating-Sheet_76
+  - first:
+      213: -9005752556749402713
+    second: Maw-Floating-Sheet_77
+  - first:
+      213: -168986596142255390
+    second: Maw-Floating-Sheet_78
+  - first:
+      213: -8641699051554638271
+    second: Maw-Floating-Sheet_79
+  - first:
+      213: -5184980041754249081
+    second: Maw-Floating-Sheet_80
+  - first:
+      213: 1402022823167018468
+    second: Maw-Floating-Sheet_81
+  - first:
+      213: 3809915998847055118
+    second: Maw-Floating-Sheet_82
+  - first:
+      213: 8868724461884884183
+    second: Maw-Floating-Sheet_83
+  - first:
+      213: 6871519173874911365
+    second: Maw-Floating-Sheet_84
+  - first:
+      213: -606880253185713225
+    second: Maw-Floating-Sheet_85
+  - first:
+      213: -8391322981548416706
+    second: Maw-Floating-Sheet_86
+  - first:
+      213: 7789487202513201677
+    second: Maw-Floating-Sheet_87
+  - first:
+      213: -2915486886256260992
+    second: Maw-Floating-Sheet_88
+  - first:
+      213: 2071112883507412348
+    second: Maw-Floating-Sheet_89
+  - first:
+      213: -5115750283378710886
+    second: Maw-Floating-Sheet_90
+  - first:
+      213: 2669931374725103158
+    second: Maw-Floating-Sheet_91
+  - first:
+      213: 6894379800079536173
+    second: Maw-Floating-Sheet_92
+  - first:
+      213: -2121332743537105729
+    second: Maw-Floating-Sheet_93
+  - first:
+      213: 3860248204775847264
+    second: Maw-Floating-Sheet_94
+  - first:
+      213: -2535707246257696386
+    second: Maw-Floating-Sheet_95
+  - first:
+      213: -163374683602717121
+    second: Maw-Floating-Sheet_96
+  - first:
+      213: 3098374887123989623
+    second: Maw-Floating-Sheet_97
+  - first:
+      213: -5981013410724416126
+    second: Maw-Floating-Sheet_98
+  - first:
+      213: -618605906301124486
+    second: Maw-Floating-Sheet_99
+  - first:
+      213: 5394901404673710768
+    second: Maw-Floating-Sheet_100
+  - first:
+      213: -4494542888740272370
+    second: Maw-Floating-Sheet_101
+  - first:
+      213: -6262669508210230485
+    second: Maw-Floating-Sheet_102
+  - first:
+      213: -8273416698361303204
+    second: Maw-Floating-Sheet_103
+  - first:
+      213: 2542069712457243294
+    second: Maw-Floating-Sheet_104
+  - first:
+      213: 7798633454858277905
+    second: Maw-Floating-Sheet_105
+  - first:
+      213: -4371276104920232363
+    second: Maw-Floating-Sheet_106
+  - first:
+      213: 3056299937068177387
+    second: Maw-Floating-Sheet_107
+  - first:
+      213: -5528795368691602154
+    second: Maw-Floating-Sheet_108
+  - first:
+      213: 3694168432801609610
+    second: Maw-Floating-Sheet_109
+  - first:
+      213: 1203650975086795755
+    second: Maw-Floating-Sheet_110
+  - first:
+      213: -4902857343544919572
+    second: Maw-Floating-Sheet_111
+  - first:
+      213: 4916092174547869906
+    second: Maw-Floating-Sheet_112
+  - first:
+      213: -8962554544421796000
+    second: Maw-Floating-Sheet_113
+  - first:
+      213: -3522421384220184781
+    second: Maw-Floating-Sheet_114
+  - first:
+      213: -392309242128093324
+    second: Maw-Floating-Sheet_115
+  - first:
+      213: -6115606801196050657
+    second: Maw-Floating-Sheet_116
+  - first:
+      213: 5508318518043406834
+    second: Maw-Floating-Sheet_117
+  - first:
+      213: 6456005586521197478
+    second: Maw-Floating-Sheet_118
+  - first:
+      213: 4665977951061542927
+    second: Maw-Floating-Sheet_119
+  - first:
+      213: 1930356638091122730
+    second: Maw-Floating-Sheet_120
+  - first:
+      213: 9016444342965876726
+    second: Maw-Floating-Sheet_121
+  - first:
+      213: -8565641648747547693
+    second: Maw-Floating-Sheet_122
+  - first:
+      213: 8669817086570674452
+    second: Maw-Floating-Sheet_123
+  - first:
+      213: -5559534068953200234
+    second: Maw-Floating-Sheet_124
+  - first:
+      213: 5152842537707321884
+    second: Maw-Floating-Sheet_125
+  - first:
+      213: -73402062669955920
+    second: Maw-Floating-Sheet_126
+  - first:
+      213: -4187982487185929223
+    second: Maw-Floating-Sheet_127
+  - first:
+      213: 8833517828132288488
+    second: Maw-Floating-Sheet_128
+  - first:
+      213: -805334266368363756
+    second: Maw-Floating-Sheet_129
+  - first:
+      213: 7462211957744318830
+    second: Maw-Floating-Sheet_130
+  - first:
+      213: 8004284069356924228
+    second: Maw-Floating-Sheet_131
+  - first:
+      213: -3846003242861027559
+    second: Maw-Floating-Sheet_132
+  - first:
+      213: -9083194816479317112
+    second: Maw-Floating-Sheet_133
+  - first:
+      213: 8429602932438557623
+    second: Maw-Floating-Sheet_134
+  - first:
+      213: 4382315638897833217
+    second: Maw-Floating-Sheet_135
+  - first:
+      213: -9190276988883654840
+    second: Maw-Floating-Sheet_136
+  - first:
+      213: 6574402757366210913
+    second: Maw-Floating-Sheet_137
+  - first:
+      213: -9180876483770863724
+    second: Maw-Floating-Sheet_138
+  - first:
+      213: -9216746756688781952
+    second: Maw-Floating-Sheet_139
+  - first:
+      213: 4129489709087989663
+    second: Maw-Floating-Sheet_140
+  - first:
+      213: 2468130140716942890
+    second: Maw-Floating-Sheet_141
+  - first:
+      213: -4481612524882319802
+    second: Maw-Floating-Sheet_142
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2452
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2844a71e0d26cef60800000000000000
+      internalID: 8064929681989321858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2451
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadee87a91402cd20800000000000000
+      internalID: 3297202385420479918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2451
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4d56c36633fe550800000000000000
+      internalID: 6192224526850708715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 2453
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c0e545564b31420800000000000000
+      internalID: 2599619757223054461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 2454
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2f10184768e8d10800000000000000
+      internalID: 2129787508731540176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2453
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c615f7506b72e40800000000000000
+      internalID: 5631669993777228815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2457
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f9a8c9c8b0e0950800000000000000
+      internalID: 6417079217599192982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 2454
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9efa9091c5a4c60800000000000000
+      internalID: 7803150566979267049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 2449
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0f2cc8bfc5d2050800000000000000
+      internalID: 5777376132454347005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 2449
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a20887934b6ebb0800000000000000
+      internalID: -4907036585045775726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 2451
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c616b948964862040800000000000000
+      internalID: 4622527656273600876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2332
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9f1814934597f60800000000000000
+      internalID: 8032544015280896466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2334
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f86d859e40e4d40800000000000000
+      internalID: 5570395189368229785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2334
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19bbe1ac79881210800000000000000
+      internalID: 1303943260509288732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2337
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3170ffe8c9be82d30800000000000000
+      internalID: 4407031293028534035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2337
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cdfb3f2292e5f90800000000000000
+      internalID: -6963082743773144010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 2337
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bf8c123a18e92b0800000000000000
+      internalID: -5575876750991623355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2337
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d587cf6accfe6f0800000000000000
+      internalID: -653078403373048504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2337
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934ad3f92cdf73d30800000000000000
+      internalID: 4411273372369790009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 2334
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbd62751b997ad10800000000000000
+      internalID: 2136845535161015290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 2334
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbdf2d98e79ce060800000000000000
+      internalID: 6984124147470162890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 2334
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd22d701bff176c0800000000000000
+      internalID: -4147252646026007041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2227
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0342c46791c53d0800000000000000
+      internalID: -3216668037975101231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2225
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7b4e946346fe960800000000000000
+      internalID: 7633430077747017644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2225
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f36a8ed0d28a3b00800000000000000
+      internalID: 809102916664845304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2228
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b639b6ebb0a54c80800000000000000
+      internalID: -8339082406116378956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 2228
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e66da92d39036a0800000000000000
+      internalID: -6471510131781243378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 2228
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd2150369aaef2f0800000000000000
+      internalID: -937124110414041610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 2228
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5a624ee67f9f870800000000000000
+      internalID: 8717270609398506971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2228
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b38d27b539c1ba0800000000000000
+      internalID: -6116852172897895617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 2225
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1ebfb381c6a39b0800000000000000
+      internalID: -5099644776702287405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 2225
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e97226e6f1e2f9f0800000000000000
+      internalID: -436037763362293280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 2225
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b1877fa200e2aa0800000000000000
+      internalID: -6184005053792642262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a5dfd029be2b5d0800000000000000
+      internalID: -3048114985243944429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2047
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1645bdcd400b66310800000000000000
+      internalID: 1397998269276836961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f746b90bfbdbfd640800000000000000
+      internalID: 5107009133460808831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2047
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89477bd8f75a5eba0800000000000000
+      internalID: -6060255756300094312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb7ac537cb1afe30800000000000000
+      internalID: 4537970116944100298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2047
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2b414df312c06f0800000000000000
+      internalID: -717161682633968929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2051
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606efbe53a4ba44e0800000000000000
+      internalID: -1996584871023090170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 2081
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a4c8cb104fd44a0800000000000000
+      internalID: -6607356789987194228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2051
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9faea82e4617d6cb0800000000000000
+      internalID: -4869110944006214919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 2081
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1282c728db1c54ad0800000000000000
+      internalID: -2718553780366071775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 2051
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0724acdc8603e230800000000000000
+      internalID: 3666781723676649230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 2081
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2b76e00c10ac430800000000000000
+      internalID: 3803854759654830840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2051
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d235b2586a85d32b0800000000000000
+      internalID: -5603224889157004499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2081
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7467ab6a3ca779a80800000000000000
+      internalID: -8460158394257738169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2051
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31aa38ab13cb9cf0800000000000000
+      internalID: -244387231207612102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 2081
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add4fd1fcdceda020800000000000000
+      internalID: 2354798613879541210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ceca779b42e8ea80800000000000000
+      internalID: -8437245087586791739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 2047
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74113211cc6b59ee0800000000000000
+      internalID: -1254895933575720633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdb298ca8a591090800000000000000
+      internalID: -8063314105713115700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 2047
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8465387757272d030800000000000000
+      internalID: 3518000107771614792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748fcac4487e725a0800000000000000
+      internalID: -6546008977951623097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 2047
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54b471698390b4e0800000000000000
+      internalID: -1967910818906065828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfce449f3f3eb620800000000000000
+      internalID: 2791738361319968705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3bafeca767126e0800000000000000
+      internalID: -1864078500924050444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26ffcd6efedaa080800000000000000
+      internalID: -9175276106468559316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1921
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5c4ba4ad1b27de0800000000000000
+      internalID: -1336810588261267973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1921
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840361108328164e0800000000000000
+      internalID: -1990166383273037752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1921
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d63e15050e972330800000000000000
+      internalID: 3686088564423931607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1921
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e66c713f8260990800000000000000
+      internalID: -7420198311505269180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1921
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250699ee230a00710800000000000000
+      internalID: 1657500803484180562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f580e5fe68e072520800000000000000
+      internalID: 2677124476199372895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f28eee6cf42ccb50800000000000000
+      internalID: 6614702619311899379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f564abde6ca1a2c60800000000000000
+      internalID: 7794071546812319327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1823
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63c061f3a6df59d0800000000000000
+      internalID: -2783270045074013332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1823
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59daee7d5ae3ee4f0800000000000000
+      internalID: -797631201984729707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1823
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0ed3f4b9f2e18b0800000000000000
+      internalID: -5179650177333600012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1831
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14c79b9922df0460800000000000000
+      internalID: 7210212604589360155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1831
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609b972f5fc81a200800000000000000
+      internalID: 189587647289211142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1831
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489ce0db3292edbd0800000000000000
+      internalID: -2603598301101110908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1831
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5605a7f5787a2f0800000000000000
+      internalID: -961651151276579402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1831
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2342d5109d86d70800000000000000
+      internalID: 9036711252199748290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1823
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bbb589db0b87990800000000000000
+      internalID: -7387960860349842577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1823
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbcce966a772c3c0800000000000000
+      internalID: -4340775534206334010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1823
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db47fcfc086cb3f0800000000000000
+      internalID: -883717021878498347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1712
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adc2ef93c3250380800000000000000
+      internalID: -9005752556749402713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1713
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2732d0693a7adf0800000000000000
+      internalID: -168986596142255390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1713
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14671409f74821880800000000000000
+      internalID: -8641699051554638271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1724
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7887fbb8f104b08b0800000000000000
+      internalID: -5184980041754249081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1726
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e54cd5545cf47310800000000000000
+      internalID: 1402022823167018468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1724
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e053b574a6a8fd430800000000000000
+      internalID: 3809915998847055118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1725
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d44779d8e9041b70800000000000000
+      internalID: 8868724461884884183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1726
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5888912284a8c5f50800000000000000
+      internalID: 6871519173874911365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1713
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb9aa700ade397f0800000000000000
+      internalID: -606880253185713225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1713
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e312c3915380c8b80800000000000000
+      internalID: -8391322981548416706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1713
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a20481751d91c60800000000000000
+      internalID: 7789487202513201677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1567
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088c265bf1c1a87d0800000000000000
+      internalID: -2915486886256260992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1573
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7db13fb1321ebc10800000000000000
+      internalID: 2071112883507412348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1573
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96ab9fb8343109b0800000000000000
+      internalID: -5115750283378710886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1575
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ef82d70708d0520800000000000000
+      internalID: 2669931374725103158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1575
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d209e5276e1cdaf50800000000000000
+      internalID: 6894379800079536173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1575
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4e01beb138f82e0800000000000000
+      internalID: -2121332743537105729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1575
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065f08e2a4b529530800000000000000
+      internalID: 3860248204775847264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1575
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e711d6cb1bb5fccd0800000000000000
+      internalID: -2535707246257696386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1573
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36719247939bbdf0800000000000000
+      internalID: -163374683602717121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1573
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77434004b83affa20800000000000000
+      internalID: 3098374887123989623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1573
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2857ce0edfb2ffca0800000000000000
+      internalID: -5981013410724416126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1460
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7086faa4354a67f0800000000000000
+      internalID: -618605906301124486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1461
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba15df7e3a8eda40800000000000000
+      internalID: 5394901404673710768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1461
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07c0e84e0d20a1c0800000000000000
+      internalID: -4494542888740272370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1465
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b757963478619a0800000000000000
+      internalID: -6262669508210230485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1465
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fa367e85bee2d80800000000000000
+      internalID: -8273416698361303204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1465
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a1b4d5fee374320800000000000000
+      internalID: 2542069712457243294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1466
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1141e4aeecf4a3c60800000000000000
+      internalID: 7798633454858277905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1465
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e8317ea8b1653c0800000000000000
+      internalID: -4371276104920232363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1461
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be75ffb89982a6a20800000000000000
+      internalID: 3056299937068177387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1461
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61def4da7e5c543b0800000000000000
+      internalID: -5528795368691602154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1461
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87f999fd92544330800000000000000
+      internalID: 3694168432801609610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1348
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebd9934f2a34b010800000000000000
+      internalID: 1203650975086795755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1349
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9f695f83d85fbb0800000000000000
+      internalID: -4902857343544919572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1349
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0e00349c7793440800000000000000
+      internalID: 4916092174547869906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1349
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0670da3a02c9e9380800000000000000
+      internalID: -8962554544421796000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1349
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fe054e968dd1fc0800000000000000
+      internalID: -3522421384220184781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1349
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f2ad4a2dc3e8af0800000000000000
+      internalID: -392309242128093324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1349
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f171fb42400012ba0800000000000000
+      internalID: -6115606801196050657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1349
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1fea1028a717c40800000000000000
+      internalID: 5508318518043406834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1345
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab888420e6589950800000000000000
+      internalID: 6456005586521197478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1347
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0804de9932e0c040800000000000000
+      internalID: 4665977951061542927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_120
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 1347
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a281d3782210aca10800000000000000
+      internalID: 1930356638091122730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1100
+        width: 54
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7bf87db58d02d70800000000000000
+      internalID: 9016444342965876726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_122
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1100
+        width: 50
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d37c1d9d4ab02980800000000000000
+      internalID: -8565641648747547693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_123
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1100
+        width: 50
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41938a0a4b0615870800000000000000
+      internalID: 8669817086570674452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_124
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1101
+        width: 50
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699cc5f483198d2b0800000000000000
+      internalID: -5559534068953200234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_125
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1101
+        width: 50
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a3193bcf2928740800000000000000
+      internalID: 5152842537707321884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_126
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1101
+        width: 50
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcb6c086393bfef0800000000000000
+      internalID: -73402062669955920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_127
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1101
+        width: 50
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbc9b5ed1c41e5c0800000000000000
+      internalID: -4187982487185929223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_128
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1101
+        width: 50
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7b7e6a9a5f69a70800000000000000
+      internalID: 8833517828132288488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_129
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1097
+        width: 50
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413f9a760c0e2d4f0800000000000000
+      internalID: -805334266368363756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_130
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1100
+        width: 50
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69b5043d3a1f8760800000000000000
+      internalID: 7462211957744318830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_131
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 1099
+        width: 50
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d665bd3fde41f60800000000000000
+      internalID: 8004284069356924228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_132
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 988
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f94487d6040aac0800000000000000
+      internalID: -3846003242861027559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_133
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 862
+        width: 257
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883b412707202f180800000000000000
+      internalID: -9083194816479317112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_134
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 990
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b367918437fbf470800000000000000
+      internalID: 8429602932438557623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_135
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 989
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105f426eadc11dc30800000000000000
+      internalID: 4382315638897833217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_136
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 863
+        width: 380
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847a42255c3957080800000000000000
+      internalID: -9190276988883654840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_137
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1002
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1616923a978fc3b50800000000000000
+      internalID: 6574402757366210913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1005
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fa91afa79f69080800000000000000
+      internalID: -9180876483770863724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 862
+        width: 135
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08dd4de38a9871080800000000000000
+      internalID: -9216746756688781952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 989
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f12dde205ee4930800000000000000
+      internalID: 4129489709087989663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_141
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 990
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a264ed8494f804220800000000000000
+      internalID: 2468130140716942890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Floating-Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 864
+        width: 128
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646a279372d1ec1c0800000000000000
+      internalID: -4481612524882319802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maw-Floating-Sheet_0: 8064929681989321858
+      Maw-Floating-Sheet_1: 3297202385420479918
+      Maw-Floating-Sheet_10: 4622527656273600876
+      Maw-Floating-Sheet_100: 5394901404673710768
+      Maw-Floating-Sheet_101: -4494542888740272370
+      Maw-Floating-Sheet_102: -6262669508210230485
+      Maw-Floating-Sheet_103: -8273416698361303204
+      Maw-Floating-Sheet_104: 2542069712457243294
+      Maw-Floating-Sheet_105: 7798633454858277905
+      Maw-Floating-Sheet_106: -4371276104920232363
+      Maw-Floating-Sheet_107: 3056299937068177387
+      Maw-Floating-Sheet_108: -5528795368691602154
+      Maw-Floating-Sheet_109: 3694168432801609610
+      Maw-Floating-Sheet_11: 8032544015280896466
+      Maw-Floating-Sheet_110: 1203650975086795755
+      Maw-Floating-Sheet_111: -4902857343544919572
+      Maw-Floating-Sheet_112: 4916092174547869906
+      Maw-Floating-Sheet_113: -8962554544421796000
+      Maw-Floating-Sheet_114: -3522421384220184781
+      Maw-Floating-Sheet_115: -392309242128093324
+      Maw-Floating-Sheet_116: -6115606801196050657
+      Maw-Floating-Sheet_117: 5508318518043406834
+      Maw-Floating-Sheet_118: 6456005586521197478
+      Maw-Floating-Sheet_119: 4665977951061542927
+      Maw-Floating-Sheet_12: 5570395189368229785
+      Maw-Floating-Sheet_120: 1930356638091122730
+      Maw-Floating-Sheet_121: 9016444342965876726
+      Maw-Floating-Sheet_122: -8565641648747547693
+      Maw-Floating-Sheet_123: 8669817086570674452
+      Maw-Floating-Sheet_124: -5559534068953200234
+      Maw-Floating-Sheet_125: 5152842537707321884
+      Maw-Floating-Sheet_126: -73402062669955920
+      Maw-Floating-Sheet_127: -4187982487185929223
+      Maw-Floating-Sheet_128: 8833517828132288488
+      Maw-Floating-Sheet_129: -805334266368363756
+      Maw-Floating-Sheet_13: 1303943260509288732
+      Maw-Floating-Sheet_130: 7462211957744318830
+      Maw-Floating-Sheet_131: 8004284069356924228
+      Maw-Floating-Sheet_132: -3846003242861027559
+      Maw-Floating-Sheet_133: -9083194816479317112
+      Maw-Floating-Sheet_134: 8429602932438557623
+      Maw-Floating-Sheet_135: 4382315638897833217
+      Maw-Floating-Sheet_136: -9190276988883654840
+      Maw-Floating-Sheet_137: 6574402757366210913
+      Maw-Floating-Sheet_138: -9180876483770863724
+      Maw-Floating-Sheet_139: -9216746756688781952
+      Maw-Floating-Sheet_14: 4407031293028534035
+      Maw-Floating-Sheet_140: 4129489709087989663
+      Maw-Floating-Sheet_141: 2468130140716942890
+      Maw-Floating-Sheet_142: -4481612524882319802
+      Maw-Floating-Sheet_15: -6963082743773144010
+      Maw-Floating-Sheet_16: -5575876750991623355
+      Maw-Floating-Sheet_17: -653078403373048504
+      Maw-Floating-Sheet_18: 4411273372369790009
+      Maw-Floating-Sheet_19: 2136845535161015290
+      Maw-Floating-Sheet_2: 6192224526850708715
+      Maw-Floating-Sheet_20: 6984124147470162890
+      Maw-Floating-Sheet_21: -4147252646026007041
+      Maw-Floating-Sheet_22: -3216668037975101231
+      Maw-Floating-Sheet_23: 7633430077747017644
+      Maw-Floating-Sheet_24: 809102916664845304
+      Maw-Floating-Sheet_25: -8339082406116378956
+      Maw-Floating-Sheet_26: -6471510131781243378
+      Maw-Floating-Sheet_27: -937124110414041610
+      Maw-Floating-Sheet_28: 8717270609398506971
+      Maw-Floating-Sheet_29: -6116852172897895617
+      Maw-Floating-Sheet_3: 2599619757223054461
+      Maw-Floating-Sheet_30: -5099644776702287405
+      Maw-Floating-Sheet_31: -436037763362293280
+      Maw-Floating-Sheet_32: -6184005053792642262
+      Maw-Floating-Sheet_33: -3048114985243944429
+      Maw-Floating-Sheet_34: 1397998269276836961
+      Maw-Floating-Sheet_35: 5107009133460808831
+      Maw-Floating-Sheet_36: -6060255756300094312
+      Maw-Floating-Sheet_37: 4537970116944100298
+      Maw-Floating-Sheet_38: -717161682633968929
+      Maw-Floating-Sheet_39: -1996584871023090170
+      Maw-Floating-Sheet_4: 2129787508731540176
+      Maw-Floating-Sheet_40: -6607356789987194228
+      Maw-Floating-Sheet_41: -4869110944006214919
+      Maw-Floating-Sheet_42: -2718553780366071775
+      Maw-Floating-Sheet_43: 3666781723676649230
+      Maw-Floating-Sheet_44: 3803854759654830840
+      Maw-Floating-Sheet_45: -5603224889157004499
+      Maw-Floating-Sheet_46: -8460158394257738169
+      Maw-Floating-Sheet_47: -244387231207612102
+      Maw-Floating-Sheet_48: 2354798613879541210
+      Maw-Floating-Sheet_49: -8437245087586791739
+      Maw-Floating-Sheet_5: 5631669993777228815
+      Maw-Floating-Sheet_50: -1254895933575720633
+      Maw-Floating-Sheet_51: -8063314105713115700
+      Maw-Floating-Sheet_52: 3518000107771614792
+      Maw-Floating-Sheet_53: -6546008977951623097
+      Maw-Floating-Sheet_54: -1967910818906065828
+      Maw-Floating-Sheet_55: 2791738361319968705
+      Maw-Floating-Sheet_56: -1864078500924050444
+      Maw-Floating-Sheet_57: -9175276106468559316
+      Maw-Floating-Sheet_58: -1336810588261267973
+      Maw-Floating-Sheet_59: -1990166383273037752
+      Maw-Floating-Sheet_6: 6417079217599192982
+      Maw-Floating-Sheet_60: 3686088564423931607
+      Maw-Floating-Sheet_61: -7420198311505269180
+      Maw-Floating-Sheet_62: 1657500803484180562
+      Maw-Floating-Sheet_63: 2677124476199372895
+      Maw-Floating-Sheet_64: 6614702619311899379
+      Maw-Floating-Sheet_65: 7794071546812319327
+      Maw-Floating-Sheet_66: -2783270045074013332
+      Maw-Floating-Sheet_67: -797631201984729707
+      Maw-Floating-Sheet_68: -5179650177333600012
+      Maw-Floating-Sheet_69: 7210212604589360155
+      Maw-Floating-Sheet_7: 7803150566979267049
+      Maw-Floating-Sheet_70: 189587647289211142
+      Maw-Floating-Sheet_71: -2603598301101110908
+      Maw-Floating-Sheet_72: -961651151276579402
+      Maw-Floating-Sheet_73: 9036711252199748290
+      Maw-Floating-Sheet_74: -7387960860349842577
+      Maw-Floating-Sheet_75: -4340775534206334010
+      Maw-Floating-Sheet_76: -883717021878498347
+      Maw-Floating-Sheet_77: -9005752556749402713
+      Maw-Floating-Sheet_78: -168986596142255390
+      Maw-Floating-Sheet_79: -8641699051554638271
+      Maw-Floating-Sheet_8: 5777376132454347005
+      Maw-Floating-Sheet_80: -5184980041754249081
+      Maw-Floating-Sheet_81: 1402022823167018468
+      Maw-Floating-Sheet_82: 3809915998847055118
+      Maw-Floating-Sheet_83: 8868724461884884183
+      Maw-Floating-Sheet_84: 6871519173874911365
+      Maw-Floating-Sheet_85: -606880253185713225
+      Maw-Floating-Sheet_86: -8391322981548416706
+      Maw-Floating-Sheet_87: 7789487202513201677
+      Maw-Floating-Sheet_88: -2915486886256260992
+      Maw-Floating-Sheet_89: 2071112883507412348
+      Maw-Floating-Sheet_9: -4907036585045775726
+      Maw-Floating-Sheet_90: -5115750283378710886
+      Maw-Floating-Sheet_91: 2669931374725103158
+      Maw-Floating-Sheet_92: 6894379800079536173
+      Maw-Floating-Sheet_93: -2121332743537105729
+      Maw-Floating-Sheet_94: 3860248204775847264
+      Maw-Floating-Sheet_95: -2535707246257696386
+      Maw-Floating-Sheet_96: -163374683602717121
+      Maw-Floating-Sheet_97: 3098374887123989623
+      Maw-Floating-Sheet_98: -5981013410724416126
+      Maw-Floating-Sheet_99: -618605906301124486
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

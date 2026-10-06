@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 69c908dba9faa5a4b9c4e9da5bbd89a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2127154002883484534
+    second: Maw-All-SummonStaff-Sheet_0
+  - first:
+      213: -7010624722301766851
+    second: Maw-All-SummonStaff-Sheet_1
+  - first:
+      213: -5291173315839939523
+    second: Maw-All-SummonStaff-Sheet_2
+  - first:
+      213: -4887369216485083578
+    second: Maw-All-SummonStaff-Sheet_3
+  - first:
+      213: 7504749765333519036
+    second: Maw-All-SummonStaff-Sheet_4
+  - first:
+      213: 8944769972399985872
+    second: Maw-All-SummonStaff-Sheet_5
+  - first:
+      213: 5664250601327817835
+    second: Maw-All-SummonStaff-Sheet_6
+  - first:
+      213: -3059785599687200882
+    second: Maw-All-SummonStaff-Sheet_7
+  - first:
+      213: -2145174414391317476
+    second: Maw-All-SummonStaff-Sheet_8
+  - first:
+      213: -5156837546395539298
+    second: Maw-All-SummonStaff-Sheet_9
+  - first:
+      213: 7896943877476832260
+    second: Maw-All-SummonStaff-Sheet_10
+  - first:
+      213: 1430193531217250530
+    second: Maw-All-SummonStaff-Sheet_11
+  - first:
+      213: -3133046389656929795
+    second: Maw-All-SummonStaff-Sheet_12
+  - first:
+      213: 8057116450165990781
+    second: Maw-All-SummonStaff-Sheet_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maw-All-SummonStaff-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 59
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b9b64ab4b258d10800000000000000
+      internalID: 2127154002883484534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-SummonStaff-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 60
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33b1ad75f145be90800000000000000
+      internalID: -7010624722301766851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-SummonStaff-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 63
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ca55037e9f196b0800000000000000
+      internalID: -5291173315839939523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-SummonStaff-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 0
+        width: 63
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6463a3d87939c2cb0800000000000000
+      internalID: -4887369216485083578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-SummonStaff-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 0
+        width: 63
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba86e2562a362860800000000000000
+      internalID: 7504749765333519036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-SummonStaff-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 0
+        width: 65
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d45b7206e4322c70800000000000000
+      internalID: 8944769972399985872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-SummonStaff-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 0
+        width: 72
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64ffe259e57b9e40800000000000000
+      internalID: 5664250601327817835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-SummonStaff-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 0
+        width: 79
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fe9c165357985d0800000000000000
+      internalID: -3059785599687200882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-SummonStaff-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 0
+        width: 79
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ce2f85c3fca32e0800000000000000
+      internalID: -2145174414391317476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-SummonStaff-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 0
+        width: 86
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9862bad29b3f68b0800000000000000
+      internalID: -5156837546395539298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-SummonStaff-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 0
+        width: 87
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404d334ed94979d60800000000000000
+      internalID: 7896943877476832260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-SummonStaff-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 0
+        width: 66
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8044c607119d310800000000000000
+      internalID: 1430193531217250530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-SummonStaff-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 0
+        width: 75
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9bdaf78ee2584d0800000000000000
+      internalID: -3133046389656929795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-SummonStaff-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 0
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75a91619b0a0df60800000000000000
+      internalID: 8057116450165990781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maw-All-SummonStaff-Sheet_0: 2127154002883484534
+      Maw-All-SummonStaff-Sheet_1: -7010624722301766851
+      Maw-All-SummonStaff-Sheet_10: 7896943877476832260
+      Maw-All-SummonStaff-Sheet_11: 1430193531217250530
+      Maw-All-SummonStaff-Sheet_12: -3133046389656929795
+      Maw-All-SummonStaff-Sheet_13: 8057116450165990781
+      Maw-All-SummonStaff-Sheet_2: -5291173315839939523
+      Maw-All-SummonStaff-Sheet_3: -4887369216485083578
+      Maw-All-SummonStaff-Sheet_4: 7504749765333519036
+      Maw-All-SummonStaff-Sheet_5: 8944769972399985872
+      Maw-All-SummonStaff-Sheet_6: 5664250601327817835
+      Maw-All-SummonStaff-Sheet_7: -3059785599687200882
+      Maw-All-SummonStaff-Sheet_8: -2145174414391317476
+      Maw-All-SummonStaff-Sheet_9: -5156837546395539298
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

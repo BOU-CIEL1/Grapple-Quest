@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 1f5d921579d06844c8aa442b3e91d40c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8602175161036678084
+    second: Maw-HandAttack-Effects-Sheet_0
+  - first:
+      213: 4208313287734529286
+    second: Maw-HandAttack-Effects-Sheet_1
+  - first:
+      213: 7498375363670525994
+    second: Maw-HandAttack-Effects-Sheet_2
+  - first:
+      213: 3399668864363811227
+    second: Maw-HandAttack-Effects-Sheet_3
+  - first:
+      213: -3894218615383440612
+    second: Maw-HandAttack-Effects-Sheet_4
+  - first:
+      213: 2287209832727926318
+    second: Maw-HandAttack-Effects-Sheet_5
+  - first:
+      213: 6958668054353534181
+    second: Maw-HandAttack-Effects-Sheet_6
+  - first:
+      213: 2581427316661918014
+    second: Maw-HandAttack-Effects-Sheet_7
+  - first:
+      213: 1279354844037580100
+    second: Maw-HandAttack-Effects-Sheet_8
+  - first:
+      213: 2559995247646270362
+    second: Maw-HandAttack-Effects-Sheet_9
+  - first:
+      213: 5733888585560085610
+    second: Maw-HandAttack-Effects-Sheet_10
+  - first:
+      213: 2591103177768325408
+    second: Maw-HandAttack-Effects-Sheet_11
+  - first:
+      213: 6383034503155511576
+    second: Maw-HandAttack-Effects-Sheet_12
+  - first:
+      213: -8588542359065699343
+    second: Maw-HandAttack-Effects-Sheet_13
+  - first:
+      213: -97873095403521586
+    second: Maw-HandAttack-Effects-Sheet_14
+  - first:
+      213: 383033008844785298
+    second: Maw-HandAttack-Effects-Sheet_15
+  - first:
+      213: 3164860610430041622
+    second: Maw-HandAttack-Effects-Sheet_16
+  - first:
+      213: 3088089024564256075
+    second: Maw-HandAttack-Effects-Sheet_17
+  - first:
+      213: -6744727581431217467
+    second: Maw-HandAttack-Effects-Sheet_18
+  - first:
+      213: 6644064767800177197
+    second: Maw-HandAttack-Effects-Sheet_19
+  - first:
+      213: 4997140792940773472
+    second: Maw-HandAttack-Effects-Sheet_20
+  - first:
+      213: -370043211865548560
+    second: Maw-HandAttack-Effects-Sheet_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maw-HandAttack-Effects-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 64
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c58be644fee9880800000000000000
+      internalID: -8602175161036678084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Effects-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 72
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d09fa73aee66a30800000000000000
+      internalID: 4208313287734529286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Effects-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 35
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a284f184aa49f0860800000000000000
+      internalID: 7498375363670525994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Effects-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 35
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b915c56e1dc0e2f20800000000000000
+      internalID: 3399668864363811227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Effects-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 67
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c134b504dc4f4f9c0800000000000000
+      internalID: -3894218615383440612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Effects-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 0
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e265786893dcdbf10800000000000000
+      internalID: 2287209832727926318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Effects-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 0
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecd9911ab7229060800000000000000
+      internalID: 6958668054353534181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Effects-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 35
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e399f1fa77213d320800000000000000
+      internalID: 2581427316661918014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Effects-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 0
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445098cc37e21c110800000000000000
+      internalID: 1279354844037580100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Effects-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 0
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93e4a24d1ee68320800000000000000
+      internalID: 2559995247646270362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Effects-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 0
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64d9f30a4dd29f40800000000000000
+      internalID: 5733888585560085610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Effects-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 0
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0215447ac9275f320800000000000000
+      internalID: 2591103177768325408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Effects-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 0
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81175a5df08159850800000000000000
+      internalID: 6383034503155511576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Effects-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 0
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb5e7d7a3e5fc880800000000000000
+      internalID: -8588542359065699343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Effects-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 0
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9b76330f844aef0800000000000000
+      internalID: -97873095403521586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Effects-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 15
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296417dfd7ec05500800000000000000
+      internalID: 383033008844785298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Effects-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61efe4005f7dbeb20800000000000000
+      internalID: 3164860610430041622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Effects-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 0
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d5fef3b981bda20800000000000000
+      internalID: 3088089024564256075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Effects-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 14
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c24302fff9e562a0800000000000000
+      internalID: -6744727581431217467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Effects-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 3049
+        y: 8
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22fa6d54b5743c50800000000000000
+      internalID: 6644064767800177197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Effects-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 0
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06049df3319695540800000000000000
+      internalID: 4997140792940773472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-HandAttack-Effects-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 0
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8953dc8a75ddaf0800000000000000
+      internalID: -370043211865548560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maw-HandAttack-Effects-Sheet_0: -8602175161036678084
+      Maw-HandAttack-Effects-Sheet_1: 4208313287734529286
+      Maw-HandAttack-Effects-Sheet_10: 5733888585560085610
+      Maw-HandAttack-Effects-Sheet_11: 2591103177768325408
+      Maw-HandAttack-Effects-Sheet_12: 6383034503155511576
+      Maw-HandAttack-Effects-Sheet_13: -8588542359065699343
+      Maw-HandAttack-Effects-Sheet_14: -97873095403521586
+      Maw-HandAttack-Effects-Sheet_15: 383033008844785298
+      Maw-HandAttack-Effects-Sheet_16: 3164860610430041622
+      Maw-HandAttack-Effects-Sheet_17: 3088089024564256075
+      Maw-HandAttack-Effects-Sheet_18: -6744727581431217467
+      Maw-HandAttack-Effects-Sheet_19: 6644064767800177197
+      Maw-HandAttack-Effects-Sheet_2: 7498375363670525994
+      Maw-HandAttack-Effects-Sheet_20: 4997140792940773472
+      Maw-HandAttack-Effects-Sheet_21: -370043211865548560
+      Maw-HandAttack-Effects-Sheet_3: 3399668864363811227
+      Maw-HandAttack-Effects-Sheet_4: -3894218615383440612
+      Maw-HandAttack-Effects-Sheet_5: 2287209832727926318
+      Maw-HandAttack-Effects-Sheet_6: 6958668054353534181
+      Maw-HandAttack-Effects-Sheet_7: 2581427316661918014
+      Maw-HandAttack-Effects-Sheet_8: 1279354844037580100
+      Maw-HandAttack-Effects-Sheet_9: 2559995247646270362
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

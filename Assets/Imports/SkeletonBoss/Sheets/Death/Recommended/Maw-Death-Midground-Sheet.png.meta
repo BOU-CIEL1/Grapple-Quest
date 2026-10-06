@@ -1,0 +1,1547 @@
+fileFormatVersion: 2
+guid: d89b48b1471585a41985294e7008231d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8452189406464004022
+    second: Maw-Death-Midground-Sheet_0
+  - first:
+      213: -6439930108263331675
+    second: Maw-Death-Midground-Sheet_1
+  - first:
+      213: -5524544678642382164
+    second: Maw-Death-Midground-Sheet_2
+  - first:
+      213: 3738945265798698603
+    second: Maw-Death-Midground-Sheet_3
+  - first:
+      213: -8629761694398481058
+    second: Maw-Death-Midground-Sheet_4
+  - first:
+      213: 3817568277267399723
+    second: Maw-Death-Midground-Sheet_5
+  - first:
+      213: 4183714912380003341
+    second: Maw-Death-Midground-Sheet_6
+  - first:
+      213: -4786568205713999387
+    second: Maw-Death-Midground-Sheet_7
+  - first:
+      213: 460885007535982784
+    second: Maw-Death-Midground-Sheet_8
+  - first:
+      213: -6840837993476784214
+    second: Maw-Death-Midground-Sheet_9
+  - first:
+      213: -8172617702070177865
+    second: Maw-Death-Midground-Sheet_10
+  - first:
+      213: 7288558836023636882
+    second: Maw-Death-Midground-Sheet_11
+  - first:
+      213: 2494274610457722622
+    second: Maw-Death-Midground-Sheet_12
+  - first:
+      213: -1364930679372516035
+    second: Maw-Death-Midground-Sheet_13
+  - first:
+      213: 3575832599097904933
+    second: Maw-Death-Midground-Sheet_14
+  - first:
+      213: 156505362427293433
+    second: Maw-Death-Midground-Sheet_15
+  - first:
+      213: 5642676024065094515
+    second: Maw-Death-Midground-Sheet_16
+  - first:
+      213: -4414813452011602341
+    second: Maw-Death-Midground-Sheet_17
+  - first:
+      213: -2754303340968244402
+    second: Maw-Death-Midground-Sheet_18
+  - first:
+      213: 1412347650779700806
+    second: Maw-Death-Midground-Sheet_19
+  - first:
+      213: -2529653453569109797
+    second: Maw-Death-Midground-Sheet_20
+  - first:
+      213: 5779890570467945971
+    second: Maw-Death-Midground-Sheet_21
+  - first:
+      213: -4578214284377294437
+    second: Maw-Death-Midground-Sheet_22
+  - first:
+      213: -1791000834183162919
+    second: Maw-Death-Midground-Sheet_23
+  - first:
+      213: -7692365850145220084
+    second: Maw-Death-Midground-Sheet_24
+  - first:
+      213: -4124336256467117233
+    second: Maw-Death-Midground-Sheet_25
+  - first:
+      213: -618196272471969518
+    second: Maw-Death-Midground-Sheet_26
+  - first:
+      213: -2447223133187656008
+    second: Maw-Death-Midground-Sheet_27
+  - first:
+      213: -6533010374448930716
+    second: Maw-Death-Midground-Sheet_28
+  - first:
+      213: -8046673559959552934
+    second: Maw-Death-Midground-Sheet_29
+  - first:
+      213: -851118989279630216
+    second: Maw-Death-Midground-Sheet_30
+  - first:
+      213: 6687295879585748531
+    second: Maw-Death-Midground-Sheet_31
+  - first:
+      213: -360941780581337071
+    second: Maw-Death-Midground-Sheet_32
+  - first:
+      213: 5855124106914770792
+    second: Maw-Death-Midground-Sheet_33
+  - first:
+      213: 4253046741572808096
+    second: Maw-Death-Midground-Sheet_34
+  - first:
+      213: -9169516455525651281
+    second: Maw-Death-Midground-Sheet_35
+  - first:
+      213: 4784518100790897602
+    second: Maw-Death-Midground-Sheet_36
+  - first:
+      213: -8719136363349487627
+    second: Maw-Death-Midground-Sheet_37
+  - first:
+      213: 6084668701947999600
+    second: Maw-Death-Midground-Sheet_38
+  - first:
+      213: -5329684675777546353
+    second: Maw-Death-Midground-Sheet_39
+  - first:
+      213: 7692097247373627865
+    second: Maw-Death-Midground-Sheet_40
+  - first:
+      213: 1104179223023748165
+    second: Maw-Death-Midground-Sheet_41
+  - first:
+      213: -8954942304619466179
+    second: Maw-Death-Midground-Sheet_42
+  - first:
+      213: -5604792885926789701
+    second: Maw-Death-Midground-Sheet_43
+  - first:
+      213: -8591836182623429008
+    second: Maw-Death-Midground-Sheet_44
+  - first:
+      213: 6830285459200638190
+    second: Maw-Death-Midground-Sheet_45
+  - first:
+      213: -3428740235481632455
+    second: Maw-Death-Midground-Sheet_46
+  - first:
+      213: 2052555563914517240
+    second: Maw-Death-Midground-Sheet_47
+  - first:
+      213: 6218507422785740026
+    second: Maw-Death-Midground-Sheet_48
+  - first:
+      213: -3052135807036668678
+    second: Maw-Death-Midground-Sheet_49
+  - first:
+      213: 4977304333029009547
+    second: Maw-Death-Midground-Sheet_50
+  - first:
+      213: -4110978837036335867
+    second: Maw-Death-Midground-Sheet_51
+  - first:
+      213: 3402000149482664892
+    second: Maw-Death-Midground-Sheet_52
+  - first:
+      213: 7968804061694963332
+    second: Maw-Death-Midground-Sheet_53
+  - first:
+      213: -9155245073999616742
+    second: Maw-Death-Midground-Sheet_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40b465348ac3ba80800000000000000
+      internalID: -8452189406464004022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 49
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a80f9ecfa5c0a6a0800000000000000
+      internalID: -6439930108263331675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 49
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa0fb392efd453b0800000000000000
+      internalID: -5524544678642382164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 49
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b665f82d8e663e330800000000000000
+      internalID: 3738945265798698603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 49
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5dfa1d167dec3880800000000000000
+      internalID: -8629761694398481058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 49
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24c2503f1abaf430800000000000000
+      internalID: 3817568277267399723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 49
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d042ae9eb8a8f0a30800000000000000
+      internalID: 4183714912380003341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 49
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9fc35c391b29db0800000000000000
+      internalID: -4786568205713999387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 46
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c84c74f874656600800000000000000
+      internalID: 460885007535982784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 49
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaff1d8d6167011a0800000000000000
+      internalID: -6840837993476784214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 15
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfa9071087059e80800000000000000
+      internalID: -8172617702070177865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 0
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29339b915a9262560800000000000000
+      internalID: 7288558836023636882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 36
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efebb900b817d9220800000000000000
+      internalID: 2494274610457722622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 0
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35f7f067cace0de0800000000000000
+      internalID: -1364930679372516035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 0
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f0e75adc8ef9130800000000000000
+      internalID: 3575832599097904933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 6
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe2ce44cc40c2200800000000000000
+      internalID: 156505362427293433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 7
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373730d92ffce4e40800000000000000
+      internalID: 5642676024065094515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 5
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e7b3b5e8e6bb2c0800000000000000
+      internalID: -4414813452011602341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 0
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b8aed44bfb6c9d0800000000000000
+      internalID: -2754303340968244402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 0
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ed41894baa99310800000000000000
+      internalID: 1412347650779700806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 0
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd05c2f269dd4ecd0800000000000000
+      internalID: -2529653453569109797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 0
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd2f55c9db463050800000000000000
+      internalID: 5779890570467945971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 0
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9972126d5ae670c0800000000000000
+      internalID: -4578214284377294437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 0
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3951efa361527e0800000000000000
+      internalID: -1791000834183162919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 0
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a9fb3e30a3f3590800000000000000
+      internalID: -7692365850145220084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 0
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b5303c60a63c6c0800000000000000
+      internalID: -4124336256467117233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 0
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21176d9f3c9bb67f0800000000000000
+      internalID: -618196272471969518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 0
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b63b3cb687b90ed0800000000000000
+      internalID: -2447223133187656008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 0
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460a7058da51655a0800000000000000
+      internalID: -6533010374448930716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 0
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c3513c709745090800000000000000
+      internalID: -8046673559959552934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 0
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ce566e9c73034f0800000000000000
+      internalID: -851118989279630216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 0
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33654a2fb2c0ecc50800000000000000
+      internalID: 6687295879585748531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 0
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1183ad7ec5dadfaf0800000000000000
+      internalID: -360941780581337071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 0
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f2b7c7a54914150800000000000000
+      internalID: 5855124106914770792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 0
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad64945a7bd50b30800000000000000
+      internalID: 4253046741572808096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 0
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac6b4aad555fb080800000000000000
+      internalID: -9169516455525651281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 0
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb611bfcd5066240800000000000000
+      internalID: 4784518100790897602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 0
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffcc5a6ca76ff680800000000000000
+      internalID: -8719136363349487627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 0
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0753c8b42f5117450800000000000000
+      internalID: 6084668701947999600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 0
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87bf6776082906b0800000000000000
+      internalID: -5329684675777546353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 0
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1177721b1dfba60800000000000000
+      internalID: 7692097247373627865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 0
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54482b43725d25f00800000000000000
+      internalID: 1104179223023748165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 0
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32f9055b67a9b380800000000000000
+      internalID: -8954942304619466179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 0
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd72b2d096c732b0800000000000000
+      internalID: -5604792885926789701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 0
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ed16e638aa3c880800000000000000
+      internalID: -8591836182623429008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 0
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec7b2ecf6c0ace50800000000000000
+      internalID: 6830285459200638190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 0
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931370d0ceaaa60d0800000000000000
+      internalID: -3428740235481632455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 0
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa50e419642c7c10800000000000000
+      internalID: 2052555563914517240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 0
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc1640dd839c4650800000000000000
+      internalID: 6218507422785740026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 0
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4445787a2a4a5d0800000000000000
+      internalID: -3052135807036668678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 0
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88e4358befe21540800000000000000
+      internalID: 4977304333029009547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 0
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dfc43578ed2f6c0800000000000000
+      internalID: -4110978837036335867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 0
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb37db38c15563f20800000000000000
+      internalID: 3402000149482664892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 0
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ea406d211e69e60800000000000000
+      internalID: 7968804061694963332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Death-Midground-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 0
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15ab9c9c1902f080800000000000000
+      internalID: -9155245073999616742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maw-Death-Midground-Sheet_0: -8452189406464004022
+      Maw-Death-Midground-Sheet_1: -6439930108263331675
+      Maw-Death-Midground-Sheet_10: -8172617702070177865
+      Maw-Death-Midground-Sheet_11: 7288558836023636882
+      Maw-Death-Midground-Sheet_12: 2494274610457722622
+      Maw-Death-Midground-Sheet_13: -1364930679372516035
+      Maw-Death-Midground-Sheet_14: 3575832599097904933
+      Maw-Death-Midground-Sheet_15: 156505362427293433
+      Maw-Death-Midground-Sheet_16: 5642676024065094515
+      Maw-Death-Midground-Sheet_17: -4414813452011602341
+      Maw-Death-Midground-Sheet_18: -2754303340968244402
+      Maw-Death-Midground-Sheet_19: 1412347650779700806
+      Maw-Death-Midground-Sheet_2: -5524544678642382164
+      Maw-Death-Midground-Sheet_20: -2529653453569109797
+      Maw-Death-Midground-Sheet_21: 5779890570467945971
+      Maw-Death-Midground-Sheet_22: -4578214284377294437
+      Maw-Death-Midground-Sheet_23: -1791000834183162919
+      Maw-Death-Midground-Sheet_24: -7692365850145220084
+      Maw-Death-Midground-Sheet_25: -4124336256467117233
+      Maw-Death-Midground-Sheet_26: -618196272471969518
+      Maw-Death-Midground-Sheet_27: -2447223133187656008
+      Maw-Death-Midground-Sheet_28: -6533010374448930716
+      Maw-Death-Midground-Sheet_29: -8046673559959552934
+      Maw-Death-Midground-Sheet_3: 3738945265798698603
+      Maw-Death-Midground-Sheet_30: -851118989279630216
+      Maw-Death-Midground-Sheet_31: 6687295879585748531
+      Maw-Death-Midground-Sheet_32: -360941780581337071
+      Maw-Death-Midground-Sheet_33: 5855124106914770792
+      Maw-Death-Midground-Sheet_34: 4253046741572808096
+      Maw-Death-Midground-Sheet_35: -9169516455525651281
+      Maw-Death-Midground-Sheet_36: 4784518100790897602
+      Maw-Death-Midground-Sheet_37: -8719136363349487627
+      Maw-Death-Midground-Sheet_38: 6084668701947999600
+      Maw-Death-Midground-Sheet_39: -5329684675777546353
+      Maw-Death-Midground-Sheet_4: -8629761694398481058
+      Maw-Death-Midground-Sheet_40: 7692097247373627865
+      Maw-Death-Midground-Sheet_41: 1104179223023748165
+      Maw-Death-Midground-Sheet_42: -8954942304619466179
+      Maw-Death-Midground-Sheet_43: -5604792885926789701
+      Maw-Death-Midground-Sheet_44: -8591836182623429008
+      Maw-Death-Midground-Sheet_45: 6830285459200638190
+      Maw-Death-Midground-Sheet_46: -3428740235481632455
+      Maw-Death-Midground-Sheet_47: 2052555563914517240
+      Maw-Death-Midground-Sheet_48: 6218507422785740026
+      Maw-Death-Midground-Sheet_49: -3052135807036668678
+      Maw-Death-Midground-Sheet_5: 3817568277267399723
+      Maw-Death-Midground-Sheet_50: 4977304333029009547
+      Maw-Death-Midground-Sheet_51: -4110978837036335867
+      Maw-Death-Midground-Sheet_52: 3402000149482664892
+      Maw-Death-Midground-Sheet_53: 7968804061694963332
+      Maw-Death-Midground-Sheet_54: -9155245073999616742
+      Maw-Death-Midground-Sheet_6: 4183714912380003341
+      Maw-Death-Midground-Sheet_7: -4786568205713999387
+      Maw-Death-Midground-Sheet_8: 460885007535982784
+      Maw-Death-Midground-Sheet_9: -6840837993476784214
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

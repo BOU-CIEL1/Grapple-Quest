@@ -1,0 +1,3211 @@
+fileFormatVersion: 2
+guid: 98245ce778032dc4292c29466a3326e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9114673879600316635
+    second: Maw-Idle-Sheet_0
+  - first:
+      213: 5056739138092364581
+    second: Maw-Idle-Sheet_1
+  - first:
+      213: -6584279827506048481
+    second: Maw-Idle-Sheet_2
+  - first:
+      213: 2075176557972211998
+    second: Maw-Idle-Sheet_3
+  - first:
+      213: -758121448484048913
+    second: Maw-Idle-Sheet_4
+  - first:
+      213: 4932876745233501018
+    second: Maw-Idle-Sheet_5
+  - first:
+      213: 3171632859092646718
+    second: Maw-Idle-Sheet_6
+  - first:
+      213: -3278336060474263248
+    second: Maw-Idle-Sheet_7
+  - first:
+      213: -4867524533346604505
+    second: Maw-Idle-Sheet_8
+  - first:
+      213: -6437856822477095472
+    second: Maw-Idle-Sheet_9
+  - first:
+      213: -1598103450883521194
+    second: Maw-Idle-Sheet_10
+  - first:
+      213: -7605202027640966173
+    second: Maw-Idle-Sheet_11
+  - first:
+      213: 4221434753211292423
+    second: Maw-Idle-Sheet_12
+  - first:
+      213: 8061750885236741335
+    second: Maw-Idle-Sheet_13
+  - first:
+      213: -990470546782707570
+    second: Maw-Idle-Sheet_14
+  - first:
+      213: -8970264707482036071
+    second: Maw-Idle-Sheet_15
+  - first:
+      213: -4241418821264258811
+    second: Maw-Idle-Sheet_16
+  - first:
+      213: 9055636980074839862
+    second: Maw-Idle-Sheet_17
+  - first:
+      213: -6294756851073435166
+    second: Maw-Idle-Sheet_18
+  - first:
+      213: 6079205403735573713
+    second: Maw-Idle-Sheet_19
+  - first:
+      213: -2115641252579323442
+    second: Maw-Idle-Sheet_20
+  - first:
+      213: 6715668007643178396
+    second: Maw-Idle-Sheet_21
+  - first:
+      213: 1615339319386312682
+    second: Maw-Idle-Sheet_22
+  - first:
+      213: -5456433974654208699
+    second: Maw-Idle-Sheet_23
+  - first:
+      213: 8442162749122411328
+    second: Maw-Idle-Sheet_24
+  - first:
+      213: 2581572757738592766
+    second: Maw-Idle-Sheet_25
+  - first:
+      213: -5795883104278005744
+    second: Maw-Idle-Sheet_26
+  - first:
+      213: 8700144611618395797
+    second: Maw-Idle-Sheet_27
+  - first:
+      213: 2004904711660438484
+    second: Maw-Idle-Sheet_28
+  - first:
+      213: 6183801488434467404
+    second: Maw-Idle-Sheet_29
+  - first:
+      213: -2037728072207948438
+    second: Maw-Idle-Sheet_30
+  - first:
+      213: -6330524806264404713
+    second: Maw-Idle-Sheet_31
+  - first:
+      213: -7865905509954364687
+    second: Maw-Idle-Sheet_32
+  - first:
+      213: -1863298676086526634
+    second: Maw-Idle-Sheet_33
+  - first:
+      213: -2715259615541094797
+    second: Maw-Idle-Sheet_34
+  - first:
+      213: 3893581720390614854
+    second: Maw-Idle-Sheet_35
+  - first:
+      213: 9128791669927296878
+    second: Maw-Idle-Sheet_36
+  - first:
+      213: -1999677142757496766
+    second: Maw-Idle-Sheet_37
+  - first:
+      213: 1744800468709418440
+    second: Maw-Idle-Sheet_38
+  - first:
+      213: -3135063793589644143
+    second: Maw-Idle-Sheet_39
+  - first:
+      213: -6668547751618512911
+    second: Maw-Idle-Sheet_40
+  - first:
+      213: 6840589031554380765
+    second: Maw-Idle-Sheet_41
+  - first:
+      213: 1853181817569371727
+    second: Maw-Idle-Sheet_42
+  - first:
+      213: -7476786384302828154
+    second: Maw-Idle-Sheet_43
+  - first:
+      213: 262333083389114184
+    second: Maw-Idle-Sheet_44
+  - first:
+      213: 1411066637740734393
+    second: Maw-Idle-Sheet_45
+  - first:
+      213: -712866873451624248
+    second: Maw-Idle-Sheet_46
+  - first:
+      213: 6885348827833122182
+    second: Maw-Idle-Sheet_47
+  - first:
+      213: -8078720516694168223
+    second: Maw-Idle-Sheet_48
+  - first:
+      213: 7604102102531966907
+    second: Maw-Idle-Sheet_49
+  - first:
+      213: 5830991620069245475
+    second: Maw-Idle-Sheet_50
+  - first:
+      213: 8756193068205096964
+    second: Maw-Idle-Sheet_51
+  - first:
+      213: 3292936977292894926
+    second: Maw-Idle-Sheet_52
+  - first:
+      213: -5085997018305728443
+    second: Maw-Idle-Sheet_53
+  - first:
+      213: -8945917555369408306
+    second: Maw-Idle-Sheet_54
+  - first:
+      213: -4921762219263025075
+    second: Maw-Idle-Sheet_55
+  - first:
+      213: -8718604984426841267
+    second: Maw-Idle-Sheet_56
+  - first:
+      213: 7579918257109599648
+    second: Maw-Idle-Sheet_57
+  - first:
+      213: 6539738695159205666
+    second: Maw-Idle-Sheet_58
+  - first:
+      213: 338669010409500499
+    second: Maw-Idle-Sheet_59
+  - first:
+      213: 1755257191840084849
+    second: Maw-Idle-Sheet_60
+  - first:
+      213: 1220331767166870326
+    second: Maw-Idle-Sheet_61
+  - first:
+      213: -2990934556566445792
+    second: Maw-Idle-Sheet_62
+  - first:
+      213: 647956879381233599
+    second: Maw-Idle-Sheet_63
+  - first:
+      213: -8916108987913433390
+    second: Maw-Idle-Sheet_64
+  - first:
+      213: -6992923931659468696
+    second: Maw-Idle-Sheet_65
+  - first:
+      213: -8606261093152366782
+    second: Maw-Idle-Sheet_66
+  - first:
+      213: -1051247227291901268
+    second: Maw-Idle-Sheet_67
+  - first:
+      213: 3146902621899233875
+    second: Maw-Idle-Sheet_68
+  - first:
+      213: -4481056952342165646
+    second: Maw-Idle-Sheet_69
+  - first:
+      213: -8348041794986963739
+    second: Maw-Idle-Sheet_70
+  - first:
+      213: -8787517435906537695
+    second: Maw-Idle-Sheet_71
+  - first:
+      213: 4273348074160858372
+    second: Maw-Idle-Sheet_72
+  - first:
+      213: -4352400825653768810
+    second: Maw-Idle-Sheet_73
+  - first:
+      213: 1010467386221189412
+    second: Maw-Idle-Sheet_74
+  - first:
+      213: 6452231275417306828
+    second: Maw-Idle-Sheet_75
+  - first:
+      213: -4590281725835849799
+    second: Maw-Idle-Sheet_76
+  - first:
+      213: -1945778723699072440
+    second: Maw-Idle-Sheet_77
+  - first:
+      213: -9027061223636176908
+    second: Maw-Idle-Sheet_78
+  - first:
+      213: 3455875979114093625
+    second: Maw-Idle-Sheet_79
+  - first:
+      213: -2389369872083262244
+    second: Maw-Idle-Sheet_80
+  - first:
+      213: 6785400317845814325
+    second: Maw-Idle-Sheet_81
+  - first:
+      213: 8246025370528601627
+    second: Maw-Idle-Sheet_82
+  - first:
+      213: -4803176430069656097
+    second: Maw-Idle-Sheet_83
+  - first:
+      213: -6900426634151696110
+    second: Maw-Idle-Sheet_84
+  - first:
+      213: 9143373696124767237
+    second: Maw-Idle-Sheet_85
+  - first:
+      213: 6581300985537467546
+    second: Maw-Idle-Sheet_86
+  - first:
+      213: -8873188747547422266
+    second: Maw-Idle-Sheet_87
+  - first:
+      213: -2122788032249414197
+    second: Maw-Idle-Sheet_88
+  - first:
+      213: 5396811321843584341
+    second: Maw-Idle-Sheet_89
+  - first:
+      213: -550659217808055462
+    second: Maw-Idle-Sheet_90
+  - first:
+      213: 3650687283909107905
+    second: Maw-Idle-Sheet_91
+  - first:
+      213: -7987224178946980620
+    second: Maw-Idle-Sheet_92
+  - first:
+      213: -8298170219488711613
+    second: Maw-Idle-Sheet_93
+  - first:
+      213: 8019876700762517128
+    second: Maw-Idle-Sheet_94
+  - first:
+      213: -504064383557037363
+    second: Maw-Idle-Sheet_95
+  - first:
+      213: -3423298621411970534
+    second: Maw-Idle-Sheet_96
+  - first:
+      213: 3337976628343798259
+    second: Maw-Idle-Sheet_97
+  - first:
+      213: 4159337053943223258
+    second: Maw-Idle-Sheet_98
+  - first:
+      213: 1353702663432225418
+    second: Maw-Idle-Sheet_99
+  - first:
+      213: 1601836565785025974
+    second: Maw-Idle-Sheet_100
+  - first:
+      213: -3689222649693314845
+    second: Maw-Idle-Sheet_101
+  - first:
+      213: -4645669638166544295
+    second: Maw-Idle-Sheet_102
+  - first:
+      213: -7427775294187139379
+    second: Maw-Idle-Sheet_103
+  - first:
+      213: -5126621362407263144
+    second: Maw-Idle-Sheet_104
+  - first:
+      213: 4494325342643952649
+    second: Maw-Idle-Sheet_105
+  - first:
+      213: -1027580026472271650
+    second: Maw-Idle-Sheet_106
+  - first:
+      213: -9206866820959015032
+    second: Maw-Idle-Sheet_107
+  - first:
+      213: 4178223060858536711
+    second: Maw-Idle-Sheet_108
+  - first:
+      213: 1587374037923744883
+    second: Maw-Idle-Sheet_109
+  - first:
+      213: 6518314292700065854
+    second: Maw-Idle-Sheet_110
+  - first:
+      213: -1274273783872057077
+    second: Maw-Idle-Sheet_111
+  - first:
+      213: -7444672581820836321
+    second: Maw-Idle-Sheet_112
+  - first:
+      213: 6521719738027246514
+    second: Maw-Idle-Sheet_113
+  - first:
+      213: -1530491195555414052
+    second: Maw-Idle-Sheet_114
+  - first:
+      213: 509880806831826998
+    second: Maw-Idle-Sheet_115
+  - first:
+      213: -8569814027118859316
+    second: Maw-Idle-Sheet_116
+  - first:
+      213: 4450476969389284470
+    second: Maw-Idle-Sheet_117
+  - first:
+      213: 5578376599896213841
+    second: Maw-Idle-Sheet_118
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2452
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f34eae56c228180800000000000000
+      internalID: -9114673879600316635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2454
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5237fcf44752d2640800000000000000
+      internalID: 5056739138092364581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2454
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f125bb3c160ff94a0800000000000000
+      internalID: -6584279827506048481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2456
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19c620b5128ccc10800000000000000
+      internalID: 2075176557972211998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2455
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefe08e2f8c9a75f0800000000000000
+      internalID: -758121448484048913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2456
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b8d68a349157440800000000000000
+      internalID: 4932876745233501018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 2456
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b7c240847e30c20800000000000000
+      internalID: 3171632859092646718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 2452
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039f31de8b20182d0800000000000000
+      internalID: -3278336060474263248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 2451
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a6066e934137cb0800000000000000
+      internalID: -4867524533346604505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2332
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd7d65445328a6a0800000000000000
+      internalID: -6437856822477095472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2332
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65503c7e06562d9e0800000000000000
+      internalID: -1598103450883521194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2332
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e33169cc05e47690800000000000000
+      internalID: -7605202027640966173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2332
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bd5abba8c859a30800000000000000
+      internalID: 4221434753211292423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2332
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d41a3697b711ef60800000000000000
+      internalID: 8061750885236741335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 2332
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80a78219442142f0800000000000000
+      internalID: -990470546782707570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 2332
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9985f4966c7338380800000000000000
+      internalID: -8970264707482036071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 2332
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50943e6dd047325c0800000000000000
+      internalID: -4241418821264258811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2332
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f7044cad51cad70800000000000000
+      internalID: 9055636980074839862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2227
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9bf48bef784a8a0800000000000000
+      internalID: -6294756851073435166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2227
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d44b4e0b1dad5450800000000000000
+      internalID: 6079205403735573713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2227
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1d8db6d7bb3a2e0800000000000000
+      internalID: -2115641252579323442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 2227
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95e609c878d23d50800000000000000
+      internalID: 6715668007643178396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 2227
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef0eb37d86da6610800000000000000
+      internalID: 1615339319386312682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 2227
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545fc50a53ad644b0800000000000000
+      internalID: -5456433974654208699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 2227
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bf975ba46982570800000000000000
+      internalID: 8442162749122411328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 2227
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef995d2deb693d320800000000000000
+      internalID: 2581572757738592766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 2227
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01832d94603e09fa0800000000000000
+      internalID: -5795883104278005744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5961b0ecd6f1db870800000000000000
+      internalID: 8700144611618395797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2047
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3070b763ad2db10800000000000000
+      internalID: 2004904711660438484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c421ba7c0b641d550800000000000000
+      internalID: 6183801488434467404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2047
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65243b5d1988b3e0800000000000000
+      internalID: -2037728072207948438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 2079
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715cfc0ba357528a0800000000000000
+      internalID: -6330524806264404713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2047
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fad1623d90b6d290800000000000000
+      internalID: -7865905509954364687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d286de9bb3426e0800000000000000
+      internalID: -1863298676086526634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 2047
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37695b604c5715ad0800000000000000
+      internalID: -2715259615541094797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f36d312f7c80630800000000000000
+      internalID: 3893581720390614854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 2047
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fbf8a48abffae70800000000000000
+      internalID: 9128791669927296878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 2076
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248a870cb38bf34e0800000000000000
+      internalID: -1999677142757496766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2047
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c52c5d28c6c63810800000000000000
+      internalID: 1744800468709418440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 2076
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19496ea07140e74d0800000000000000
+      internalID: -3135063793589644143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 2056
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f77c01c62f8473a0800000000000000
+      internalID: -6668547751618512911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd37b303b77aeee50800000000000000
+      internalID: 6840589031554380765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 2047
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f466f646b03d7b910800000000000000
+      internalID: 1853181817569371727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 2078
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685172ea56e1d3890800000000000000
+      internalID: -7476786384302828154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 2047
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847bd38ac8ef3a300800000000000000
+      internalID: 262333083389114184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 2047
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7f0f081ad159310800000000000000
+      internalID: 1411066637740734393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8c5c30b536b16f0800000000000000
+      internalID: -712866873451624248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d35ad574cad8f50800000000000000
+      internalID: 6885348827833122182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1919
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16da8c23e7e92ef80800000000000000
+      internalID: -8078720516694168223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb70831f292378960800000000000000
+      internalID: 7604102102531966907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322c18a0cf7dbe050800000000000000
+      internalID: 5830991620069245475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4004a17043f348970800000000000000
+      internalID: 8756193068205096964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1919
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2aa4febbcd2bd20800000000000000
+      internalID: 3292936977292894926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1927
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540f03b98a8ea69b0800000000000000
+      internalID: -5085997018305728443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec886428167b9d380800000000000000
+      internalID: -8945917555369408306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1919
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40a3e3965362bbb0800000000000000
+      internalID: -4921762219263025075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1823
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bb946b5fa410780800000000000000
+      internalID: -8718604984426841267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1823
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a50485ae77413960800000000000000
+      internalID: 7579918257109599648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1823
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f47d8b1b1d1ca50800000000000000
+      internalID: 6539738695159205666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1823
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f24edaba133b400800000000000000
+      internalID: 338669010409500499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1823
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173f311cd1deb5810800000000000000
+      internalID: 1755257191840084849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1823
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6332b12d64d7fe010800000000000000
+      internalID: 1220331767166870326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1823
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021aa611ed01e76d0800000000000000
+      internalID: -2990934556566445792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1823
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbff94949510ef800800000000000000
+      internalID: 647956879381233599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1823
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de80c47d1e934480800000000000000
+      internalID: -8916108987913433390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1712
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8600c18fbb424fe90800000000000000
+      internalID: -6992923931659468696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1712
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f536a322b609880800000000000000
+      internalID: -8606261093152366782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1712
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2e62e67383961f0800000000000000
+      internalID: -1051247227291901268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1712
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a9c09f24b0cab20800000000000000
+      internalID: 3146902621899233875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1715
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277c959817610d1c0800000000000000
+      internalID: -4481056952342165646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1715
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec00bf973cc52c80800000000000000
+      internalID: -8348041794986963739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1715
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1274d3743777c0680800000000000000
+      internalID: -8787517435906537695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 1715
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40525f9ae6bfd4b30800000000000000
+      internalID: 4273348074160858372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1715
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d4ac2528a2993c0800000000000000
+      internalID: -4352400825653768810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1567
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429d4dcebb6e50e00800000000000000
+      internalID: 1010467386221189412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1567
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc60aebd82eea8950800000000000000
+      internalID: 6452231275417306828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1567
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf4698371b0c40c0800000000000000
+      internalID: -4590281725835849799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1567
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842676a5f843ff4e0800000000000000
+      internalID: -1945778723699072440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1568
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff667ff4af69b280800000000000000
+      internalID: -9027061223636176908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1568
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c96ea94ecb5ff20800000000000000
+      internalID: 3455875979114093625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1568
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4e471c2c047ded0800000000000000
+      internalID: -2389369872083262244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1567
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cb50473a59a2e50800000000000000
+      internalID: 6785400317845814325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1567
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16573b9264cf6270800000000000000
+      internalID: 8246025370528601627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1460
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd55b243c70b75db0800000000000000
+      internalID: -4803176430069656097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1460
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2196eb84982cc30a0800000000000000
+      internalID: -6900426634151696110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1460
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cca26dee9c3ee70800000000000000
+      internalID: 9143373696124767237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1460
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9493ea806a755b50800000000000000
+      internalID: 6581300985537467546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1464
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c15175a8d91cd480800000000000000
+      internalID: -8873188747547422266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1464
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdb25c18875a82e0800000000000000
+      internalID: -2122788032249414197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1464
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d0b4ebd4355ea40800000000000000
+      internalID: 5396811321843584341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1464
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53a142eb5aab58f0800000000000000
+      internalID: -550659217808055462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1464
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c020771eb8d9a230800000000000000
+      internalID: 3650687283909107905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1348
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f444786deda72190800000000000000
+      internalID: -7987224178946980620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1351
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c66a5a62af6dc80800000000000000
+      internalID: -8298170219488711613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1351
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ea1634e535c4f60800000000000000
+      internalID: 8019876700762517128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1351
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc218222d143109f0800000000000000
+      internalID: -504064383557037363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1351
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12b7ae8a000e70d0800000000000000
+      internalID: -3423298621411970534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1351
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9fcf0ee00e25e20800000000000000
+      internalID: 3337976628343798259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1351
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3d761730fe8b930800000000000000
+      internalID: 4159337053943223258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1351
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82c061766159c210800000000000000
+      internalID: 1353702663432225418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1348
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd19d3aeddda3610800000000000000
+      internalID: 1601836565785025974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1100
+        width: 54
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e064b3eb8f3dccc0800000000000000
+      internalID: -3689222649693314845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1104
+        width: 54
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9500441f314478fb0800000000000000
+      internalID: -4645669638166544295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1102
+        width: 54
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce8d8659bd3be890800000000000000
+      internalID: -7427775294187139379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1104
+        width: 54
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85439cb68059ad8b0800000000000000
+      internalID: -5126621362407263144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1104
+        width: 54
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c1451561d0f5e30800000000000000
+      internalID: 4494325342643952649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1104
+        width: 54
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed075d7096d4db1f0800000000000000
+      internalID: -1027580026472271650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1104
+        width: 54
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f686a0863aa3080800000000000000
+      internalID: -9206866820959015032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_108
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1104
+        width: 54
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70381d69cb70cf930800000000000000
+      internalID: 4178223060858536711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_109
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1099
+        width: 54
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c4f18f64c770610800000000000000
+      internalID: 1587374037923744883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_110
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 862
+        width: 9
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e303dbe4054b57a50800000000000000
+      internalID: 6518314292700065854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_111
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 868
+        width: 133
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0196b5bebed05ee0800000000000000
+      internalID: -1274273783872057077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_112
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 994
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f169a7bfab53fa890800000000000000
+      internalID: -7444672581820836321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_113
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 871
+        width: 12
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b384c55c8dc18a50800000000000000
+      internalID: 6521719738027246514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_114
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 871
+        width: 12
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf7e05dd5a92cae0800000000000000
+      internalID: -1530491195555414052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 871
+        width: 12
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638200174e5731700800000000000000
+      internalID: 509880806831826998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 871
+        width: 12
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbab621c87e11980800000000000000
+      internalID: -8569814027118859316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 864
+        width: 130
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c5189593543cd30800000000000000
+      internalID: 4450476969389284470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-Idle-Sheet_118
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 990
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1594a2c46ff5a6d40800000000000000
+      internalID: 5578376599896213841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maw-Idle-Sheet_0: -9114673879600316635
+      Maw-Idle-Sheet_1: 5056739138092364581
+      Maw-Idle-Sheet_10: -1598103450883521194
+      Maw-Idle-Sheet_100: 1601836565785025974
+      Maw-Idle-Sheet_101: -3689222649693314845
+      Maw-Idle-Sheet_102: -4645669638166544295
+      Maw-Idle-Sheet_103: -7427775294187139379
+      Maw-Idle-Sheet_104: -5126621362407263144
+      Maw-Idle-Sheet_105: 4494325342643952649
+      Maw-Idle-Sheet_106: -1027580026472271650
+      Maw-Idle-Sheet_107: -9206866820959015032
+      Maw-Idle-Sheet_108: 4178223060858536711
+      Maw-Idle-Sheet_109: 1587374037923744883
+      Maw-Idle-Sheet_11: -7605202027640966173
+      Maw-Idle-Sheet_110: 6518314292700065854
+      Maw-Idle-Sheet_111: -1274273783872057077
+      Maw-Idle-Sheet_112: -7444672581820836321
+      Maw-Idle-Sheet_113: 6521719738027246514
+      Maw-Idle-Sheet_114: -1530491195555414052
+      Maw-Idle-Sheet_115: 509880806831826998
+      Maw-Idle-Sheet_116: -8569814027118859316
+      Maw-Idle-Sheet_117: 4450476969389284470
+      Maw-Idle-Sheet_118: 5578376599896213841
+      Maw-Idle-Sheet_12: 4221434753211292423
+      Maw-Idle-Sheet_13: 8061750885236741335
+      Maw-Idle-Sheet_14: -990470546782707570
+      Maw-Idle-Sheet_15: -8970264707482036071
+      Maw-Idle-Sheet_16: -4241418821264258811
+      Maw-Idle-Sheet_17: 9055636980074839862
+      Maw-Idle-Sheet_18: -6294756851073435166
+      Maw-Idle-Sheet_19: 6079205403735573713
+      Maw-Idle-Sheet_2: -6584279827506048481
+      Maw-Idle-Sheet_20: -2115641252579323442
+      Maw-Idle-Sheet_21: 6715668007643178396
+      Maw-Idle-Sheet_22: 1615339319386312682
+      Maw-Idle-Sheet_23: -5456433974654208699
+      Maw-Idle-Sheet_24: 8442162749122411328
+      Maw-Idle-Sheet_25: 2581572757738592766
+      Maw-Idle-Sheet_26: -5795883104278005744
+      Maw-Idle-Sheet_27: 8700144611618395797
+      Maw-Idle-Sheet_28: 2004904711660438484
+      Maw-Idle-Sheet_29: 6183801488434467404
+      Maw-Idle-Sheet_3: 2075176557972211998
+      Maw-Idle-Sheet_30: -2037728072207948438
+      Maw-Idle-Sheet_31: -6330524806264404713
+      Maw-Idle-Sheet_32: -7865905509954364687
+      Maw-Idle-Sheet_33: -1863298676086526634
+      Maw-Idle-Sheet_34: -2715259615541094797
+      Maw-Idle-Sheet_35: 3893581720390614854
+      Maw-Idle-Sheet_36: 9128791669927296878
+      Maw-Idle-Sheet_37: -1999677142757496766
+      Maw-Idle-Sheet_38: 1744800468709418440
+      Maw-Idle-Sheet_39: -3135063793589644143
+      Maw-Idle-Sheet_4: -758121448484048913
+      Maw-Idle-Sheet_40: -6668547751618512911
+      Maw-Idle-Sheet_41: 6840589031554380765
+      Maw-Idle-Sheet_42: 1853181817569371727
+      Maw-Idle-Sheet_43: -7476786384302828154
+      Maw-Idle-Sheet_44: 262333083389114184
+      Maw-Idle-Sheet_45: 1411066637740734393
+      Maw-Idle-Sheet_46: -712866873451624248
+      Maw-Idle-Sheet_47: 6885348827833122182
+      Maw-Idle-Sheet_48: -8078720516694168223
+      Maw-Idle-Sheet_49: 7604102102531966907
+      Maw-Idle-Sheet_5: 4932876745233501018
+      Maw-Idle-Sheet_50: 5830991620069245475
+      Maw-Idle-Sheet_51: 8756193068205096964
+      Maw-Idle-Sheet_52: 3292936977292894926
+      Maw-Idle-Sheet_53: -5085997018305728443
+      Maw-Idle-Sheet_54: -8945917555369408306
+      Maw-Idle-Sheet_55: -4921762219263025075
+      Maw-Idle-Sheet_56: -8718604984426841267
+      Maw-Idle-Sheet_57: 7579918257109599648
+      Maw-Idle-Sheet_58: 6539738695159205666
+      Maw-Idle-Sheet_59: 338669010409500499
+      Maw-Idle-Sheet_6: 3171632859092646718
+      Maw-Idle-Sheet_60: 1755257191840084849
+      Maw-Idle-Sheet_61: 1220331767166870326
+      Maw-Idle-Sheet_62: -2990934556566445792
+      Maw-Idle-Sheet_63: 647956879381233599
+      Maw-Idle-Sheet_64: -8916108987913433390
+      Maw-Idle-Sheet_65: -6992923931659468696
+      Maw-Idle-Sheet_66: -8606261093152366782
+      Maw-Idle-Sheet_67: -1051247227291901268
+      Maw-Idle-Sheet_68: 3146902621899233875
+      Maw-Idle-Sheet_69: -4481056952342165646
+      Maw-Idle-Sheet_7: -3278336060474263248
+      Maw-Idle-Sheet_70: -8348041794986963739
+      Maw-Idle-Sheet_71: -8787517435906537695
+      Maw-Idle-Sheet_72: 4273348074160858372
+      Maw-Idle-Sheet_73: -4352400825653768810
+      Maw-Idle-Sheet_74: 1010467386221189412
+      Maw-Idle-Sheet_75: 6452231275417306828
+      Maw-Idle-Sheet_76: -4590281725835849799
+      Maw-Idle-Sheet_77: -1945778723699072440
+      Maw-Idle-Sheet_78: -9027061223636176908
+      Maw-Idle-Sheet_79: 3455875979114093625
+      Maw-Idle-Sheet_8: -4867524533346604505
+      Maw-Idle-Sheet_80: -2389369872083262244
+      Maw-Idle-Sheet_81: 6785400317845814325
+      Maw-Idle-Sheet_82: 8246025370528601627
+      Maw-Idle-Sheet_83: -4803176430069656097
+      Maw-Idle-Sheet_84: -6900426634151696110
+      Maw-Idle-Sheet_85: 9143373696124767237
+      Maw-Idle-Sheet_86: 6581300985537467546
+      Maw-Idle-Sheet_87: -8873188747547422266
+      Maw-Idle-Sheet_88: -2122788032249414197
+      Maw-Idle-Sheet_89: 5396811321843584341
+      Maw-Idle-Sheet_9: -6437856822477095472
+      Maw-Idle-Sheet_90: -550659217808055462
+      Maw-Idle-Sheet_91: 3650687283909107905
+      Maw-Idle-Sheet_92: -7987224178946980620
+      Maw-Idle-Sheet_93: -8298170219488711613
+      Maw-Idle-Sheet_94: 8019876700762517128
+      Maw-Idle-Sheet_95: -504064383557037363
+      Maw-Idle-Sheet_96: -3423298621411970534
+      Maw-Idle-Sheet_97: 3337976628343798259
+      Maw-Idle-Sheet_98: 4159337053943223258
+      Maw-Idle-Sheet_99: 1353702663432225418
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: db96bd0062d2d8d43b8203ed3e309c97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6165658765825481142
+    second: Maw-SummonAttack-Midground-Sheet_0
+  - first:
+      213: -3259650040930068987
+    second: Maw-SummonAttack-Midground-Sheet_1
+  - first:
+      213: -3757835010177800989
+    second: Maw-SummonAttack-Midground-Sheet_2
+  - first:
+      213: 183869721882944693
+    second: Maw-SummonAttack-Midground-Sheet_3
+  - first:
+      213: 23061384506196340
+    second: Maw-SummonAttack-Midground-Sheet_4
+  - first:
+      213: 8145335540912832807
+    second: Maw-SummonAttack-Midground-Sheet_5
+  - first:
+      213: 7627936195185549310
+    second: Maw-SummonAttack-Midground-Sheet_6
+  - first:
+      213: -6708153874216421488
+    second: Maw-SummonAttack-Midground-Sheet_7
+  - first:
+      213: 5809005826717556818
+    second: Maw-SummonAttack-Midground-Sheet_8
+  - first:
+      213: 8511494472788815177
+    second: Maw-SummonAttack-Midground-Sheet_9
+  - first:
+      213: -7552714297492960079
+    second: Maw-SummonAttack-Midground-Sheet_10
+  - first:
+      213: -2291325961976495789
+    second: Maw-SummonAttack-Midground-Sheet_11
+  - first:
+      213: -7421107746119395600
+    second: Maw-SummonAttack-Midground-Sheet_12
+  - first:
+      213: -8655062567571585062
+    second: Maw-SummonAttack-Midground-Sheet_13
+  - first:
+      213: 972295974976375967
+    second: Maw-SummonAttack-Midground-Sheet_14
+  - first:
+      213: -2465884925205163463
+    second: Maw-SummonAttack-Midground-Sheet_15
+  - first:
+      213: 3353582576275101709
+    second: Maw-SummonAttack-Midground-Sheet_16
+  - first:
+      213: 2801951090691665341
+    second: Maw-SummonAttack-Midground-Sheet_17
+  - first:
+      213: -7398355972030881293
+    second: Maw-SummonAttack-Midground-Sheet_18
+  - first:
+      213: -2009919654558917933
+    second: Maw-SummonAttack-Midground-Sheet_19
+  - first:
+      213: -7478011624738814471
+    second: Maw-SummonAttack-Midground-Sheet_20
+  - first:
+      213: -4889952952124056969
+    second: Maw-SummonAttack-Midground-Sheet_21
+  - first:
+      213: -3960893424986827891
+    second: Maw-SummonAttack-Midground-Sheet_22
+  - first:
+      213: 3593738011924386953
+    second: Maw-SummonAttack-Midground-Sheet_23
+  - first:
+      213: -4352229944011817375
+    second: Maw-SummonAttack-Midground-Sheet_24
+  - first:
+      213: 6243793263886506166
+    second: Maw-SummonAttack-Midground-Sheet_25
+  - first:
+      213: 7477502819889795370
+    second: Maw-SummonAttack-Midground-Sheet_26
+  - first:
+      213: -1347155686059241759
+    second: Maw-SummonAttack-Midground-Sheet_27
+  - first:
+      213: 5753478951274427130
+    second: Maw-SummonAttack-Midground-Sheet_28
+  - first:
+      213: -988799207331113162
+    second: Maw-SummonAttack-Midground-Sheet_29
+  - first:
+      213: -4006317940813698290
+    second: Maw-SummonAttack-Midground-Sheet_30
+  - first:
+      213: -6697190549197732702
+    second: Maw-SummonAttack-Midground-Sheet_31
+  - first:
+      213: 8358579563677556672
+    second: Maw-SummonAttack-Midground-Sheet_32
+  - first:
+      213: 1093028926837736800
+    second: Maw-SummonAttack-Midground-Sheet_33
+  - first:
+      213: -1011237410172403329
+    second: Maw-SummonAttack-Midground-Sheet_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b91d4ffaf1d09550800000000000000
+      internalID: 6165658765825481142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5069642ee8563c2d0800000000000000
+      internalID: -3259650040930068987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e463d5d7fc79dbc0800000000000000
+      internalID: -3757835010177800989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b468c1b98c3d8200800000000000000
+      internalID: 183869721882944693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471458ff43ee15000800000000000000
+      internalID: 23061384506196340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7214974c48b0a0170800000000000000
+      internalID: 8145335540912832807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff11631e8fdbd960800000000000000
+      internalID: 7627936195185549310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0977bacb799d7e2a0800000000000000
+      internalID: -6708153874216421488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250acaf950cbd9050800000000000000
+      internalID: 5809005826717556818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d274e8027ee1670800000000000000
+      internalID: 8511494472788815177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc0be7cc5e5f2790800000000000000
+      internalID: -7552714297492960079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351c2c37d239330e0800000000000000
+      internalID: -2291325961976495789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f657a8d2dde20990800000000000000
+      internalID: -7421107746119395600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad78d17837a03e780800000000000000
+      internalID: -8655062567571585062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c420da90a4e7d00800000000000000
+      internalID: 972295974976375967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932d720b9ba67cdd0800000000000000
+      internalID: -2465884925205163463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0811d7c5915a8e20800000000000000
+      internalID: 3353582576275101709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbde1beeba782e620800000000000000
+      internalID: 2801951090691665341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1a53d0172c35990800000000000000
+      internalID: -7398355972030881293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da90f229b45b14e0800000000000000
+      internalID: -2009919654558917933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f583392c04c83890800000000000000
+      internalID: -7478011624738814471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ad548b2b5632cb0800000000000000
+      internalID: -4889952952124056969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83da7a6a641809c0800000000000000
+      internalID: -3960893424986827891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98452907ea58fd130800000000000000
+      internalID: 3593738011924386953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 3125
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e7b5ecce5c993c0800000000000000
+      internalID: -4352229944011817375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 3253
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b89ee874e866a650800000000000000
+      internalID: 6243793263886506166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 3381
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21538a723d65c760800000000000000
+      internalID: 7477502819889795370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 3497
+        y: 50
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee8a438a01fd4de0800000000000000
+      internalID: -1347155686059241759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 50
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af236697f9678df40800000000000000
+      internalID: 5753478951274427130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 50
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63757dc1c541742f0800000000000000
+      internalID: -988799207331113162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 3881
+        y: 50
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b66882f03b668c0800000000000000
+      internalID: -4006317940813698290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 4024
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a447f1cdacce03a0800000000000000
+      internalID: -6697190549197732702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 4149
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf17d7d3d3aff370800000000000000
+      internalID: 8358579563677556672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 4277
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065c36194083b2f00800000000000000
+      internalID: 1093028926837736800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-SummonAttack-Midground-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 4405
+        y: 51
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f718617eeec57f1f0800000000000000
+      internalID: -1011237410172403329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maw-SummonAttack-Midground-Sheet_0: 6165658765825481142
+      Maw-SummonAttack-Midground-Sheet_1: -3259650040930068987
+      Maw-SummonAttack-Midground-Sheet_10: -7552714297492960079
+      Maw-SummonAttack-Midground-Sheet_11: -2291325961976495789
+      Maw-SummonAttack-Midground-Sheet_12: -7421107746119395600
+      Maw-SummonAttack-Midground-Sheet_13: -8655062567571585062
+      Maw-SummonAttack-Midground-Sheet_14: 972295974976375967
+      Maw-SummonAttack-Midground-Sheet_15: -2465884925205163463
+      Maw-SummonAttack-Midground-Sheet_16: 3353582576275101709
+      Maw-SummonAttack-Midground-Sheet_17: 2801951090691665341
+      Maw-SummonAttack-Midground-Sheet_18: -7398355972030881293
+      Maw-SummonAttack-Midground-Sheet_19: -2009919654558917933
+      Maw-SummonAttack-Midground-Sheet_2: -3757835010177800989
+      Maw-SummonAttack-Midground-Sheet_20: -7478011624738814471
+      Maw-SummonAttack-Midground-Sheet_21: -4889952952124056969
+      Maw-SummonAttack-Midground-Sheet_22: -3960893424986827891
+      Maw-SummonAttack-Midground-Sheet_23: 3593738011924386953
+      Maw-SummonAttack-Midground-Sheet_24: -4352229944011817375
+      Maw-SummonAttack-Midground-Sheet_25: 6243793263886506166
+      Maw-SummonAttack-Midground-Sheet_26: 7477502819889795370
+      Maw-SummonAttack-Midground-Sheet_27: -1347155686059241759
+      Maw-SummonAttack-Midground-Sheet_28: 5753478951274427130
+      Maw-SummonAttack-Midground-Sheet_29: -988799207331113162
+      Maw-SummonAttack-Midground-Sheet_3: 183869721882944693
+      Maw-SummonAttack-Midground-Sheet_30: -4006317940813698290
+      Maw-SummonAttack-Midground-Sheet_31: -6697190549197732702
+      Maw-SummonAttack-Midground-Sheet_32: 8358579563677556672
+      Maw-SummonAttack-Midground-Sheet_33: 1093028926837736800
+      Maw-SummonAttack-Midground-Sheet_34: -1011237410172403329
+      Maw-SummonAttack-Midground-Sheet_4: 23061384506196340
+      Maw-SummonAttack-Midground-Sheet_5: 8145335540912832807
+      Maw-SummonAttack-Midground-Sheet_6: 7627936195185549310
+      Maw-SummonAttack-Midground-Sheet_7: -6708153874216421488
+      Maw-SummonAttack-Midground-Sheet_8: 5809005826717556818
+      Maw-SummonAttack-Midground-Sheet_9: 8511494472788815177
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

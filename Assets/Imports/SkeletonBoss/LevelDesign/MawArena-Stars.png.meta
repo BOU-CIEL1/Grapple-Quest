@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 0dc5cd2a2835a1847af3969bd94d6fad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5767333186926216068
+    second: MawArena-Stars_0
+  - first:
+      213: -111874527875832132
+    second: MawArena-Stars_1
+  - first:
+      213: 7043733381888042862
+    second: MawArena-Stars_2
+  - first:
+      213: 3282095038958067428
+    second: MawArena-Stars_3
+  - first:
+      213: 7818349503299227912
+    second: MawArena-Stars_4
+  - first:
+      213: -1096206705124492734
+    second: MawArena-Stars_5
+  - first:
+      213: -949036985901342360
+    second: MawArena-Stars_6
+  - first:
+      213: 3557533614633452195
+    second: MawArena-Stars_7
+  - first:
+      213: 590996496018710953
+    second: MawArena-Stars_8
+  - first:
+      213: 1179920089147162191
+    second: MawArena-Stars_9
+  - first:
+      213: 3401761712279725521
+    second: MawArena-Stars_10
+  - first:
+      213: -7928976848055183441
+    second: MawArena-Stars_11
+  - first:
+      213: 4336543100443715139
+    second: MawArena-Stars_12
+  - first:
+      213: 5367880140286841480
+    second: MawArena-Stars_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MawArena-Stars_0
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 631
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4830f041afea90050800000000000000
+      internalID: 5767333186926216068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MawArena-Stars_1
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 591
+        width: 82
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6eb8aa5ba827ef0800000000000000
+      internalID: -111874527875832132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MawArena-Stars_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 288
+        width: 337
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e676ff7013e50c160800000000000000
+      internalID: 7043733381888042862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MawArena-Stars_3
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 451
+        width: 69
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eeda247c085c8d20800000000000000
+      internalID: 3282095038958067428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MawArena-Stars_4
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 396
+        width: 18
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801900a237b508c60800000000000000
+      internalID: 7818349503299227912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MawArena-Stars_5
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 430
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a37a44fcd79c0f0800000000000000
+      internalID: -1096206705124492734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MawArena-Stars_6
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 353
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861a4a8b3e754d2f0800000000000000
+      internalID: -949036985901342360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MawArena-Stars_7
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 316
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a20db059f5ee5130800000000000000
+      internalID: 3557533614633452195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MawArena-Stars_8
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 257
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a122b09e24a33800800000000000000
+      internalID: 590996496018710953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MawArena-Stars_9
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 278
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4eb6f0d11bef5010800000000000000
+      internalID: 1179920089147162191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MawArena-Stars_10
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 257
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d525f6014c753f20800000000000000
+      internalID: 3401761712279725521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MawArena-Stars_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 233
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7df53f09d96f190800000000000000
+      internalID: -7928976848055183441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MawArena-Stars_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 200
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3466e1f49fe7e2c30800000000000000
+      internalID: 4336543100443715139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MawArena-Stars_13
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 218
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882dbae1c8a8e7a40800000000000000
+      internalID: 5367880140286841480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MawArena-Stars_0: 5767333186926216068
+      MawArena-Stars_1: -111874527875832132
+      MawArena-Stars_10: 3401761712279725521
+      MawArena-Stars_11: -7928976848055183441
+      MawArena-Stars_12: 4336543100443715139
+      MawArena-Stars_13: 5367880140286841480
+      MawArena-Stars_2: 7043733381888042862
+      MawArena-Stars_3: 3282095038958067428
+      MawArena-Stars_4: 7818349503299227912
+      MawArena-Stars_5: -1096206705124492734
+      MawArena-Stars_6: -949036985901342360
+      MawArena-Stars_7: 3557533614633452195
+      MawArena-Stars_8: 590996496018710953
+      MawArena-Stars_9: 1179920089147162191
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

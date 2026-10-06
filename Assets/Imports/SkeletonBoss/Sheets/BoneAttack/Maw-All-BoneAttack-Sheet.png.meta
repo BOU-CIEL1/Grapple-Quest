@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: 025eb45c41c82044d9f90f48f19401a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2137202661761729741
+    second: Maw-All-BoneAttack-Sheet_0
+  - first:
+      213: 3514655799215289488
+    second: Maw-All-BoneAttack-Sheet_1
+  - first:
+      213: 7562274135474558379
+    second: Maw-All-BoneAttack-Sheet_2
+  - first:
+      213: 441552005456043537
+    second: Maw-All-BoneAttack-Sheet_3
+  - first:
+      213: -1374948584813569732
+    second: Maw-All-BoneAttack-Sheet_4
+  - first:
+      213: 3045267823127002513
+    second: Maw-All-BoneAttack-Sheet_5
+  - first:
+      213: 5375253779740424225
+    second: Maw-All-BoneAttack-Sheet_6
+  - first:
+      213: -8493441049692554069
+    second: Maw-All-BoneAttack-Sheet_7
+  - first:
+      213: -6257276439208900692
+    second: Maw-All-BoneAttack-Sheet_8
+  - first:
+      213: -6227178040847855697
+    second: Maw-All-BoneAttack-Sheet_9
+  - first:
+      213: -2157093650171185594
+    second: Maw-All-BoneAttack-Sheet_10
+  - first:
+      213: -5023353470796513122
+    second: Maw-All-BoneAttack-Sheet_11
+  - first:
+      213: 4907631593123821480
+    second: Maw-All-BoneAttack-Sheet_12
+  - first:
+      213: -4729416300081236031
+    second: Maw-All-BoneAttack-Sheet_13
+  - first:
+      213: -5031886808637597968
+    second: Maw-All-BoneAttack-Sheet_14
+  - first:
+      213: -7071475855428387629
+    second: Maw-All-BoneAttack-Sheet_15
+  - first:
+      213: 1911214647163185132
+    second: Maw-All-BoneAttack-Sheet_16
+  - first:
+      213: 3473764228255999016
+    second: Maw-All-BoneAttack-Sheet_17
+  - first:
+      213: -3858810495929992710
+    second: Maw-All-BoneAttack-Sheet_18
+  - first:
+      213: 6802203265161536198
+    second: Maw-All-BoneAttack-Sheet_19
+  - first:
+      213: 8256321317579609307
+    second: Maw-All-BoneAttack-Sheet_20
+  - first:
+      213: -4617838564435072195
+    second: Maw-All-BoneAttack-Sheet_21
+  - first:
+      213: 8698092150758607848
+    second: Maw-All-BoneAttack-Sheet_22
+  - first:
+      213: 1032340994398396999
+    second: Maw-All-BoneAttack-Sheet_23
+  - first:
+      213: -3410578343626184253
+    second: Maw-All-BoneAttack-Sheet_24
+  - first:
+      213: -7538239005009886055
+    second: Maw-All-BoneAttack-Sheet_25
+  - first:
+      213: -4921932813075799278
+    second: Maw-All-BoneAttack-Sheet_26
+  - first:
+      213: -3553119962491336939
+    second: Maw-All-BoneAttack-Sheet_27
+  - first:
+      213: 648431363263340242
+    second: Maw-All-BoneAttack-Sheet_28
+  - first:
+      213: 8967071359397500880
+    second: Maw-All-BoneAttack-Sheet_29
+  - first:
+      213: -327477724606582539
+    second: Maw-All-BoneAttack-Sheet_30
+  - first:
+      213: 4039755195002052741
+    second: Maw-All-BoneAttack-Sheet_31
+  - first:
+      213: 3317626398663474416
+    second: Maw-All-BoneAttack-Sheet_32
+  - first:
+      213: -6321229055763566126
+    second: Maw-All-BoneAttack-Sheet_33
+  - first:
+      213: 2470807696804759019
+    second: Maw-All-BoneAttack-Sheet_34
+  - first:
+      213: -2165498842275760910
+    second: Maw-All-BoneAttack-Sheet_35
+  - first:
+      213: 5062585737824447442
+    second: Maw-All-BoneAttack-Sheet_36
+  - first:
+      213: -8690701469861621396
+    second: Maw-All-BoneAttack-Sheet_37
+  - first:
+      213: 7499701622941281590
+    second: Maw-All-BoneAttack-Sheet_38
+  - first:
+      213: 6700401645636005610
+    second: Maw-All-BoneAttack-Sheet_39
+  - first:
+      213: -2984543895434467246
+    second: Maw-All-BoneAttack-Sheet_40
+  - first:
+      213: -5959741969322554906
+    second: Maw-All-BoneAttack-Sheet_41
+  - first:
+      213: 5636155426849806299
+    second: Maw-All-BoneAttack-Sheet_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 54
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b3ca4a0812752e0800000000000000
+      internalID: -2137202661761729741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0947ef3f3d096c030800000000000000
+      internalID: 3514655799215289488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 58
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5d513724892f860800000000000000
+      internalID: 7562274135474558379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 67
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e9113a535b02600800000000000000
+      internalID: 441552005456043537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 72
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39d2c10c833bece0800000000000000
+      internalID: -1374948584813569732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d796b53f6f24a20800000000000000
+      internalID: 3045267823127002513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 66
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128f00755dcb89a40800000000000000
+      internalID: 5375253779740424225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 65
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacba509d5c312a80800000000000000
+      internalID: -8493441049692554069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 0
+        width: 79
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca748832b30b929a0800000000000000
+      internalID: -6257276439208900692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 64
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf862a909e9499a0800000000000000
+      internalID: -6227178040847855697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 0
+        width: 78
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646bb4201c67012e0800000000000000
+      internalID: -2157093650171185594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 64
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90c2f712a6794ab0800000000000000
+      internalID: -5023353470796513122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 0
+        width: 83
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a731a4aee86b1440800000000000000
+      internalID: 4907631593123821480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 64
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c737bebeecbd5eb0800000000000000
+      internalID: -4729416300081236031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 0
+        width: 79
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f69e2d8b952b2ab0800000000000000
+      internalID: -5031886808637597968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 64
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc707ffc221ddd90800000000000000
+      internalID: -7071475855428387629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 0
+        width: 80
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce76fa5789ff58a10800000000000000
+      internalID: 1911214647163185132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 64
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82468aa292a453030800000000000000
+      internalID: 3473764228255999016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 0
+        width: 79
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af93b8e7c40c27ac0800000000000000
+      internalID: -3858810495929992710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 64
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2a4fd74d7466e50800000000000000
+      internalID: 6802203265161536198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 0
+        width: 89
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd451d59e78549270800000000000000
+      internalID: 8256321317579609307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 0
+        width: 90
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b6fb0ca442aefb0800000000000000
+      internalID: -4617838564435072195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 0
+        width: 87
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb84950ab4d5b870800000000000000
+      internalID: 8698092150758607848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 0
+        width: 86
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742a0323aac935e00800000000000000
+      internalID: 1032340994398396999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 0
+        width: 85
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9658501113ba0d0800000000000000
+      internalID: -3410578343626184253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 0
+        width: 81
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9944462709bc26790800000000000000
+      internalID: -7538239005009886055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 0
+        width: 67
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213274c1f28c1bbb0800000000000000
+      internalID: -4921932813075799278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 0
+        width: 66
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517ca572838c0bec0800000000000000
+      internalID: -3553119962491336939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 0
+        width: 61
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de988ca3e0bff800800000000000000
+      internalID: 648431363263340242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2974
+        y: 0
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7977c44ef617c70800000000000000
+      internalID: 8967071359397500880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 0
+        width: 58
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0b8f89eb0947bf0800000000000000
+      internalID: -327477724606582539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 0
+        width: 60
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580e2a142f7101830800000000000000
+      internalID: 4039755195002052741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 0
+        width: 54
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc7bcdc1a39a0e20800000000000000
+      internalID: 3317626398663474416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 44
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1b5534aab7648a0800000000000000
+      internalID: -6321229055763566126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 39
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5495462821a4220800000000000000
+      internalID: 2470807696804759019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 6
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f432a8b64a92f1e0800000000000000
+      internalID: -2165498842275760910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 17
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db2cf3e7eae14640800000000000000
+      internalID: 5062585737824447442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 22
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61dee7fe0d646780800000000000000
+      internalID: -8690701469861621396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63de5d414ea441860800000000000000
+      internalID: 7499701622941281590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeea394ebcb9cfc50800000000000000
+      internalID: 6700401645636005610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 0
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2586110d325c496d0800000000000000
+      internalID: -2984543895434467246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9ca85414eba4da0800000000000000
+      internalID: -5959741969322554906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maw-All-BoneAttack-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7d544cf75a73e40800000000000000
+      internalID: 5636155426849806299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maw-All-BoneAttack-Sheet_0: -2137202661761729741
+      Maw-All-BoneAttack-Sheet_1: 3514655799215289488
+      Maw-All-BoneAttack-Sheet_10: -2157093650171185594
+      Maw-All-BoneAttack-Sheet_11: -5023353470796513122
+      Maw-All-BoneAttack-Sheet_12: 4907631593123821480
+      Maw-All-BoneAttack-Sheet_13: -4729416300081236031
+      Maw-All-BoneAttack-Sheet_14: -5031886808637597968
+      Maw-All-BoneAttack-Sheet_15: -7071475855428387629
+      Maw-All-BoneAttack-Sheet_16: 1911214647163185132
+      Maw-All-BoneAttack-Sheet_17: 3473764228255999016
+      Maw-All-BoneAttack-Sheet_18: -3858810495929992710
+      Maw-All-BoneAttack-Sheet_19: 6802203265161536198
+      Maw-All-BoneAttack-Sheet_2: 7562274135474558379
+      Maw-All-BoneAttack-Sheet_20: 8256321317579609307
+      Maw-All-BoneAttack-Sheet_21: -4617838564435072195
+      Maw-All-BoneAttack-Sheet_22: 8698092150758607848
+      Maw-All-BoneAttack-Sheet_23: 1032340994398396999
+      Maw-All-BoneAttack-Sheet_24: -3410578343626184253
+      Maw-All-BoneAttack-Sheet_25: -7538239005009886055
+      Maw-All-BoneAttack-Sheet_26: -4921932813075799278
+      Maw-All-BoneAttack-Sheet_27: -3553119962491336939
+      Maw-All-BoneAttack-Sheet_28: 648431363263340242
+      Maw-All-BoneAttack-Sheet_29: 8967071359397500880
+      Maw-All-BoneAttack-Sheet_3: 441552005456043537
+      Maw-All-BoneAttack-Sheet_30: -327477724606582539
+      Maw-All-BoneAttack-Sheet_31: 4039755195002052741
+      Maw-All-BoneAttack-Sheet_32: 3317626398663474416
+      Maw-All-BoneAttack-Sheet_33: -6321229055763566126
+      Maw-All-BoneAttack-Sheet_34: 2470807696804759019
+      Maw-All-BoneAttack-Sheet_35: -2165498842275760910
+      Maw-All-BoneAttack-Sheet_36: 5062585737824447442
+      Maw-All-BoneAttack-Sheet_37: -8690701469861621396
+      Maw-All-BoneAttack-Sheet_38: 7499701622941281590
+      Maw-All-BoneAttack-Sheet_39: 6700401645636005610
+      Maw-All-BoneAttack-Sheet_4: -1374948584813569732
+      Maw-All-BoneAttack-Sheet_40: -2984543895434467246
+      Maw-All-BoneAttack-Sheet_41: -5959741969322554906
+      Maw-All-BoneAttack-Sheet_42: 5636155426849806299
+      Maw-All-BoneAttack-Sheet_5: 3045267823127002513
+      Maw-All-BoneAttack-Sheet_6: 5375253779740424225
+      Maw-All-BoneAttack-Sheet_7: -8493441049692554069
+      Maw-All-BoneAttack-Sheet_8: -6257276439208900692
+      Maw-All-BoneAttack-Sheet_9: -6227178040847855697
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
