@@ -29,7 +29,7 @@ public class MainMenu : MonoBehaviour
     }
     public void CreditsButton()
     {
-
+        SceneManager.LoadScene("Credits");
     }
 
     public void QuitGame()
