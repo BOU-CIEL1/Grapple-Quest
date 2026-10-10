@@ -22,6 +22,8 @@ public class Player : MonoBehaviour
     private float tempsAvantMort;
     private Coroutine clignotement;
 
+    [SerializeField] private GameObject gameOverPanel;
+
     private void Awake()
     {
         corps = GetComponent<Rigidbody2D>();
@@ -133,6 +135,9 @@ public class Player : MonoBehaviour
             yield return null;
         }
         AfficherSprites(false);
+
+        if (gameOverPanel != null)
+            gameOverPanel.SetActive(true);
     }
 
     // A relier au futur bouton dans Button > On Click().
