@@ -11,9 +11,12 @@ public class PlayerCoins : MonoBehaviour
 
     private GameObject hud;
     private Text counter;
+    private Player player;
+    private readonly HeartGraphic[] hearts = new HeartGraphic[3];
 
     private void Awake()
     {
+        player = GetComponent<Player>();
         // Crée le HUD par-dessus l'affichage du jeu.
         hud = new GameObject("Coins HUD", typeof(Canvas), typeof(CanvasScaler));
         Canvas canvas = hud.GetComponent<Canvas>();
@@ -41,12 +44,37 @@ public class PlayerCoins : MonoBehaviour
         RectTransform rect = counter.rectTransform;
         rect.anchorMin = rect.anchorMax = new Vector2(0f, 1f);
         rect.pivot = new Vector2(0f, 1f);
-        rect.anchoredPosition = new Vector2(24f, -24f);
+        rect.anchoredPosition = new Vector2(24f, -80f);
         rect.sizeDelta = new Vector2(420f, 60f);
 
         // Ajoute une ombre pour rendre le texte plus lisible.
         label.GetComponent<Shadow>().effectDistance = new Vector2(2f, -2f);
         RefreshHud();
+    }
+
+    private void Start()
+    {
+        player = GetComponent<Player>();
+        for (int i = 0; i < hearts.Length; i++)
+        {
+            GameObject heart = new GameObject("Heart " + (i + 1), typeof(RectTransform), typeof(HeartGraphic));
+            heart.transform.SetParent(hud.transform, false);
+            hearts[i] = heart.GetComponent<HeartGraphic>();
+            hearts[i].raycastTarget = false;
+            RectTransform rect = hearts[i].rectTransform;
+            rect.anchorMin = rect.anchorMax = new Vector2(0f, 1f);
+            rect.pivot = new Vector2(0f, 1f);
+            rect.anchoredPosition = new Vector2(24f + i * 52f, -24f);
+            rect.sizeDelta = new Vector2(40f, 35f);
+        }
+    }
+
+    private void Update()
+    {
+        for (int i = 0; i < hearts.Length; i++)
+            if (hearts[i] != null)
+                hearts[i].color = player != null && i < player.PvActuels
+                    ? new Color(1f, 0.15f, 0.25f) : new Color(0.25f, 0.25f, 0.25f);
     }
 
     // Ajoute une pièce et actualise aussitôt le HUD.

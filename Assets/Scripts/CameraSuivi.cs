@@ -5,6 +5,7 @@ public class CameraSuivi : MonoBehaviour
 {
     [SerializeField] private Transform joueur;
     [SerializeField] private float limiteGauche = -6f;
+    [SerializeField] private float limiteBasse = -5f;
     [SerializeField, Range(0.1f, 0.5f)] private float positionEcran = 0.33f;
     [SerializeField, Min(0.01f)] private float amortissement = 0.18f;
     [SerializeField, Min(0f)] private float zoneVerticale = 2f;
@@ -16,9 +17,15 @@ public class CameraSuivi : MonoBehaviour
     private float hauteurInitiale;
     private float decalageVertical;
 
+    public void ArreterSuivi(Transform cible)
+    {
+        if (joueur == cible) enabled = false;
+    }
+
     private void Awake()
     {
         vue = GetComponent<Camera>();
+        LimiterHauteur();
         hauteurInitiale = transform.position.y;
         if (joueur == null)
             return;
@@ -72,5 +79,19 @@ public class CameraSuivi : MonoBehaviour
         float cibleY = hauteurInitiale + Mathf.Sign(ecartY) * Mathf.Max(0f, Mathf.Abs(ecartY) - zoneVerticale);
         position.y = Mathf.SmoothDamp(position.y, cibleY, ref vitesseSuivi.y, amortissement * 1.5f);
         transform.position = position;
+        LimiterHauteur();
+    }
+
+    private void LimiterHauteur()
+    {
+        if (!vue.orthographic) return;
+        Vector3 position = transform.position;
+        float minimum = limiteBasse + vue.orthographicSize;
+        if (position.y < minimum)
+        {
+            position.y = minimum;
+            transform.position = position;
+            vitesseSuivi.y = Mathf.Max(0f, vitesseSuivi.y);
+        }
     }
 }

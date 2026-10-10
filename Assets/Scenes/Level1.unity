@@ -119,6 +119,97 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &991001
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 991002}
+  - component: {fileID: 991003}
+  - component: {fileID: 991004}
+  m_Layer: 0
+  m_Name: Death Zone (y -5)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &991002
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 991001}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -55, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &991003
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 991001}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.33928573, y: 0}
+    oldSize: {x: 0.56, y: 1.16}
+    newSize: {x: 0.56, y: 1.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 10000, y: 100}
+  m_EdgeRadius: 0
+--- !u!114 &991004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 991001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa4ad52681874feb9ae3a92010d7e8ef, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &46985792 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7016434639778021264, guid: fbc6035855570db47b5414d27b2c05b1, type: 3}
@@ -323,6 +414,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 931315619}
     m_Modifications:
+    - target: {fileID: 990020, guid: ca93e87afa729844daf8041641109929, type: 3}
+      propertyPath: m_Size.x
+      value: 0.29200298
+      objectReference: {fileID: 0}
+    - target: {fileID: 990020, guid: ca93e87afa729844daf8041641109929, type: 3}
+      propertyPath: m_Size.y
+      value: 0.4324576
+      objectReference: {fileID: 0}
+    - target: {fileID: 990020, guid: ca93e87afa729844daf8041641109929, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.0041633546
+      objectReference: {fileID: 0}
+    - target: {fileID: 990020, guid: ca93e87afa729844daf8041641109929, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.07439123
+      objectReference: {fileID: 0}
     - target: {fileID: 1238305192959955969, guid: ca93e87afa729844daf8041641109929, type: 3}
       propertyPath: m_Name
       value: Mushroom (1)
@@ -626,6 +733,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 984973888}
     m_Modifications:
+    - target: {fileID: 990020, guid: f8cc67d5daa07a044bb51143567d8b78, type: 3}
+      propertyPath: m_Size.x
+      value: 0.45768327
+      objectReference: {fileID: 0}
+    - target: {fileID: 990020, guid: f8cc67d5daa07a044bb51143567d8b78, type: 3}
+      propertyPath: m_Size.y
+      value: 0.35741425
+      objectReference: {fileID: 0}
+    - target: {fileID: 990020, guid: f8cc67d5daa07a044bb51143567d8b78, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.020889401
+      objectReference: {fileID: 0}
+    - target: {fileID: 990020, guid: f8cc67d5daa07a044bb51143567d8b78, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.016711533
+      objectReference: {fileID: 0}
     - target: {fileID: 735492935090170334, guid: f8cc67d5daa07a044bb51143567d8b78, type: 3}
       propertyPath: m_LocalPosition.x
       value: -85.818695
@@ -715,6 +838,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 984973888}
     m_Modifications:
+    - target: {fileID: 990020, guid: f8cc67d5daa07a044bb51143567d8b78, type: 3}
+      propertyPath: m_Size.x
+      value: 0.46296138
+      objectReference: {fileID: 0}
+    - target: {fileID: 990020, guid: f8cc67d5daa07a044bb51143567d8b78, type: 3}
+      propertyPath: m_Size.y
+      value: 0.371473
+      objectReference: {fileID: 0}
+    - target: {fileID: 990020, guid: f8cc67d5daa07a044bb51143567d8b78, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.027030498
+      objectReference: {fileID: 0}
+    - target: {fileID: 990020, guid: f8cc67d5daa07a044bb51143567d8b78, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.010396272
+      objectReference: {fileID: 0}
     - target: {fileID: 735492935090170334, guid: f8cc67d5daa07a044bb51143567d8b78, type: 3}
       propertyPath: m_LocalPosition.x
       value: 7.098343
@@ -1303,6 +1442,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   joueur: {fileID: 1232562691}
   limiteGauche: -6
+  limiteBasse: -5
   positionEcran: 0.33
   amortissement: 0.18
   zoneVerticale: 2
@@ -4507,6 +4647,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 931315619}
     m_Modifications:
+    - target: {fileID: 990020, guid: ca93e87afa729844daf8041641109929, type: 3}
+      propertyPath: m_Size.x
+      value: 0.27988994
+      objectReference: {fileID: 0}
+    - target: {fileID: 990020, guid: ca93e87afa729844daf8041641109929, type: 3}
+      propertyPath: m_Size.y
+      value: 0.4152974
+      objectReference: {fileID: 0}
+    - target: {fileID: 990020, guid: ca93e87afa729844daf8041641109929, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.005207896
+      objectReference: {fileID: 0}
+    - target: {fileID: 990020, guid: ca93e87afa729844daf8041641109929, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.07291167
+      objectReference: {fileID: 0}
     - target: {fileID: 1238305192959955969, guid: ca93e87afa729844daf8041641109929, type: 3}
       propertyPath: m_Name
       value: Mushroom
@@ -20356,3 +20512,4 @@ SceneRoots:
   - {fileID: 480799828}
   - {fileID: 806617999}
   - {fileID: 1679468554}
+  - {fileID: 991002}
