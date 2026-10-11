@@ -177,9 +177,11 @@ public class Grapple : MonoBehaviour
             GrappleAnchor cibleAnneau = autre.GetComponentInParent<GrappleAnchor>();
             Ennemy ennemi = autre.GetComponentInParent<Ennemy>();
             Boss boss = autre.GetComponentInParent<Boss>();
+            BigRock rocher = autre.GetComponentInParent<BigRock>();
             bool autorise = (cibleAnneau != null && cibleAnneau.isActiveAndEnabled)
                 || (ennemi != null && ennemi.isActiveAndEnabled && !ennemi.EstMort)
-                || (boss != null && boss.isActiveAndEnabled && !boss.EstMort);
+                || (boss != null && boss.isActiveAndEnabled && !boss.EstMort)
+                || (rocher != null && rocher.isActiveAndEnabled && !rocher.EstDetruit);
             // Ignore les triggers decoratifs, pieces, portails et zones de detection.
             if (autre.isTrigger && !autorise) continue;
             if (impacts[i].distance < distanceImpact)
@@ -199,6 +201,7 @@ public class Grapple : MonoBehaviour
             Ennemy ennemi = premier.collider.GetComponentInParent<Ennemy>();
             Boss boss = premier.collider.GetComponentInParent<Boss>();
             GrappleAnchor cibleAnneau = premier.collider.GetComponentInParent<GrappleAnchor>();
+            BigRock rocher = premier.collider.GetComponentInParent<BigRock>();
             if (ennemi != null && ennemi.isActiveAndEnabled)
             {
                 ennemi.PrendreDegats(Random.Range(3, 7));
@@ -207,6 +210,11 @@ public class Grapple : MonoBehaviour
             else if (boss != null && boss.isActiveAndEnabled)
             {
                 boss.PrendreDegats(Random.Range(3, 7));
+                CommencerRetour();
+            }
+            else if (rocher != null && rocher.isActiveAndEnabled)
+            {
+                rocher.RecevoirCoupGrappin();
                 CommencerRetour();
             }
             else if (cibleAnneau != null && cibleAnneau.isActiveAndEnabled)
