@@ -189,6 +189,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   coins: 0
+  diamonds: 0
 --- !u!95 &8645056172003020298
 Animator:
   serializedVersion: 7

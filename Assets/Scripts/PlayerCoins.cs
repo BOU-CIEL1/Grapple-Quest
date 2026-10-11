@@ -8,9 +8,13 @@ public class PlayerCoins : MonoBehaviour
     [SerializeField, Min(0)] private int coins = 0;
     // Permet aux autres scripts de lire le total sans le modifier directement.
     public int Coins => coins;
+    [SerializeField, Range(0, 3)] private int diamonds = 0;
+    public const int DiamondsRequired = 3;
+    public int Diamonds => diamonds;
 
     private GameObject hud;
     private Text counter;
+    private Text diamondCounter;
     private Player player;
     private readonly HeartGraphic[] hearts = new HeartGraphic[3];
 
@@ -29,27 +33,34 @@ public class PlayerCoins : MonoBehaviour
         scaler.referenceResolution = new Vector2(1920f, 1080f);
         scaler.matchWidthOrHeight = 0.5f;
 
-        // Crée le texte du compteur et règle son apparence.
-        GameObject label = new GameObject("Coins", typeof(RectTransform), typeof(Text), typeof(Shadow));
+        counter = CreateCounter("Coins", new Color(1f, 0.85f, 0.2f), -80f);
+        diamondCounter = CreateCounter("Diamonds", new Color(0.35f, 0.9f, 1f), -140f);
+        RefreshHud();
+    }
+
+    // Garde le meme style et le meme alignement pour les deux compteurs.
+    private Text CreateCounter(string name, Color color, float verticalPosition)
+    {
+        GameObject label = new GameObject(name, typeof(RectTransform), typeof(Text), typeof(Shadow));
         label.transform.SetParent(hud.transform, false);
-        counter = label.GetComponent<Text>();
-        counter.font = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
-        counter.fontSize = 36;
-        counter.fontStyle = FontStyle.Bold;
-        counter.color = new Color(1f, 0.85f, 0.2f);
-        counter.alignment = TextAnchor.UpperLeft;
-        counter.raycastTarget = false;
+        Text text = label.GetComponent<Text>();
+        text.font = Resources.GetBuiltinResource<Font>("LegacyRuntime.ttf");
+        text.fontSize = 36;
+        text.fontStyle = FontStyle.Bold;
+        text.color = color;
+        text.alignment = TextAnchor.UpperLeft;
+        text.raycastTarget = false;
 
         // Fixe le compteur en haut à gauche avec une petite marge.
-        RectTransform rect = counter.rectTransform;
+        RectTransform rect = text.rectTransform;
         rect.anchorMin = rect.anchorMax = new Vector2(0f, 1f);
         rect.pivot = new Vector2(0f, 1f);
-        rect.anchoredPosition = new Vector2(24f, -80f);
+        rect.anchoredPosition = new Vector2(24f, verticalPosition);
         rect.sizeDelta = new Vector2(420f, 60f);
 
         // Ajoute une ombre pour rendre le texte plus lisible.
         label.GetComponent<Shadow>().effectDistance = new Vector2(2f, -2f);
-        RefreshHud();
+        return text;
     }
 
     private void Start()
@@ -84,10 +95,17 @@ public class PlayerCoins : MonoBehaviour
         RefreshHud();
     }
 
+    public void AddDiamond()
+    {
+        diamonds = Mathf.Min(diamonds + 1, DiamondsRequired);
+        RefreshHud();
+    }
+
     // Affiche la valeur actuelle du compteur.
     private void RefreshHud()
     {
         counter.text = $"Coins : {coins}";
+        diamondCounter.text = $"Diamonds: {diamonds} / {DiamondsRequired}";
     }
 
     // Supprime aussi le HUD lorsque le joueur est détruit.
