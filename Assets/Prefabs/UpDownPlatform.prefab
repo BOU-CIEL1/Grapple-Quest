@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 7149896947033285105}
   - component: {fileID: 8267019779525582571}
   - component: {fileID: -7363008399469338202}
+  - component: {fileID: -3672982021198211284}
   m_Layer: 0
   m_Name: UpDownPlatform
   m_TagString: Untagged
@@ -166,3 +167,15 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &-3672982021198211284
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5199072375264168881}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f068d43a14238e84890b01b9ff957817, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
