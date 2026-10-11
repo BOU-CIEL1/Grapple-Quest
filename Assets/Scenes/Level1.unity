@@ -21030,6 +21030,10 @@ PrefabInstance:
       propertyPath: gameOverPanel
       value: 
       objectReference: {fileID: 240016960}
+    - target: {fileID: 990002, guid: 13d6cbb2ca789944ebaf70d23ef67f5a, type: 3}
+      propertyPath: surfaces.m_Bits
+      value: 51
+      objectReference: {fileID: 0}
     - target: {fileID: 6048183600784488507, guid: 13d6cbb2ca789944ebaf70d23ef67f5a, type: 3}
       propertyPath: m_LocalPosition.x
       value: -11.55
