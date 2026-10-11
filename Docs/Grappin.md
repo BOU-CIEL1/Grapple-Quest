@@ -15,6 +15,8 @@ Les instances existantes de ces prefabs heritent de ces modifications.
 - Nouveau clic : decrochage immediat, puis retour visuel a la main.
 - Ennemi ou boss : un seul coup de 3 a 6 degats inclus, puis retour.
   Aucun des deux personnages ne subit d'attraction.
+- BigRock : un coup par lancer, petit tremblement du sprite, destruction au
+  troisieme coup. Le rocher reste fixe et solide tant qu'il n'est pas detruit.
 - Pendant le retour, attendre que le crochet revienne avant de relancer.
 
 La corde utilise un `DistanceJoint2D` avec une distance maximale : elle peut se
@@ -65,6 +67,9 @@ conservent leur Rigidbody2D : l'accroche suit son mouvement.
 4. Tirer dans le vide et dans une plateforme : le crochet doit revenir.
 5. Tirer sur un ennemi : il doit disparaitre apres 2 a 4 coups pour ses 12 PV
    par defaut. Verifier aussi pause et mort pendant une accroche.
+6. Tirer trois fois sur BigRock : il tremble sur les deux premiers coups puis
+   disparait au troisieme. Dans son composant `BigRock`, `Amplitude` et
+   `Duree Tremblement` permettent d'ajuster l'effet visuel.
 
 Les tests automatiques sont dans `Assets/Tests/PlayMode`. Les lancer depuis
 `Window > General > Test Runner > PlayMode`.
