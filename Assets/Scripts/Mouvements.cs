@@ -11,6 +11,11 @@ public class Mouvements : MonoBehaviour
     [SerializeField, Min(0.1f)] private float graviteJoueur = 2.5f;
     [SerializeField, Min(1f)] private float multiplicateurChute = 1.35f;
     [SerializeField] private CameraSuivi cameraSuivi;
+    [Header("Elan du grappin")]
+    [SerializeField, Min(0f)] private float accelerationBalancier = 18f;
+    [SerializeField, Min(0f)] private float accelerationAir = 12f;
+    private Grapple grappin;
+    private bool conserverElan;
     private CapsuleCollider2D collision;
 
     // Référence au composant qui gère la physique du personnage.
@@ -29,6 +34,7 @@ public class Mouvements : MonoBehaviour
     private void Awake()
     {
         corps = GetComponent<Rigidbody2D>();
+        grappin = GetComponent<Grapple>();
         corps.gravityScale = graviteJoueur;
         collision = GetComponent<CapsuleCollider2D>();
         // Le joueur doit glisser le long des murs, sans rebond physique.
@@ -51,6 +57,12 @@ public class Mouvements : MonoBehaviour
     // Lit les touches à chaque image pour détecter même les appuis courts.
     private void Update()
     {
+        if (Time.timeScale <= 0f)
+        {
+            direction = 0f;
+            sautDemande = false;
+            return;
+        }
         Keyboard clavier = Keyboard.current;
         direction = 0f;
 
@@ -74,10 +86,23 @@ public class Mouvements : MonoBehaviour
     {
         // Modifie la vitesse horizontale en conservant la vitesse verticale (chute ou saut).
         Vector2 vitesse = corps.linearVelocity;
-        vitesse.x = direction * vitesseDeplacement;
+        bool accroche = grappin != null && grappin.EstAccroche;
+        bool auSol = EstAuSol();
+        if (conserverElan && auSol && !accroche) conserverElan = false;
+        if (accroche)
+            vitesse.x += direction * accelerationBalancier * Time.fixedDeltaTime;
+        else if (conserverElan)
+        {
+            // Sans entree, garde toute la vitesse. Une entree contraire permet de freiner.
+            if (direction != 0f && vitesse.x * direction < vitesseDeplacement)
+                vitesse.x = Mathf.MoveTowards(vitesse.x, direction * vitesseDeplacement,
+                    accelerationAir * Time.fixedDeltaTime);
+        }
+        else
+            vitesse.x = direction * vitesseDeplacement;
 
         // Donne une vitesse vers le haut seulement si le personnage touche le sol.
-        if (sautDemande && EstAuSol())
+        if (sautDemande && auSol)
         {
             float gravite = Mathf.Max(0f, -Physics2D.gravity.y * corps.gravityScale);
             // v = sqrt(2 * g * h), avec compensation du pas de physique.
@@ -88,7 +113,7 @@ public class Mouvements : MonoBehaviour
         }
 
         // Renforce seulement la descente, sans modifier la hauteur du saut.
-        if (vitesse.y < 0f)
+        if (vitesse.y < 0f && !accroche && !conserverElan)
             vitesse.y += Physics2D.gravity.y * corps.gravityScale
                 * (multiplicateurChute - 1f) * Time.fixedDeltaTime;
 
@@ -114,6 +139,8 @@ public class Mouvements : MonoBehaviour
         sautDemande = false;
     }
 
+    public void ConserverElanGrappin() => conserverElan = true;
+
     // Cherche un contact qui soutient le personnage par-dessous.
     private bool EstAuSol()
     {
@@ -135,6 +162,7 @@ public class Mouvements : MonoBehaviour
     // Efface les entrées mémorisées lorsque le script ou le personnage est désactivé.
     private void OnDisable()
     {
+        conserverElan = false;
         direction = 0f;
         sautDemande = false;
     }

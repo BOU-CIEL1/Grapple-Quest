@@ -4,6 +4,12 @@
 [RequireComponent(typeof(Rigidbody2D), typeof(BoxCollider2D))]
 public class Ennemy : MonoBehaviour
 {
+    [Header("Vie")]
+    [SerializeField, Min(1)] private int pvMax = 12;
+    public int PvMax => pvMax;
+    public int PvActuels { get; private set; }
+    public bool EstMort => PvActuels <= 0;
+
     [Header("Patrouille")]
     [SerializeField, Min(0f)] private float vitesse = 2f;
     [SerializeField] private bool commencerVersDroite = false;
@@ -29,6 +35,7 @@ public class Ennemy : MonoBehaviour
 
     private void Awake()
     {
+        PvActuels = pvMax;
         corps = GetComponent<Rigidbody2D>();
         collision = GetComponent<BoxCollider2D>();
         sprite = GetComponentInChildren<SpriteRenderer>();
@@ -55,6 +62,7 @@ public class Ennemy : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if (EstMort) return;
         Bounds bounds = collision.bounds;
         bool auSol = !volant && EstAuSol();
         float vitesseX = direction * vitesse;
@@ -135,6 +143,19 @@ public class Ennemy : MonoBehaviour
     {
         if (corps != null) corps.linearVelocity = new Vector2(0f, corps.linearVelocity.y);
         if (utiliseSpeed && animateur != null) animateur.SetFloat(Speed, 0f);
+    }
+
+    // Le grappin inflige un seul coup par lancer, sans force ni attraction.
+    public void PrendreDegats(int degats)
+    {
+        if (degats <= 0 || EstMort) return;
+        PvActuels = Mathf.Max(0, PvActuels - degats);
+        if (!EstMort) return;
+        corps.linearVelocity = Vector2.zero;
+        corps.simulated = false;
+        foreach (Collider2D autre in GetComponentsInChildren<Collider2D>()) autre.enabled = false;
+        gameObject.SetActive(false);
+        Destroy(gameObject);
     }
 
     private void OnDrawGizmosSelected()

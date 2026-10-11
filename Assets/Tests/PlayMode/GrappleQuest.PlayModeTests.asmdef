@@ -1,0 +1,6 @@
+{
+  "name": "GrappleQuest.PlayModeTests",
+  "references": ["Unity.InputSystem", "Unity.InputSystem.TestFramework"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}

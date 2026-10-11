@@ -101,6 +101,8 @@ public class Player : MonoBehaviour
 
     private IEnumerator Mourir()
     {
+        Grapple grappin = GetComponent<Grapple>();
+        if (grappin != null) grappin.enabled = false;
         Mouvements mouvements = GetComponent<Mouvements>();
         if (mouvements != null) mouvements.enabled = false;
         foreach (CameraSuivi suivi in Object.FindObjectsByType<CameraSuivi>(FindObjectsSortMode.None))
