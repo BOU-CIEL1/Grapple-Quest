@@ -8,9 +8,9 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+  - component: {fileID: 6048183600784488507}
   - component: {fileID: 990001}
   - component: {fileID: 990002}
-  - component: {fileID: 6048183600784488507}
   - component: {fileID: 2612325093655879437}
   - component: {fileID: 6143524165237149662}
   - component: {fileID: 1414570373160284108}
@@ -39,6 +39,52 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &990001
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8312592674315192102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3516c2806bba9042af03634da27e537, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dureeInvincibilite: 2
+  intervalleClignotement: 0.1
+  pauseMort: 1
+  vitesseChuteMort: 6
+  gameOverPanel: {fileID: 0}
+--- !u!114 &990002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8312592674315192102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad3893ea6b09cec40b56ea942f092dc8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  porteeMax: 12
+  vitesseLancer: 35
+  vitesseRetour: 45
+  rayonImpact: 0.08
+  surfaces:
+    serializedVersion: 2
+    m_Bits: 51
+  cameraVisee: {fileID: 0}
+  vitesseRetraction: 6
+  longueurMin: 1.2
+  main: {fileID: 0}
+  positionMain: {x: 0.085, y: -0.005}
+  spriteGrappin: {fileID: 418384413, guid: 58ebc2d7905c7eb4788d88ef0f27ce49, type: 3}
+  tailleVisuel: 0.8
+  angleSprite: -135
+  epaisseurCorde: 0.045
+  couleurCorde: {r: 0.35, g: 0.25, b: 0.15, a: 1}
 --- !u!212 &2612325093655879437
 SpriteRenderer:
   serializedVersion: 2
@@ -112,6 +158,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   vitesseDeplacement: 10
   hauteurSaut: 2
+  graviteJoueur: 2.5
+  multiplicateurChute: 1.35
+  cameraSuivi: {fileID: 0}
+  accelerationBalancier: 18
+  accelerationAir: 12
 --- !u!50 &1414570373160284108
 Rigidbody2D:
   serializedVersion: 5
@@ -212,45 +263,3 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
-
---- !u!114 &990001
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8312592674315192102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e3516c2806bba9042af03634da27e537, type: 3}
-  m_Name:
-  m_EditorClassIdentifier:
---- !u!114 &990002
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8312592674315192102}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ad3893ea6b09cec40b56ea942f092dc8, type: 3}
-  m_Name:
-  m_EditorClassIdentifier:
-  porteeMax: 12
-  vitesseLancer: 35
-  vitesseRetour: 45
-  rayonImpact: 0.08
-  surfaces:
-    serializedVersion: 2
-    m_Bits: 4294967291
-  cameraVisee: {fileID: 0}
-  vitesseRetraction: 6
-  longueurMin: 1.2
-  main: {fileID: 0}
-  positionMain: {x: 0.085, y: -0.005}
-  spriteGrappin: {fileID: 418384413, guid: 58ebc2d7905c7eb4788d88ef0f27ce49, type: 3}
-  tailleVisuel: 0.8
-  angleSprite: -135
-  epaisseurCorde: 0.045
-  couleurCorde: {r: 0.35, g: 0.25, b: 0.15, a: 1}

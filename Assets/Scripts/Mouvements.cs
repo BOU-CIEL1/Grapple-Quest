@@ -7,7 +7,8 @@ public class Mouvements : MonoBehaviour
 {
     // Réglages accessibles dans l'Inspecteur Unity, avec une valeur minimale de zéro.
     [SerializeField, Min(0f)] private float vitesseDeplacement = 10f;
-    [SerializeField, Min(0f)] private float hauteurSaut = 2f;
+    [SerializeField, Min(0f)] private float hauteurSautBase = 2f;
+    [SerializeField, Min(0f)] private float hauteurSaut;
     [SerializeField, Min(0.1f)] private float graviteJoueur = 2.5f;
     [SerializeField, Min(1f)] private float multiplicateurChute = 1.35f;
     [SerializeField] private CameraSuivi cameraSuivi;
@@ -52,6 +53,8 @@ public class Mouvements : MonoBehaviour
             cameraSuivi = Object.FindFirstObjectByType<CameraSuivi>();
         // Empêche le personnage de basculer, tout en conservant les autres contraintes.
         corps.constraints |= RigidbodyConstraints2D.FreezeRotation;
+
+        hauteurSaut = hauteurSautBase;
     }
  
     // Lit les touches à chaque image pour détecter même les appuis courts.
@@ -171,4 +174,21 @@ public class Mouvements : MonoBehaviour
     {
         if (materiauJoueur != null) Destroy(materiauJoueur);
     }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("BouncyPlatform"))
+        {
+            hauteurSaut = hauteurSautBase * 2f;
+        }
+    }
+
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("BouncyPlatform"))
+        {
+            hauteurSaut = hauteurSautBase;
+        }
+    }
+
 }
