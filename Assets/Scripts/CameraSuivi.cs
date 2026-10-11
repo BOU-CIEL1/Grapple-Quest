@@ -10,12 +10,13 @@ public class CameraSuivi : MonoBehaviour
     [SerializeField, Min(0.01f)] private float amortissement = 0.18f;
     [SerializeField, Min(0f)] private float zoneVerticale = 2f;
     [SerializeField, Min(0f)] private float margeBord = 0.05f;
+    [Tooltip("Decalage vertical du cadrage par rapport au joueur, independant de son point de depart.")]
+    [SerializeField] private float decalageVertical = 0.21f;
 
     private Camera vue;
     private Collider2D collisionJoueur;
     private Vector2 vitesseSuivi;
     private float hauteurInitiale;
-    private float decalageVertical;
 
     public void ArreterSuivi(Transform cible)
     {
@@ -28,13 +29,29 @@ public class CameraSuivi : MonoBehaviour
         LimiterHauteur();
         hauteurInitiale = transform.position.y;
         if (joueur == null)
+        {
+            Player personnage = Object.FindFirstObjectByType<Player>();
+            if (personnage != null) joueur = personnage.transform;
+        }
+        if (joueur == null)
             return;
 
         collisionJoueur = joueur.GetComponent<Collider2D>();
-        decalageVertical = hauteurInitiale - joueur.position.y;
         Rigidbody2D corps = joueur.GetComponent<Rigidbody2D>();
         if (corps != null)
             corps.interpolation = RigidbodyInterpolation2D.Interpolate;
+
+        if (!vue.orthographic) return;
+        // Cadre le vrai point de depart avant la premiere image, sans rattrapage amorti.
+        float demiLargeur = vue.orthographicSize * vue.aspect;
+        Vector3 position = transform.position;
+        position.x = Mathf.Max(limiteGauche,
+            joueur.position.x + (0.5f - positionEcran) * demiLargeur * 2f);
+        position.y = Mathf.Max(limiteBasse + vue.orthographicSize,
+            joueur.position.y + decalageVertical);
+        transform.position = position;
+        hauteurInitiale = position.y;
+        vitesseSuivi = Vector2.zero;
     }
 
     // Limite physique lorsque la camera atteint sa position minimale.

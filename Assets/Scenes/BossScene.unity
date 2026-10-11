@@ -384,6 +384,7 @@ MonoBehaviour:
   amortissement: 0.18
   zoneVerticale: 2
   margeBord: 0.05
+  decalageVertical: 0.05
 --- !u!1 &593092730
 GameObject:
   m_ObjectHideFlags: 0
