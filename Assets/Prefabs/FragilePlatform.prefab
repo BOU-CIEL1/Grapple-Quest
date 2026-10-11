@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 1327408248797374791}
   - component: {fileID: 2929876113833028930}
   - component: {fileID: -7836050905307348423}
+  - component: {fileID: -2332224162316529104}
   m_Layer: 0
   m_Name: FragilePlatform
   m_TagString: Untagged
@@ -166,3 +167,15 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &-2332224162316529104
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3397596473659374818}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 524bb930a91431b4c9d01e3ac3a61e5d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
