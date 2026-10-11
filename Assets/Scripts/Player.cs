@@ -29,6 +29,8 @@ public class Player : MonoBehaviour
         corps = GetComponent<Rigidbody2D>();
         sprites = GetComponentsInChildren<SpriteRenderer>();
         animateur = GetComponentInChildren<Animator>();
+        foreach (BossCollision boss in Object.FindObjectsByType<BossCollision>(FindObjectsSortMode.None))
+            boss.IgnorerJoueur(this);
     }
 
     private void OnCollisionEnter2D(Collision2D collision) => ToucherEnnemi(collision.collider);

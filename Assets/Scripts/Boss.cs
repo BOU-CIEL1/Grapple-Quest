@@ -52,6 +52,7 @@ public class Boss : MonoBehaviour
     private static readonly int Boomerang = Animator.StringToHash("Base Layer.Boomerang");
     private static readonly int Explosion = Animator.StringToHash("Base Layer.Explosion");
     private static readonly int Summon = Animator.StringToHash("Base Layer.Summon");
+    private static readonly int Death = Animator.StringToHash("Base Layer.Death");
 
     public int PvMax => pvMax;
     public int PvActuels => pvActuels;
@@ -241,8 +242,24 @@ public class Boss : MonoBehaviour
         if (EstMort)
         {
             ArreterSorts();
-            if (animateur != null && animateur.HasState(0, Idle))
-                animateur.Play(Idle, 0, 0f);
+            corps.linearVelocity = Vector2.zero;
+            corps.simulated = false;
+            foreach (Collider2D collision in GetComponentsInChildren<Collider2D>())
+                collision.enabled = false;
+            if (animateur != null && animateur.HasState(0, Death))
+                StartCoroutine(JouerMort());
+        }
+    }
+
+    private IEnumerator JouerMort()
+    {
+        yield return JouerUneFois(Death);
+        // Garde la derniere image, meme si le clip importe est configure en boucle.
+        if (animateur != null)
+        {
+            animateur.Play(Death, 0, 0.999999f);
+            animateur.Update(0f);
+            animateur.speed = 0f;
         }
     }
 
