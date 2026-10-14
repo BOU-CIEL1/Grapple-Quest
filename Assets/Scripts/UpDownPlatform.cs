@@ -1,56 +1,49 @@
-using System.Collections;
 using UnityEngine;
 
+[RequireComponent(typeof(Rigidbody2D))]
 public class UpDownPlatform : MonoBehaviour
 {
-    public float vitesse = 3f;
-    public float attente = 2f;
-    public float distance = 3f;
-    
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    [Min(0f)] public float vitesse = 3f;
+    [Min(0f)] public float attente = 2f;
+    [Min(0f)] public float distance = 3f;
+
+    private Rigidbody2D corps;
+    private Vector2 positionHaute;
+    private Vector2 positionBasse;
+    private bool descend = true;
+    private float attenteRestante;
+
+    private void Awake()
     {
-        StartCoroutine(WaitUpDown());
+        corps = GetComponent<Rigidbody2D>();
+        corps.bodyType = RigidbodyType2D.Kinematic;
+        corps.interpolation = RigidbodyInterpolation2D.Interpolate;
+        positionHaute = corps.position;
+        positionBasse = positionHaute + Vector2.down * distance;
     }
 
-    // Update is called once per frame
-    void Update()
+    private void FixedUpdate()
     {
-
-        // Faire monter et descendre les plateformes en continu
-        // La faire descendre pendant une durée précise
-        
-        // La faire s'arrêter une durée précise
-        // La faire remonter une durée précise
-        
-    }
-
-    IEnumerator WaitUpDown()
-    {
-        while (true)
+        // Un MovePosition par pas, meme a l'arret, pour ne pas garder de vitesse residuelle.
+        Vector2 prochainePosition = corps.position;
+        if (attenteRestante > 0f)
+            attenteRestante = Mathf.Max(0f, attenteRestante - Time.fixedDeltaTime);
+        else
         {
-            float tempsEcoule = 0f;
-            float tempsTrajet = distance / vitesse;
-
-            while (tempsEcoule < tempsTrajet)
+            Vector2 cible = descend ? positionBasse : positionHaute;
+            prochainePosition = Vector2.MoveTowards(corps.position, cible,
+                Mathf.Max(0f, vitesse) * Time.fixedDeltaTime);
+            if (prochainePosition == cible)
             {
-                transform.Translate(Vector2.down * Time.deltaTime * vitesse);
-                tempsEcoule += Time.deltaTime;
-                yield return null;
+                descend = !descend;
+                attenteRestante = Mathf.Max(0f, attente);
             }
-
-            yield return new WaitForSeconds(attente);
-
-            tempsEcoule = 0f;
-            while(tempsEcoule < tempsTrajet)
-            {
-                transform.Translate(Vector2.up * Time.deltaTime * vitesse);
-                tempsEcoule += Time.deltaTime;
-                yield return null;
-            }
-
-            yield return new WaitForSeconds(attente);
-
         }
+        corps.MovePosition(prochainePosition);
+    }
+
+    private void OnDisable()
+    {
+        if (corps != null) corps.linearVelocity = Vector2.zero;
     }
 }

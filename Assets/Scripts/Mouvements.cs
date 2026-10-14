@@ -35,6 +35,8 @@ public class Mouvements : MonoBehaviour
     private void Awake()
     {
         corps = GetComponent<Rigidbody2D>();
+        // Detecte l'impact sur le trajet de chute, avant de penetrer dans le sol.
+        corps.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
         grappin = GetComponent<Grapple>();
         corps.gravityScale = graviteJoueur;
         collision = GetComponent<CapsuleCollider2D>();
