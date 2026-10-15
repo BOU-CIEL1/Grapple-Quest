@@ -23,14 +23,15 @@ public class Grapple : MonoBehaviour
     [SerializeField, Min(0.1f)] private float vitesseRetraction = 6f;
     [SerializeField, Min(0.1f)] private float longueurMin = 1.2f;
 
-    [Header("Main et sprite")]
+    [Header("Main et animation")]
     [Tooltip("Optionnel : un enfant du joueur place sur sa main droite.")]
     [SerializeField] private Transform main;
     [Tooltip("Position locale de la main droite, miroir automatique a gauche.")]
     [SerializeField] private Vector2 positionMain = new Vector2(0.085f, -0.005f);
-    [SerializeField] private Sprite spriteGrappin;
-    [SerializeField, Min(0.01f)] private float tailleVisuel = 0.8f;
-    [SerializeField] private float angleSprite = -135f;
+    [SerializeField] private RuntimeAnimatorController animationGrappin;
+    [SerializeField, Min(0.01f)] private float echelleAnimation = 6.24f;
+    [Tooltip("Point de depart du manche dans le repere du sprite importe.")]
+    [SerializeField] private Vector2 pivotAnimation = new Vector2(0f, 0.16f);
     [SerializeField, Min(0.001f)] private float epaisseurCorde = 0.045f;
     [SerializeField] private Color couleurCorde = new Color(0.35f, 0.25f, 0.15f);
 
@@ -42,6 +43,8 @@ public class Grapple : MonoBehaviour
     private Mouvements mouvements;
     private SpriteRenderer spriteJoueur;
     private SpriteRenderer crochet;
+    private Animator animateurCrochet;
+    private bool animationEnCours;
     private LineRenderer corde;
     private Material materiauCorde;
     private DistanceJoint2D articulation;
@@ -51,7 +54,6 @@ public class Grapple : MonoBehaviour
     private readonly List<RaycastHit2D> impacts = new List<RaycastHit2D>(32);
     private Vector2 tete;
     private Vector2 directionLancer;
-    private Vector2 directionVisee = Vector2.right;
     private Vector2 cibleClic;
     private float distanceParcourue;
     private bool clicDemande;
@@ -96,8 +98,6 @@ public class Grapple : MonoBehaviour
         Plane plan = new Plane(Vector3.forward, transform.position);
         if (!plan.Raycast(rayon, out float distance)) return;
         Vector2 cible = rayon.GetPoint(distance);
-        Vector2 visee = cible - PositionMain();
-        if (visee.sqrMagnitude > 0.0001f) directionVisee = visee.normalized;
         if (souris.leftButton.wasPressedThisFrame && !surInterface)
         {
             cibleClic = cible;
@@ -155,6 +155,7 @@ public class Grapple : MonoBehaviour
         directionLancer = visee.normalized;
         distanceParcourue = 0f;
         Etat = EtatGrappin.Lance;
+        JouerAnimation();
     }
 
     private void Avancer()
@@ -250,6 +251,7 @@ public class Grapple : MonoBehaviour
         articulation.distance = Mathf.Max(0.1f, Vector2.Distance(corps.position, tete));
         articulation.enabled = true;
         Etat = EtatGrappin.Accroche;
+        ArreterAnimation();
         if (mouvements != null) mouvements.ConserverElanGrappin();
     }
 
@@ -303,9 +305,14 @@ public class Grapple : MonoBehaviour
 
     private void CreerVisuels()
     {
-        crochet = new GameObject("Crochet visuel").AddComponent<SpriteRenderer>();
+        crochet = new GameObject("Animation du grappin").AddComponent<SpriteRenderer>();
         crochet.transform.SetParent(transform, false);
-        crochet.sprite = spriteGrappin;
+        crochet.enabled = false;
+        animateurCrochet = crochet.gameObject.AddComponent<Animator>();
+        animateurCrochet.runtimeAnimatorController = animationGrappin;
+        animateurCrochet.applyRootMotion = false;
+        animateurCrochet.cullingMode = AnimatorCullingMode.AlwaysAnimate;
+        animateurCrochet.enabled = false;
         corde = new GameObject("Corde du grappin").AddComponent<LineRenderer>();
         corde.transform.SetParent(transform, false);
         corde.useWorldSpace = true;
@@ -324,33 +331,44 @@ public class Grapple : MonoBehaviour
         corde.enabled = false;
     }
 
+    private void JouerAnimation()
+    {
+        if (animationGrappin == null) return;
+        animationEnCours = true;
+        animateurCrochet.enabled = true;
+        animateurCrochet.Play("Base Layer.Grapple_Hit", 0, 0f);
+        animateurCrochet.Update(0f);
+    }
+
+    private void ArreterAnimation()
+    {
+        animationEnCours = false;
+        if (animateurCrochet != null) animateurCrochet.enabled = false;
+        if (crochet != null) crochet.enabled = false;
+    }
+
     private void LateUpdate()
     {
         if (crochet == null || corde == null) return;
+        if (animationEnCours && animateurCrochet.GetCurrentAnimatorStateInfo(0).normalizedTime >= 1f)
+            ArreterAnimation();
         bool visible = isActiveAndEnabled && (joueur == null || !joueur.EstMort)
             && (spriteJoueur == null || spriteJoueur.enabled);
-        crochet.enabled = visible;
-        corde.enabled = visible && Etat != EtatGrappin.EnMain;
+        crochet.enabled = visible && animationEnCours && !EstAccroche;
+        corde.enabled = visible && EstAccroche;
         Vector2 depart = PositionMain();
-        Vector2 positionTete = Etat == EtatGrappin.EnMain ? depart : tete;
+        Vector2 positionTete = tete;
         if (EstAccroche && anneau != null) positionTete = anneau.Position;
-        Vector2 orientation = Etat == EtatGrappin.EnMain ? directionVisee
-            : Etat == EtatGrappin.Lance ? directionLancer : positionTete - depart;
-        if (orientation.sqrMagnitude < 0.0001f) orientation = directionLancer;
+        // L'animation reste sur la main, orientee selon le clic initial meme pendant le retour.
+        Vector2 orientation = directionLancer;
         if (orientation.sqrMagnitude < 0.0001f) orientation = Vector2.right;
-        orientation.Normalize();
-        Vector2 centre = positionTete + orientation * tailleVisuel
-            * (Etat == EtatGrappin.EnMain ? 0.25f : -0.25f);
-        crochet.transform.position = new Vector3(centre.x, centre.y, transform.position.z);
         crochet.transform.rotation = Quaternion.Euler(0f, 0f,
-            Mathf.Atan2(orientation.y, orientation.x) * Mathf.Rad2Deg + angleSprite);
-        if (spriteGrappin != null)
-        {
-            float echelle = tailleVisuel / Mathf.Max(0.001f, spriteGrappin.bounds.size.x);
-            Vector3 parentScale = transform.lossyScale;
-            crochet.transform.localScale = new Vector3(echelle / Mathf.Max(0.001f, Mathf.Abs(parentScale.x)),
-                echelle / Mathf.Max(0.001f, Mathf.Abs(parentScale.y)), 1f);
-        }
+            Mathf.Atan2(orientation.y, orientation.x) * Mathf.Rad2Deg);
+        Vector3 parentScale = transform.lossyScale;
+        crochet.transform.localScale = new Vector3(echelleAnimation / Mathf.Max(0.001f, Mathf.Abs(parentScale.x)),
+            echelleAnimation / Mathf.Max(0.001f, Mathf.Abs(parentScale.y)), 1f);
+        Vector3 pivot = crochet.transform.rotation * (Vector3)(pivotAnimation * echelleAnimation);
+        crochet.transform.position = new Vector3(depart.x, depart.y, transform.position.z) - pivot;
         if (spriteJoueur != null)
         {
             crochet.sortingLayerID = corde.sortingLayerID = spriteJoueur.sortingLayerID;
@@ -373,7 +391,7 @@ public class Grapple : MonoBehaviour
         anneau = null;
         collisionAnneau = null;
         Etat = EtatGrappin.EnMain;
-        if (crochet != null) crochet.enabled = false;
+        ArreterAnimation();
         if (corde != null) corde.enabled = false;
     }
 

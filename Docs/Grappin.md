@@ -1,10 +1,17 @@
 # Grappin
 
-Le prefab `Player` porte deja `Grapple`, avec le sprite importe. Tous les anneaux
+Le prefab `Player` porte deja `Grapple`, avec l'animation `Grapple_Hit` issue de
+`Assets/Imports/Sprite-1.ase`. Aucun crochet statique n'est affiche au repos.
+Tous les anneaux
 du prefab `GrappleClipChained` portent `GrappleAnchor` sur l'enfant `GrappleClip`.
 Les instances existantes de ces prefabs heritent de ces modifications.
 
 - Clic gauche : lancer en ligne droite vers la position du curseur au clic.
+- Sans accroche : l'animation se joue une seule fois sur la main, orientee vers
+  le clic, a la place de la corde. Elle finit meme si le retour physique est
+  deja termine ; un nouveau lancer la redemarre.
+- A l'accroche : l'animation s'arrete et la corde devient visible. Au decrochage,
+  la corde disparait ; l'animation d'attaque n'est pas relancee.
 - Retour automatique apres 12 unites de trajet, si la corde du lancer depasse
   12 unites, ou au contact d'un obstacle non accrochable.
 - Anneau : corde physique, Q/D ou les fleches pour prendre de l'elan.
@@ -33,8 +40,10 @@ Selectionner le prefab `Player`, composant `Grapple` :
 - `Position Main` : placement local sur la main droite, miroir a gauche.
   Valeur initiale `(0.085, -0.005)` adaptee a l'echelle actuelle de 7.1.
   `Main` permet de remplacer ce placement par un Transform enfant.
-- `Taille Visuel`, `Angle Sprite` : taille en unites monde et orientation de
-  l'asset. Le sprite actuel pointe vers le haut a gauche, d'ou `-135` degres.
+- `Animation Grappin` : controleur `Grapple`, qui joue `Grapple_Hit` sans boucle.
+- `Echelle Animation` : echelle monde du dessin (6.24 par defaut).
+- `Pivot Animation` : origine du manche dans le repere importe, `(0, 0.16)`
+  pour `Sprite-1`. Ce point est aligne sur la main dans toutes les directions.
 - `Vitesse Lancer`, `Vitesse Retour`, `Portee Max`, `Rayon Impact` : sensations
   du lancer. Un rayon un peu plus grand facilite la visee des petits anneaux.
 - `Epaisseur Corde`, `Couleur Corde` : aspect de la corde.
@@ -59,12 +68,14 @@ conservent leur Rigidbody2D : l'accroche suit son mouvement.
 ## Essai dans Level1
 
 1. Attendre l'import et verifier que la Console n'a aucune erreur.
-2. Lancer Play et viser un anneau au clic gauche. Verifier le placement en main
-   a droite et a gauche ; ajuster `Position Main` si necessaire sur les animations.
+2. Lancer Play : aucun crochet ne doit apparaitre au repos. Tirer a droite et
+   a gauche : l'animation doit partir de la main ; ajuster `Position Main`,
+   `Pivot Animation` ou `Echelle Animation` si necessaire.
 3. Sauter, s'accrocher, prendre de l'elan avec Q/D, puis cliquer pour se lacher.
    Tester aussi un anneau au-dessus : maintenir clic droit pour monter, relacher
    pour garder la longueur obtenue, puis clic gauche pour se lacher avec de l'elan.
-4. Tirer dans le vide et dans une plateforme : le crochet doit revenir.
+4. Tirer dans le vide et dans une plateforme : une seule animation, sans corde.
+   Viser un anneau : la corde doit apparaitre uniquement une fois accroche.
 5. Tirer sur un ennemi : il doit disparaitre apres 2 a 4 coups pour ses 12 PV
    par defaut. Verifier aussi pause et mort pendant une accroche.
 6. Tirer trois fois sur BigRock : il tremble sur les deux premiers coups puis

@@ -53,6 +53,10 @@ public class GrappleTests
         grappin = joueur.AddComponent(Script("Grapple"));
         joueur.AddComponent(Script("Player"));
         Ecrire(grappin, "positionMain", new Vector2(0.25f, 0f));
+#if UNITY_EDITOR
+        Ecrire(grappin, "animationGrappin", UnityEditor.AssetDatabase.LoadAssetAtPath<RuntimeAnimatorController>(
+            "Assets/Animation/Grapple.controller"));
+#endif
         joueur.SetActive(true);
         Physics2D.SyncTransforms();
     }
@@ -108,7 +112,7 @@ public class GrappleTests
         Assert.That(tete.x, Is.GreaterThan(0.25f));
         Assert.That(tete.y, Is.EqualTo(0f).Within(0.001f));
         // Le curseur peut changer sans rediriger le projectile.
-        Ecrire(grappin, "directionVisee", Vector2.up);
+        Ecrire(grappin, "cibleClic", Vector2.up);
         JusquAuContact();
         Assert.That(Etat, Is.EqualTo("Retour"));
         Assert.That(Vector2.Distance((Vector2)Lire(grappin, "tete"), new Vector2(0.25f, 0f)),
@@ -436,17 +440,96 @@ public class GrappleTests
     }
 
     [Test]
-    public void MainEtGrappinVisuelSuiventLeSensDuJoueur()
+    public void AucunCrochetNiCordeAuRepos()
     {
-        Ecrire(grappin, "directionVisee", Vector2.right);
         Appeler(grappin, "LateUpdate");
         SpriteRenderer visuel = (SpriteRenderer)Lire(grappin, "crochet");
-        Assert.That(visuel.transform.position.x, Is.GreaterThan(0.25f));
-        corps.GetComponent<SpriteRenderer>().flipX = true;
-        Ecrire(grappin, "directionVisee", Vector2.left);
-        Appeler(grappin, "LateUpdate");
-        Assert.That(visuel.transform.position.x, Is.LessThan(-0.25f));
+        Assert.That(visuel.enabled, Is.False);
+        Assert.That(((LineRenderer)Lire(grappin, "corde")).enabled, Is.False);
         Assert.That(visuel.GetComponent<Rigidbody2D>(), Is.Null);
         Assert.That(visuel.GetComponent<Collider2D>(), Is.Null);
     }
+
+#if UNITY_EDITOR
+    [Test]
+    public void LancerRateJoueLAnimationUneFoisSansCordeMemeApresLeRetour()
+    {
+        Lancer(new Vector2(100f, 0f));
+        Appeler(grappin, "LateUpdate");
+        SpriteRenderer visuel = (SpriteRenderer)Lire(grappin, "crochet");
+        Animator animation = visuel.GetComponent<Animator>();
+        Assert.That(visuel.enabled, Is.True);
+        Assert.That(visuel.sprite, Is.Not.Null);
+        Sprite premiereImage = visuel.sprite;
+        animation.Update(0.2f);
+        Assert.That(visuel.sprite, Is.Not.EqualTo(premiereImage));
+        JusquAuContact();
+        for (int i = 0; i < 100 && Etat != "EnMain"; i++) Pas();
+        Appeler(grappin, "LateUpdate");
+        Assert.That(Etat, Is.EqualTo("EnMain"));
+        Assert.That(visuel.enabled, Is.True, "Le retour physique ne coupe pas l'animation.");
+        Assert.That(((LineRenderer)Lire(grappin, "corde")).enabled, Is.False);
+        animation.Update(1f);
+        Appeler(grappin, "LateUpdate");
+        Assert.That(visuel.enabled, Is.False);
+        Assert.That(animation.enabled, Is.False);
+        Lancer(new Vector2(100f, 0f));
+        Appeler(grappin, "LateUpdate");
+        Assert.That(visuel.enabled, Is.True);
+        Assert.That(visuel.sprite, Is.EqualTo(premiereImage));
+    }
+
+    [Test]
+    public void AccrocheRemplaceLAnimationParLaCordePuisDecrochageMasqueLesDeux()
+    {
+        Anneau(new Vector2(4f, 0f));
+        Lancer(new Vector2(4f, 0f));
+        JusquAuContact();
+        Appeler(grappin, "LateUpdate");
+        SpriteRenderer visuel = (SpriteRenderer)Lire(grappin, "crochet");
+        LineRenderer corde = (LineRenderer)Lire(grappin, "corde");
+        Assert.That(Etat, Is.EqualTo("Accroche"));
+        Assert.That(visuel.enabled, Is.False);
+        Assert.That(visuel.GetComponent<Animator>().enabled, Is.False);
+        Assert.That(corde.enabled, Is.True);
+        Assert.That(corps.GetComponent<DistanceJoint2D>().enabled, Is.True);
+        Assert.That(Vector2.Distance(corde.GetPosition(1), new Vector2(4f, 0f)), Is.LessThan(0.001f));
+        Appeler(grappin, "CommencerRetour");
+        Appeler(grappin, "LateUpdate");
+        Assert.That(visuel.enabled, Is.False);
+        Assert.That(corde.enabled, Is.False);
+        Assert.That(corps.GetComponent<DistanceJoint2D>().enabled, Is.False);
+    }
+
+    [Test]
+    public void AnimationSuitLaMainEtGardeLaDirectionDuClic()
+    {
+        Lancer(new Vector2(100f, 0f));
+        Appeler(grappin, "LateUpdate");
+        SpriteRenderer visuel = (SpriteRenderer)Lire(grappin, "crochet");
+        Vector2 pivot = (Vector2)Lire(grappin, "pivotAnimation");
+        Assert.That(Vector2.Distance(visuel.transform.TransformPoint(pivot), new Vector2(0.25f, 0f)),
+            Is.LessThan(0.001f));
+        corps.GetComponent<SpriteRenderer>().flipX = true;
+        Appeler(grappin, "LateUpdate");
+        Assert.That(Vector2.Distance(visuel.transform.TransformPoint(pivot), new Vector2(-0.25f, 0f)),
+            Is.LessThan(0.001f));
+        Assert.That(Vector2.Dot(visuel.transform.right, Vector2.right), Is.GreaterThan(0.99f));
+        Appeler(grappin, "Reinitialiser");
+        Lancer(new Vector2(-100f, 0f));
+        Appeler(grappin, "LateUpdate");
+        Assert.That(Vector2.Dot(visuel.transform.right, Vector2.left), Is.GreaterThan(0.99f));
+    }
+
+    [Test]
+    public void DesactiverLeGrappinMasqueAnimationEtCorde()
+    {
+        Lancer(new Vector2(100f, 0f));
+        Appeler(grappin, "LateUpdate");
+        ((Behaviour)grappin).enabled = false;
+        Assert.That(((SpriteRenderer)Lire(grappin, "crochet")).enabled, Is.False);
+        Assert.That(((LineRenderer)Lire(grappin, "corde")).enabled, Is.False);
+        Assert.That(((SpriteRenderer)Lire(grappin, "crochet")).GetComponent<Animator>().enabled, Is.False);
+    }
+#endif
 }

@@ -80,9 +80,9 @@ MonoBehaviour:
   longueurMin: 1.2
   main: {fileID: 0}
   positionMain: {x: 0.085, y: -0.005}
-  spriteGrappin: {fileID: 418384413, guid: 58ebc2d7905c7eb4788d88ef0f27ce49, type: 3}
-  tailleVisuel: 0.8
-  angleSprite: -135
+  animationGrappin: {fileID: 9100000, guid: 4a9cc671d4d629948a403e0074cbcee0, type: 2}
+  echelleAnimation: 6.24
+  pivotAnimation: {x: 0, y: 0.16}
   epaisseurCorde: 0.045
   couleurCorde: {r: 0.35, g: 0.25, b: 0.15, a: 1}
 --- !u!212 &2612325093655879437
@@ -188,7 +188,7 @@ Rigidbody2D:
     m_Bits: 0
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 0
 --- !u!70 &4535636543929039512
 CapsuleCollider2D:
