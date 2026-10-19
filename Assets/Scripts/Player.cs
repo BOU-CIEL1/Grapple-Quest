@@ -2,6 +2,8 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+// Restaure la position avant l'initialisation du grappin et de la camera.
+[DefaultExecutionOrder(-20)]
 [DisallowMultipleComponent]
 [RequireComponent(typeof(Rigidbody2D))]
 public class Player : MonoBehaviour
@@ -21,12 +23,30 @@ public class Player : MonoBehaviour
     private bool pauseEnCours;
     private float tempsAvantMort;
     private Coroutine clignotement;
+    private Vector3? positionCheckpoint;
+    private static Vector3? checkpointAuRechargement;
+    private static string sceneAuRechargement;
 
     [SerializeField] private GameObject gameOverPanel;
+
+    [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.SubsystemRegistration)]
+    private static void ReinitialiserCheckpoint()
+    {
+        checkpointAuRechargement = null;
+        sceneAuRechargement = null;
+    }
 
     private void Awake()
     {
         corps = GetComponent<Rigidbody2D>();
+        if (checkpointAuRechargement.HasValue && sceneAuRechargement == gameObject.scene.path)
+        {
+            positionCheckpoint = checkpointAuRechargement;
+            transform.position = positionCheckpoint.Value;
+            corps.position = positionCheckpoint.Value;
+        }
+        // Seul le bouton de reapparition transmet un checkpoint au prochain chargement.
+        ReinitialiserCheckpoint();
         sprites = GetComponentsInChildren<SpriteRenderer>();
         animateur = GetComponentInChildren<Animator>();
         foreach (BossCollision boss in Object.FindObjectsByType<BossCollision>(FindObjectsSortMode.None))
@@ -144,9 +164,21 @@ public class Player : MonoBehaviour
             gameOverPanel.SetActive(true);
     }
 
-    // A relier au futur bouton dans Button > On Click().
+    public bool EstCheckpointActif(Vector3 position) =>
+        positionCheckpoint.HasValue && positionCheckpoint.Value == position;
+
+    public bool ActiverCheckpoint(Vector3 position)
+    {
+        if (EstMort || EstCheckpointActif(position)) return false;
+        positionCheckpoint = position;
+        return true;
+    }
+
+    // Le bouton existant recharge le niveau avec les PV et les controles reinitialises.
     public void RecommencerJeu()
     {
+        checkpointAuRechargement = positionCheckpoint;
+        sceneAuRechargement = gameObject.scene.path;
         pauseEnCours = false;
         Time.timeScale = 1f;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
