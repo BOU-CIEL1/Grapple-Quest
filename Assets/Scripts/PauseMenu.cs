@@ -7,7 +7,7 @@ public class PauseMenu : MonoBehaviour
     public static bool gameIsPaused = false;
 
     public GameObject pauseMenuUI;
-    public static GameObject pauseMenuStaticUI;
+    public GameObject settingsWindow;
 
 
 
@@ -53,6 +53,17 @@ public class PauseMenu : MonoBehaviour
 
         AudioManager.Instance.ResumeMusic();
     }
+
+    public void OpenSettingsWindow()
+    {
+        settingsWindow.SetActive(true);
+    }
+
+    public void CloseSettingsWindow()
+    {
+        settingsWindow.SetActive(false);
+    }
+
 
     public void LoadMainMenu()
     {
