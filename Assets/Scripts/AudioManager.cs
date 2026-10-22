@@ -1,5 +1,6 @@
 using Unity.VectorGraphics;
 using UnityEngine;
+using UnityEngine.Audio;
 using UnityEngine.SceneManagement;
 
 public class AudioManager : MonoBehaviour
@@ -8,6 +9,7 @@ public class AudioManager : MonoBehaviour
     public AudioClip[] playlist;
     public AudioSource audioSource;
     private float musicTime = 0f;
+    public AudioMixerGroup sfxMixer;
 
 
     private void Awake()
@@ -97,6 +99,18 @@ public class AudioManager : MonoBehaviour
     {
         audioSource.clip = playlist[4];
         audioSource.Play();
+    }
+
+    public AudioSource PlayClipAt(AudioClip clip, Vector3 pos)
+    {
+        GameObject tempGameObject = new GameObject("tempAudio");
+        tempGameObject.transform.position = pos;
+        AudioSource audioSource = tempGameObject.AddComponent<AudioSource>();
+        audioSource.clip = clip;
+        audioSource.outputAudioMixerGroup = sfxMixer;
+        audioSource.Play();
+        Destroy(tempGameObject, clip.length);
+        return audioSource;
     }
 
 }

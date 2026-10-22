@@ -5,6 +5,7 @@ public class CollectCoin : MonoBehaviour
 {
     // Empêche de compter plusieurs fois la même pièce.
     private bool collected;
+    public AudioClip sound;
 
     private void Awake()
     {
@@ -23,6 +24,8 @@ public class CollectCoin : MonoBehaviour
         if (player == null)
             return;
 
+        // Jouer l'effet sonore de la pièce
+        AudioManager.Instance.PlayClipAt(sound, transform.position);
         // Ajoute une pièce au compteur du joueur.
         collected = true;
         player.AddCoin();

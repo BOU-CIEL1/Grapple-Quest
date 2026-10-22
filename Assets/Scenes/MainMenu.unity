@@ -1583,6 +1583,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: cf18c46bf9f704645bd6e31a7abe095d, type: 3}
   - {fileID: 8300000, guid: a71ed38e8f5d82940b93b88446aef896, type: 3}
   audioSource: {fileID: 2100099254}
+  sfxMixer: {fileID: -3315147310023306965, guid: 6e7dfe4e3d1046b479986777a950f735, type: 2}
 --- !u!82 &2100099254
 AudioSource:
   m_ObjectHideFlags: 0
