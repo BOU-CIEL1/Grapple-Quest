@@ -10,6 +10,8 @@ public class SettingsMenu : MonoBehaviour
     public AudioMixer audioMixer;
     private Resolution[] resolutions;
     public TMP_Dropdown resolutionsDropdown;
+    public Slider musicSlider;
+    public Slider sfxSlider;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -35,6 +37,13 @@ public class SettingsMenu : MonoBehaviour
         resolutionsDropdown.RefreshShownValue();
 
         Screen.fullScreen = true;
+
+        audioMixer.GetFloat("Music", out float cacaValueForSlider);
+        musicSlider.value = cacaValueForSlider;
+
+        audioMixer.GetFloat("SFX", out float sfxValueForSlider);
+        sfxSlider.value = sfxValueForSlider;
+
     }
 
     // Update is called once per frame
