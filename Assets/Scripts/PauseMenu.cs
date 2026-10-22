@@ -7,8 +7,10 @@ public class PauseMenu : MonoBehaviour
     public static bool gameIsPaused = false;
 
     public GameObject pauseMenuUI;
-    
-    
+    public static GameObject pauseMenuStaticUI;
+
+
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -37,6 +39,9 @@ public class PauseMenu : MonoBehaviour
         pauseMenuUI.SetActive(true);
         Time.timeScale = 0;
         gameIsPaused = true;
+
+        AudioManager.Instance.PauseMusic();
+        AudioManager.Instance.PlayPauseMenuMusic();
     }
 
     public void Resume()
@@ -45,6 +50,8 @@ public class PauseMenu : MonoBehaviour
         pauseMenuUI.SetActive(false);
         Time.timeScale = 1;
         gameIsPaused = false;
+
+        AudioManager.Instance.ResumeMusic();
     }
 
     public void LoadMainMenu()
@@ -53,5 +60,4 @@ public class PauseMenu : MonoBehaviour
         Resume();
         SceneManager.LoadScene("MainMenu");
     }
-
 }
