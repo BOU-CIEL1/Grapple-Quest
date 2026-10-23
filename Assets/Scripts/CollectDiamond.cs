@@ -5,6 +5,7 @@ using UnityEngine;
 public class CollectDiamond : MonoBehaviour
 {
     private bool collected;
+    public AudioClip sound;
 
     private void Awake()
     {
@@ -20,6 +21,7 @@ public class CollectDiamond : MonoBehaviour
         Player player = inventory.GetComponent<Player>();
         if (player != null && player.EstMort) return;
 
+        AudioManager.Instance.PlayClipAt(sound, transform.position);
         // Protege aussi les contacts simultanes de plusieurs colliders du joueur.
         collected = true;
         inventory.AddDiamond();

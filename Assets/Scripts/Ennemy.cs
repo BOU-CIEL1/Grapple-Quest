@@ -32,6 +32,8 @@ public class Ennemy : MonoBehaviour
     private Vector2 origine;
     private static readonly int Speed = Animator.StringToHash("Speed");
     private bool utiliseSpeed;
+    public AudioClip deathSound;
+
 
     private void Awake()
     {
@@ -151,6 +153,7 @@ public class Ennemy : MonoBehaviour
         if (degats <= 0 || EstMort) return;
         PvActuels = Mathf.Max(0, PvActuels - degats);
         if (!EstMort) return;
+        AudioManager.Instance.PlayClipAt(deathSound, transform.position);
         corps.linearVelocity = Vector2.zero;
         corps.simulated = false;
         foreach (Collider2D autre in GetComponentsInChildren<Collider2D>()) autre.enabled = false;

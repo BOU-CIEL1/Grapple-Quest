@@ -17,6 +17,7 @@ public class BigRock : MonoBehaviour
     [SerializeField, Min(0f)] private float frequence = 24f;
     private Vector3 positionRepos;
     private float tempsRestant;
+    public AudioClip sound;
 
     private void Awake()
     {
@@ -38,6 +39,7 @@ public class BigRock : MonoBehaviour
         {
             foreach (Collider2D collision in GetComponentsInChildren<Collider2D>())
                 collision.enabled = false;
+            AudioManager.Instance.PlayClipAt(sound, transform.position);
             gameObject.SetActive(false);
             Destroy(gameObject);
             return;

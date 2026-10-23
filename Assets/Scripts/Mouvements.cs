@@ -31,6 +31,11 @@ public class Mouvements : MonoBehaviour
     private SpriteRenderer sprite;
     private PhysicsMaterial2D materiauJoueur;
 
+    public AudioClip runSound;
+    public AudioClip bouncySound;
+
+
+
     // Initialise les références au chargement du personnage.
     private void Awake()
     {
@@ -93,8 +98,11 @@ public class Mouvements : MonoBehaviour
         Vector2 vitesse = corps.linearVelocity;
         bool accroche = grappin != null && grappin.EstAccroche;
         bool auSol = EstAuSol();
-        if (conserverElan && auSol && !accroche) conserverElan = false;
-        if (accroche)
+        if (conserverElan && auSol && !accroche)
+        {
+            conserverElan = false;
+        }
+            if (accroche)
             vitesse.x += direction * accelerationBalancier * Time.fixedDeltaTime;
         else if (conserverElan)
         {
@@ -105,6 +113,7 @@ public class Mouvements : MonoBehaviour
         }
         else
             vitesse.x = direction * vitesseDeplacement;
+
 
         // Donne une vitesse vers le haut seulement si le personnage touche le sol.
         if (sautDemande && auSol)
@@ -182,6 +191,7 @@ public class Mouvements : MonoBehaviour
         if (collision.gameObject.CompareTag("BouncyPlatform"))
         {
             hauteurSaut = hauteurSautBase * 2f;
+            AudioManager.Instance.PlayClipAt(bouncySound, transform.position);
         }
     }
 

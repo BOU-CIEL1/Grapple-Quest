@@ -27,6 +27,8 @@ public class Player : MonoBehaviour
     private static Vector3? checkpointAuRechargement;
     private static string sceneAuRechargement;
 
+    public AudioClip checkpointSound;
+
     [SerializeField] private GameObject gameOverPanel;
 
     [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.SubsystemRegistration)]
@@ -171,6 +173,7 @@ public class Player : MonoBehaviour
     {
         if (EstMort || EstCheckpointActif(position)) return false;
         positionCheckpoint = position;
+        AudioManager.Instance.PlayClipAt(checkpointSound, transform.position);
         return true;
     }
 

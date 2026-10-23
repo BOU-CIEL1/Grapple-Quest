@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 public class Teleport : MonoBehaviour
 {
     private bool teleportationEnCours;
+    public AudioClip sound;
 
     private void Awake()
     {
@@ -17,6 +18,7 @@ public class Teleport : MonoBehaviour
         if (teleportationEnCours || other.GetComponentInParent<Mouvements>() == null)
             return;
 
+        AudioManager.Instance.PlayClipAt(sound, transform.position);
         teleportationEnCours = true;
         SceneManager.LoadScene("BossScene");
     }

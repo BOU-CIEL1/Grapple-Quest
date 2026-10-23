@@ -12,6 +12,7 @@ public class SettingsMenu : MonoBehaviour
     public TMP_Dropdown resolutionsDropdown;
     public Slider musicSlider;
     public Slider sfxSlider;
+    public GameObject controlsWindow;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -38,8 +39,8 @@ public class SettingsMenu : MonoBehaviour
 
         Screen.fullScreen = true;
 
-        audioMixer.GetFloat("Music", out float cacaValueForSlider);
-        musicSlider.value = cacaValueForSlider;
+        audioMixer.GetFloat("Music", out float musicValueForSlider);
+        musicSlider.value = musicValueForSlider;
 
         audioMixer.GetFloat("SFX", out float sfxValueForSlider);
         sfxSlider.value = sfxValueForSlider;
@@ -72,5 +73,10 @@ public class SettingsMenu : MonoBehaviour
     {
         Resolution resolution = resolutions[resolutionIndex];
         Screen.SetResolution(resolution.width, resolution.height, Screen.fullScreen);
+    }
+
+    public void ControlsButton()
+    {
+        controlsWindow.SetActive(true);
     }
 }

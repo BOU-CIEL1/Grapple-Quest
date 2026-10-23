@@ -55,6 +55,7 @@ MonoBehaviour:
   intervalleClignotement: 0.1
   pauseMort: 1
   vitesseChuteMort: 6
+  checkpointSound: {fileID: 8300000, guid: 4753f5f77c2218c45aeab995ae169275, type: 3}
   gameOverPanel: {fileID: 0}
 --- !u!114 &990002
 MonoBehaviour:
@@ -157,12 +158,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   vitesseDeplacement: 10
+  hauteurSautBase: 2
   hauteurSaut: 2
   graviteJoueur: 2.5
   multiplicateurChute: 1.35
   cameraSuivi: {fileID: 0}
   accelerationBalancier: 18
   accelerationAir: 12
+  runSound: {fileID: 8300000, guid: d53ca07c6516aa047801937f1fc3247d, type: 3}
+  bouncySound: {fileID: 8300000, guid: c7a247fffc024274ea801d2d18ee7089, type: 3}
 --- !u!50 &1414570373160284108
 Rigidbody2D:
   serializedVersion: 5

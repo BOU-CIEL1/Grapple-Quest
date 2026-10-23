@@ -59,6 +59,9 @@ public class Boss : MonoBehaviour
     public int Attaque => attaque;
     public bool EstMort => pvActuels <= 0;
 
+    public AudioClip introSound;
+    public AudioClip deathSound;
+
     private void Awake()
     {
         pvActuels = pvMax;
@@ -79,6 +82,7 @@ public class Boss : MonoBehaviour
     {
         if (hud != null)
             hud.SetActive(true);
+            AudioManager.Instance.PlayClipAt(introSound, transform.position);
         if (!EstMort)
             sorts = StartCoroutine(LancerSorts());
     }
@@ -345,6 +349,7 @@ public class Boss : MonoBehaviour
     private void OnDisable()
     {
         ArreterSorts();
+        AudioManager.Instance.PlayClipAt(deathSound, transform.position);
         if (hud != null)
             hud.SetActive(false);
     }
