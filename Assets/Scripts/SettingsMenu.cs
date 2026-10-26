@@ -79,4 +79,10 @@ public class SettingsMenu : MonoBehaviour
     {
         controlsWindow.SetActive(true);
     }
+
+    public void BackButton()
+    {
+        controlsWindow.SetActive(false);
+    }
+
 }
