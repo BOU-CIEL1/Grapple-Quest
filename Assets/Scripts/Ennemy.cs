@@ -158,6 +158,7 @@ public class Ennemy : MonoBehaviour
         corps.simulated = false;
         foreach (Collider2D autre in GetComponentsInChildren<Collider2D>()) autre.enabled = false;
         gameObject.SetActive(false);
+
         Destroy(gameObject);
     }
 

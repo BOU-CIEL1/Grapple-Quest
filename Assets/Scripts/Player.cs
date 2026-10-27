@@ -201,5 +201,5 @@ public class Player : MonoBehaviour
         if (sprites != null) AfficherSprites(true);
         finInvincibilite = 0f;
         clignotement = null;
-    }
+    } 
 }
